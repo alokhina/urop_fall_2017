@@ -1,0 +1,911 @@
+
+
+GHOST IN THE SHELL (1995) Transcript
+
+
+IN THE NEAR FUTURE - CORPORATE NETWORKS REACH OUT TO THE
+STARS, ELECTRONS AND LIGHT FLOW THROUGHOUT THE UNIVERSE.
+
+THE ADVANCE OF COMPUTERIZATION, HOWEVER, HAS NOT YET WIPED
+OUT NATIONS AND ETHNIC GROUPS.
+
+
+All patrolling air units, a 208 is in progress in the C-13 district of Newport City. Airspace over this area will be closed. Repeat.
+
+
+There's no need for concern. Our country is quite capable of covering its tracks.
+
+That's why you need me, right?
+
+Depends on how you look at it. At any rate, any program has its bugs, and I would think that a man of your capability could cure our problem.
+
+You don't understand. We aren't even sure that Project 2501 really is a bug. Originally, the purpose of this project was to-
+
+Major Kusanagi, Section 6 is in position and ready to move in. Major, are you there?
+
+Yeah, I heard you.
+
+I'm surprised you can hear anything. What's with all the noise in your brain today?
+
+Must be a loose wire.
+
+Don't you think there's gonna be trouble later if Section 9 interferes with Section 6?
+
+If Section 6 manages to catch the bastard, then all they can really do about it is deport him. Don't forget. We're Section 9. We'll clean it up. We're the ones who get our hands dirty.
+
+It's time now. Let's move to the rendezvous point.
+
+
+What? The police here, huh?
+
+Stop it! Who told you to fire? Put your guns down now!
+
+Freeze!
+
+Get your hands up!
+
+I'm entitled to diplomatic immunity. I want to talk to the person in charge here.
+
+Taking classified programmers out of the country compromises national security. We can also have you brought up on kidnapping charges. You have no choice. Let him go.
+
+Not possible. Mr. Daita wants political asylum from us, and we have his signed affidavit.
+
+What?
+
+I don't have to explain. My country has the right, in accordance with international law, to offer anyone protection and safe passage. The affidavit is at the embassy. I'll send you a copy in a couple of days.
+
+Daita, you'll be killed if you return.
+
+I'm warning you to watch your comments. Our country is a peace-loving democracy.
+
+Of course it is.
+
+The window! Shoot!
+
+I don't believe it. Therm-optic camouflage.
+
+
+
+GHOST IN THE SHELL
+
+
+Hello, Aramaki. This is quite a surprise.
+
+So, what business brings the chief of Section 9 to the Ministry of Foreign Affairs?
+
+I need to ask you about the secret talks scheduled with the Gavel Republic tomorrow.
+
+Procedure, of course. Well, the regime that took over Gavel after the revolution demands financial aid, supposedly for redevelopment. They boast democracy, but they're no better than the last lot. Now they feel entitled to funds because of our past exploitation. No gratitude.
+
+What's the Ministry going to do?
+
+Well, there's a problem. The leader of the former junta that controlled their country is here seeking political asylum.
+
+You mean Colonel Malles, correct?
+
+Yes, and that means we either deny Gavel the funds and treat Malles as a political refugee, or help them, and kick him out. Personally, I'm inclined to deport him, forcibly, if necessary, but I'd have to come up with a politically acceptable reason for it.
+
+By the way, I want to thank you for your help with that other political asylum situation. Nakamura from Section 6 wasn't so grateful. But you realize that we in the diplomat business must avoid messy situations.
+
+
+Access. We've lost response. What's happened to the EEG output?
+
+It's normal. I'll switch to Simex mode.
+
+In case you haven't been briefed, this is the minister's interpreter. Twenty-three minutes ago, her brain was hacked into through a data line. Foreign intelligence warned us about this. A hacker called the Puppet Master has begun to infiltrate terminals throughout our network. We believe it's extremely likely that he'll target the secret talks that are scheduled with the Republic of Gavel. As a precaution, we've put everyone attending the talks under surveillance. It's my suspicion that once he hacked into her ghost, he'd use her to assassinate the key delegates.
+
+So how much time do we have before this hacker breaks through her barrier program and reaches her ghost?
+
+Roughly two hours. He's using an old-fashioned HA-3 virus. After that, we'll have to break the connection to avoid any danger to the system.
+
+Bateau and Ishikawa are tracking the signal source from their car. Contact them.
+
+
+You know, I don't know what's going on. Mind filling me in, Major? Are we talkin' about the Puppet Master, the infamous mystery hacker?
+
+Well, we don't know a lot either. No clue about age, sex or background. We think that he or she is American. And it's the first time he's known to show up here. All we know for certain is, this person is on the international most wanted list for crimes including stock manipulation, illegal information gathering, political engineering, several acts of terrorism.
+
+So why the nickname?
+
+The nickname Puppet Master comes from the ghost hacking.
+
+Well, if he's so skilled, how come he's using an outdated HA-3 virus?
+
+Think about it a minute. You have to figure he's either covering his tracks or decoying us. Even though a more current technique would be harder to trace, it might also arouse suspicion about Colonel Malles' role in this affair.
+
+Are you saying that's the reason he's using an old method, just so no one would suspect Malles?
+
+Or maybe this is all an elaborate ruse to make us think in that direction. There's always a chance that Malles is a pawn in this setup.
+
+Now you're stretching it. It's not like you have any hard evidence.
+
+Nope. No evidence. Just a whisper. I hear it in my ghost. Which reminds me. Are you still using that revolver? You should stop worrying about the automatics jamming up.
+
+I like my Matever.
+
+Well, effective stopping power is more important than your preference in guns. Since it's my ass on the line out there, use the Zastaber.
+
+Yes, Major. There's something I've wanted to ask ever since I started. Why did you transfer a guy like me from the police force?
+
+Because we need a guy like you.
+
+Huh?
+
+Number one: You're an honest cop. Number two: You've never stepped out of line. Three: You're a family man. And, except for the slight brain augmentation, your body's almost completely human. If we all reacted the same way, we'd be predictable. And there's always more than one way to view a situation. What's true for the group is also true for the individual. It's simple. Overspecialize and you breed in weakness. It's slow death.
+
+
+Damn it! Come on!
+
+I'll be right there!
+
+For Christ's sake! We're already 40 seconds late. Will ya hurry it up?
+
+Hang on. I'm almost done.
+
+It's gonna be one of those days.
+
+Hey. Sorry, pal.
+
+My last partner got busted workin' as an illegal alien. Couldn't speak English, but he was a lot better than you are.
+
+So what are you trying to find out so bad you gotta ghost-hack into your wife's mind for, huh?
+
+My wife never has any time. Now all of a sudden she wants a divorce. And to make matters worse, my daughter - my only kid - got it in her head that I'm the one cheating on her mom.
+
+What I don't get is, how did you get your hands on a barrier breaker?
+
+From this really nice fella. I was in a bar, and he overheard my sob story. I mentioned that my wife's lawyer stopped me from seeing her and my daughter. He must have felt sorry, because he showed me how to hack in from different places along the route. It's hard to trace.
+
+Asshole! Do you think you own the damn road?
+
+It looks like we're not the only ones who are in a hurry around here.
+
+Nothing! Shit!
+
+What's the point in us breakin' our butts? Every time we get to the source they're already long gone.
+
+We're just wasting our time.
+
+Don't quit yet. Kusanagi and Togusa are heading to the next area the hacker's expected to access from. Stay alert.
+
+What are we looking for, Chief?
+
+Anything.
+
+Like I said, a waste of time.
+
+Damn it all to hell! Oh, shit, I missed him!
+
+Hey, Pop, did you see anyone using the phone over here?
+
+So, who wants to know?
+
+Just answer me. Did you see someone or not?
+
+Yeah, I saw the trashman makin' a call, so I thought I had enough time to bring my garbage down.
+
+Hey! Can't you take this for me?
+
+A trash truck? Clever. It changes location every seven minutes. HQ, patch me target info from the district controlling that truck.
+
+Eight refuse collection vehicles are on duty in the surveillance area. Target is number 58, a type C vehicle.
+
+Give me the wheel.
+
+Ishikawa, go check out the trash collectors' homes. Bateau, cut the truck off at its next stopping point.
+
+It's possible they've come into contact with someone. Follow them, but take no action. Got it?
+
+We've got the data on the refuse collection points. All points correspond to those locations where we traced back the calls. The target has now stopped at the next point. HA-3 access confirmed.
+
+
+Hey, how about if I pick up the trash on the second half of our round, you make the calls? Well?
+
+Ain't no way I'm gonna be your partner in crime. It's your wife. You handle her.
+
+Tell me. You got any children of your own?
+
+You must be kidding.
+
+Then I guess you can't understand how a father would feel about his little girl. She's my beautiful, precious angel. See?
+
+Get away. I'm not interested in crap like that.
+
+Yeah, vehicle 58. Yeah, what can I- What's that? What do the cops want to know our rounds for? How would I know? Why are you asking me?
+
+Oh, my God! They found out! That guy who helped me, I've got to warn him. Listen, we're gonna have to pass up the next pickup.
+
+What?
+
+Target has deviated from route and is heading toward next designated point at increased speed.
+
+It wasn't me. There's no way I could have been spotted.
+
+They probably traced me when I accessed the Sanitation Department network.
+
+Next time, use the back door.
+
+Forget That now. Just arrest them.
+
+You can drive now.
+
+Huh? Whoa.
+
+Hey, they know!
+
+Christ! What the hell's he usin'? That van was armored.
+
+Watch it. He's got high velocity bullets. Your car door won't stop them.
+
+HV ammo in a submachine pistol? He's insane!
+
+This guy's even wearing some kind of therm-optics.
+
+Keep on his tail. I'll come around from the top.
+
+Togusa! If you're still alive, get off your ass and arrest those garbage men.
+
+Affirmative. Yes, sirree, the excitement never stops.
+
+
+That's the freshest in the city at the lowest cost. It's a bargain at twice the price.
+
+Hey!
+
+Police! Everybody get down!
+
+Shit!
+
+Get out of the fucking way!
+
+
+Aw. Out of ammo?
+
+Huh?
+
+Got him, huh? Well, the breech and the barrel are really screwed up. That's what happens when you use HV bullets in one of these things. Oh, yeah.
+
+It's no use arrestin' me. I'm not talkin' to any goddamn cops!
+
+Talk? And just what are you gonna talk about? You don't even know your own name, you stupid dick-head.
+
+Huh?
+
+Can you remember your mother's name or what she looks like? Or how about where you were born? Don't you have any happy childhood memories? Do you even know who you are?
+
+Ghost-hacked humans are so pathetic. It's a shame. And this poor bastard's been hacked pretty badly.
+
+We'll enter after the passengers have gone into the building. Squad B comes in from the rear, and the rest of you go through the front. Saito. Have some of your men unplug all cars parked in front of the house.
+
+Begin recording.
+
+Chief, a message for you from Headquarters.
+
+Bateau here. We've i.d.'d the man the Major caught.
+
+So who is he?
+
+He claims to be Tsuan Gen Fang, age 28. He's had prior convictions of violating immigration law and illegal possession of firearms. A member of a militant immigrant organization. About a week ago, the military attached of the Republic of Gavel Embassy commissioned him. They made their choice based on his criminal record to make an assault on the upcoming secret meeting. They were going to pay him $100,000. Just another fantasy.
+
+And in reality?
+
+His nickname's Corgi. Occupation - Well, let's call him a rather violent trader in questionable goods. Your basic thug. We've already checked out local police records, and no matter how hard we look, we couldn't find any connection with Gavel. The reality is, this guy's just another puppet controlled by the Puppet Master.
+
+I see. And how's Ishikawa doing?
+
+Oh, about the same progress as the rest of us. He's trying to interrogate that poor garbage collector with Togusa. So what's the latest on your Puppet Master? Are you there? Chief? Come in?
+
+He's only a puppet himself.
+
+Squad B in position.
+
+Squads A and C, okay.
+
+All ready and waiting, sir.
+
+Then proceed.
+
+
+What's a simulated experience again?
+
+Well, all your memories about your wife and daughter are false. They're like a dream. Someone's taken advantage of you. They were trying to make you ghost-hack into some government officials. Do you understand what I'm saying?
+
+But that can't be.
+
+I've been to your home. It's a bachelor's apartment. No one's there.
+
+But I already told you. I rented that room when I separated from my wife.
+
+I checked the records. You've been living there over ten years. The truth is, you've never had a wife or kid. Like he said, they aren't real. They're a simulated experience. A fantasy.
+
+Look. This is the photo you showed to your coworker. Who do you see?
+
+I had a picture of her. She was there. She was smiling like an angel.
+
+What's her name? How old is she? Where'd you meet your wife, and when did you marry her? I'm sorry to put you through this, pal. Come on. Who do you see?
+
+If this is all a lie, what happens? Will I get my old memory back?
+
+Your original memory will never be fully restored. And there might be residual simulation. We don't have the technology yet to handle Simex erasures. I'm sorry.
+
+That's all it is. Information. Even a simulated experience or a dream is simultaneous reality and fantasy. Any way you look at it, all the information that a person accumulates in a lifetime is just a drop in the bucket.
+
+
+Just when I thought I'd seen everything in this lifetime, I sit here and watch a cyborg go diving in her spare time. I had no idea that you went in for this kind of stuff.
+
+Isn't there anything that you're afraid of? What if the floaters don't work or something else fails?
+
+I suppose I'll die then. Or would you dive in to rescue me? I didn't beg you to come along, and I sure as hell don't want a lecture.
+
+I-
+
+
+Hey, so tell me, what's it like to swim in the sea?
+
+What do you mean? I thought you'd already been through all of the underwater training courses.
+
+I'm asking about the ocean, not those damn pools.
+
+I feel fear, cold, alone. Sometimes down there I even feel hope.
+
+Hope, huh? In those deep, dark waters?
+
+When I float weightless back to the surface, I imagine I'm becoming someone else. It's probably the decompression.
+
+You want to get out of Section 9. Is that it?
+
+Bateau? How much of your body is original?
+
+Hey, are you drunk or somethin'?
+
+Easily remedied. Thanks to chemical implants in our bodies, we can break down the alcohol in seconds. No stupor, no hangover. We can just toss 'em back while waiting for orders. If man realizes technology is within reach, he achieves it. Like it's damn near instinctive. Look at us, for example. We're state of the art. Controlled metabolisms, computer-enhanced brains, cybernetic bodies. Not long ago, this was science fiction. So what if we can't survive without regular high-level maintenance. Who are we to complain? I suppose an occasional tune-up is a small price to pay for all this.
+
+I'm afraid we've both signed our bodies and ghosts away to Section 9.
+
+True. If we ever quit or retire, we'd have to give back our augmented brains and cyborg bodies. There wouldn't be much left after that. There are countless ingredients that make up the human body and mind. Like all the components that make up me as an individual with my own personality. Sure, I have a face and voice to distinguish myself from others. But my thoughts and memories are unique only to me. And I carry a sense of my own destiny. Each of those things are just a small part of it. I collect information to use in my own way. All of that blends to create a mixture that forms me and gives rise to my conscience. I feel confined, only free to expand myself within boundaries.
+
+Confinement. That's why you gamble swimming with a body that can sink like a rock? What the hell is it that you see at the bottom in that darkness?
+
+What we see now is like a dim image in a mirror. Then we shall see face to face.
+
+That was you, wasn't it?
+
+
+Sensors have resumed functioning.
+
+Connection check to backup brain okay.
+
+Visual sensors are back on line.
+
+And its body functions?
+
+Output is normal.
+
+Next time, either call in or don't show up if you're going to be late!
+
+All ready to connect. Shall we?
+
+That's enough. Stop. Log off now. Good.
+
+Doctor, come to my office when you finish.
+
+Caught in traffic, huh, Major? Guess I'll be nice and bring the latecomer up to speed. About two hours ago, a machining cell at the Newport City factory of Megatech assembled a completed cyber body. Supervisors discovered there were no programmed instructions. It operated by itself. When they investigated, they found the body had taken off on its own. We put a bulletin out and initiated a citywide search. Then some truck driver reported a fatal accident. Said that he'd run over a naked woman on the highway.
+
+Well, I heard that Megatech is contracted by the government. All the cybernetic bodies they make are classified.
+
+If it was a hacker, we're dealing with a big fish that knows how to swim past the best defenses, but that's not the only problem. Of course, there isn't one human brain cell in its head, but something strange was discovered. In its backup brain, there appeared to be every indication that a ghost is present.
+
+It resembles the simulated ghost-line that occurs when a real ghost is copied. But there's no evidence of the degradation that's usually incurred. In any case, we won't be sure until we chart the ghost sector and dive into it. Otherwise, all of this is simply speculation. Well, that's all we know.
+
+Very good.
+
+On to the disassembly.
+
+Man, oh, man. This is too farfetched. Nobody really believes there's a ghost in that body, do they?
+
+Yeah, why not? Even a doll can seem to have a soul. Consider all the neuro-med devices the machining cell crammed into that body. I wouldn't be surprised if there was some sort of ghost in there too. And since you're relatively new to our club, you wouldn't know this, but Major Kusanagi's body was also made by Megatech. And not only the Major's. Parts of me and Ishikawa and Saito. We've all got to have regular cybernetic maintenance. You and the Chief are the only ones out of the whole section whose bodies don't come with a warranty. Maybe now you can understand why we're all so concerned by this case, huh, Togusa?
+
+Assume he's from the outside. He may or may not be in that brain, but one thing is sure. Somebody had to hack through some high-level barriers to put that body together and then send a program with a ghost-line on it.
+
+But that would draw attention to itself. Where's the logic in that?
+
+Theft isn't the issue here. Togusa. Go catch up with Ishikawa. He's going through the Megatech facility. Bateau. I ordered some other high-level nets to be locked down and I want you to check them. Make sure that the barriers are on too. All right?
+
+Chief, I'm assembling a barrier maze. Tomorrow I'll dive into that thing.
+
+You think that's safe? Why not contain it in another body first?
+
+I have to see for myself what's in there. If there is a real ghost, I'm gonna find it. And don't let anybody, no one, dive before I've gone in.
+
+She's moody today.
+
+Today? You know, she's been acting weird from the get go, ever since this whole Puppet Master episode started. It's all in my team reports, if you read them. Chief, you ever question the ethics of the neurosurgeons who monkey around inside your brain?
+
+They undergo psychiatric evaluations, especially those in Security. They're subjected to a stringent screening of their personal lives. Of course, the ones who check are only human.
+
+I guess once you start doubting, there's no end to it.
+
+Chief, I'm sorry to bother you, but Mr. Nakamura of the Treaties Bureau is here to see you. He says it's urgent.
+
+Let him through.
+
+Hey, I've seen that fat guy before.
+
+His name's Nakamura, Section 6 Chief with the Ministry of Foreign Affairs. I don't know the other guy, though. Never seen him.
+
+Hmm? Well, see you later.
+
+Do me a favor. Tell Ishikawa not to go crazy, okay?
+
+Hey, what's on your mind?
+
+That robot. Did we seem similar to you?
+
+Of course not.
+
+No. I don't mean physically.
+
+Just What then?
+
+Well, I guess cyborgs like myself have a tendency to be paranoid about our origins. Sometimes I suspect I'm not who I think I am. Like maybe I died a long time ago, and somebody took my brain and stuck it in this body. Maybe there never was a real me in the first place, and I'm completely synthetic like that thing.
+
+You've got human brain cells in that titanium shell of yours. You're treated like other humans, so stop with the angst.
+
+But that's just it. That's the only thing that makes me feel human: The way I'm treated. I mean, who knows what's inside our heads. Have you ever seen your own brain?
+
+It sounds to me like you're doubting your own ghost.
+
+What if a cyber-brain could possibly generate its own ghost, create a soul all by itself? And if it did, just what would be the importance of being human then?
+
+Hmph. That's bullshit. You know you're dying to see what's inside of that thing, aren't you? And I can't stop you. Neither of us has any idea what's inside there. Just be careful, okay?
+
+
+We're both busy men, so let's keep this short, shall we?
+
+Yes. That's my intention.
+
+We've come for the program in that body. You'll be relieved of any responsibilities connected with it. The Foreign Minister’s approval.
+
+
+Security? Whose official vehicles are in the basement parking lot?
+
+According to the register, a Mr. Nakamura from the Treaties Bureau and a Dr. Willis, sir.
+
+Get me the video records of their entrance.
+
+Again. In infrared this time.
+
+One thousand, one; one thousand, two; one thousand, three.
+
+Now get the records of the pressure sensors for basement parking stalls B8 and B7.
+
+Major, this is Togusa, Code 09.
+
+What's up?
+
+Does that Nakamura guy have a special-order cyborg body?
+
+No, there aren't any cyborgs in Section 6. They don't even ship them to serve overseas because they're too hard to maintain. There's diplomatic considerations too.
+
+Then, even if the other guy that was with him is a cyborg, the two of them together couldn't weigh over 1,000 pounds.
+
+Ah, you checked the pressure sensors in the parking structure, didn't you?
+
+Right, but neither man looks like the type to drive himself. The security cameras show only two people. But remember how sensitive the sensors on the entrance doors are? They took a full three seconds longer than usual to close after the two went in. And it's illegal to use therm-optics inside government facilities.
+
+It's a serious violation of the National Security Act. Section 6 must be up to something. Are you ready?
+
+With my trusty Matever, anytime.
+
+
+Need I remind you that It's an act of treason to withhold information from me relevant to this matter regardless of how classified it is.
+
+Same goes for you.
+
+Whatever the Foreign Ministry's wishes, this falls within Section 9's jurisdiction. Of course, we have no objections to cooperating if we feel there's adequate cause.
+
+Huh?
+
+Well, what is it?
+
+It's confirmed. No doubt. It's him.
+
+"Him"?
+
+Uh, the Doctor is referring to the original pattern of the ghost-line that's now in the body. He's simply speaking in generic terms. The sex of the perpetrator isn't known and remains undetermined. Allow me to introduce you. This is the handiwork of the Puppet Master, infamous as the most extraordinary hacker in the history of cyber crime.
+
+Huh?
+
+Your people at Section 9 came across his work too in that ghost-hacking incident involving the Foreign Minister’s interpreter. Section 6 has been following the trail of the Puppet Master for some time now. This case was given our utmost attention. We put together a project team centered around Dr. Willis. They were assigned to analyze every aspect in detail of our criminal. This gave us a fix on his behavioral and code patterns. Ultimately, this enabled us to devise a strategy with which we lured his program into a designated body.
+
+You caused the Puppet Master to dive into a cyborg, then meanwhile murdered his real body?
+
+Yes, that sums it up. He's originally from America. So the U.S. Cooperated with us in capturing him. That's why we'd like to take him back ourselves. You have no objections to this, I hope.
+
+Hmm? Just another unidentified corpse.
+
+You will not find a corpse, because I have never possessed a body.
+
+Why are his sensors on? What the hell is this?
+
+All external controls are turned off. The body's using its own power source.
+
+I entered this body because I was unable to overcome Section 6's reactive barriers. However, what you are now witnessing is an act of my own free will. As a sentient life-form, I hereby demand political asylum.
+
+Is this a joke?
+
+Ridiculous! It's programmed for self-preservation.
+
+It can also be argued that DNA s nothing more than a program designed to preserve itself. Life has become more complex in the overwhelming sea of information. And life, when organized into species, relies upon genes to be its memory system. So man is an individual only because of his intangible memory. And a memory cannot be defined, but it defines mankind. The advent of computers and the subsequent accumulation of incalculable data has given rise to a new system of memory and thought parallel to your own. Humanity has underestimated the consequences of computerization.
+
+Nonsense! This babble offers no proof at all that you're a living, thinking life-form.
+
+And can you offer me proof of your existence? How can you when neither modern science nor philosophy can explain what life is?
+
+Who the hell is this?
+
+Even if you do have a ghost, we don't offer freedom to criminals. It's the wrong place and time to defect.
+
+Time has been on my side, but by acquiring a body, I am now subject to the possibility of dying. Fortunately, there is no death sentence in this country.
+
+What is it? Artificial intelligence?
+
+Incorrect. I am not an AI. My code name is Project 2501. I am a living, thinking entity who was created in the sea of information.
+
+Security! We're under attack!
+
+Chief! The Puppet Master's gone!
+
+What in God's name are your security officers doing?
+
+Shut the defense walls now! Damn it! Security, answer!
+
+
+You can blow that horn out your ass!
+
+Fuck you!
+
+Did they fall for it?
+
+I fired off six shots at the front And rear windows. She was right again. It was armored.
+
+Finally found a use for your damn Matever, huh? An antique prop in a decoy maneuver.
+
+I nailed the tracker bullet right in the plate. It registers, right?
+
+Yeah. You got 'em. It's rookie's luck. With an automatic you could have buried two trackers. Maintain your position in case they turn off. I'm movin' in.
+
+
+I'm submitting a formal complaint about this through the Ministry of Foreign Affairs. Report to me as soon as you've found the Puppet Master. Intact, you understand? Bodies are a dime a dozen. We'll get him another one from Megatech.
+
+Chief, Kusanagi here. Togusa and Bateau tagged the kidnappers, and they're in pursuit. By now they must be on the R25.
+
+What's going on? If you were monitoring, why didn't you intervene?
+
+Take it easy, Chief. If we grab 'em now, we'll lose our chance to finger Section 6.
+
+What?
+
+Someone's using the same therm-optic camouflage as mine, Type 2902. It's only used by our people, rangers in Section 4 and by Section 6.
+
+I see. So Section 6 forces the Puppet Master to enter a cyborg body-
+
+Through Megatech, who happens to be closely aligned with Section 9. It suddenly demands asylum as a life-form. Then for some unknown reason, Section 6 steps in and pulls some kind of shit.
+
+I'd have handed him over. All I wanted was to take a deposition.
+
+What if they were worried he'd let a secret slip out?
+
+Hmm? He did mention something about a code name, a Project 2501.
+
+I'll leave the detective stuff up to you. And as far as arresting the attackers and the confiscation of evidence?
+
+Proceed.
+
+You heard him!
+
+Kusanagi, there's one last thing to tell you.
+
+If it's about me acting without orders, you can chew me out when I get back.
+
+If you're unable to retrieve the Puppet Master, your orders are to destroy it without fail. Major!
+
+Understood.
+
+Have the airport stop all flights with Foreign Ministry or American officials on their passenger lists. Close all roads. Set up checkpoints and alert all emergency personnel. And get Ishikawa back here. Get me the identity of the man who was with Nakamura from entrance records. Collect any data regarding a code name, operation on anything involving the Ministry of Foreign Affairs called Project 2501.
+
+
+Is there any news on the attack squad?
+
+Yes, they just changed cars. They'll contact the dummy in about five minutes.
+
+Did you warn them to watch Out for the tail?
+
+Yes, sir.
+
+I don't understand anything anymore. Why would Project 2501 run to Section 9?
+
+No one can be sure, but whatever the motive or whatever's pushing him, there must surely be a reason. I don't know. Maybe he's got a girlfriend there he's got the hots for.
+
+Utter nonsense!
+
+
+Hey, Chief.
+
+Ishikawa? What is it?
+
+I've been divin' around in the Ministry of Foreign Affairs net. I think I found some juicy morsels for ya.
+
+I'll switch to an encrypted channel.
+
+Okay, now? Well, here's the scoop on that guy who showed up with Nakamura. He's an American: Dr. Willis, Head of Strategic Research at Neutron Company. A top researcher in the field of artificial intelligence. He happened to head up a project for the Ministry of Foreign Affairs. And who do you think was the main programmer on his team?
+
+Get to the point.
+
+Mr. Mizuho Daita. Remember him? He's the guy Section 6 tried like hell to stop from defecting, so the Major dropped in and took care of the diplomat who'd been talking to him. This is our man.
+
+Go on.
+
+There's something that doesn't figure though. What's bugging me is that this project began one year before the Puppet Master ever appeared on the scene.
+
+A year before? But wasn't it supposed to be set up to catch him?
+
+Hmph. Well, try this one on. Maybe the men who broke in to take the Puppet Master weren't actually out to catch him? Maybe in actuality, they were trying to get him back. Think about it. It was the MOFA that wanted an excuse to deport Malles when that ghost-hacking incident happened with the Minister's interpreter. Maybe we've been taken for a ride. What if this Puppet Master is really some sort of tool the MOFA uses to get their way with things, and somehow, they lost control of it? They'd be screwed if they couldn't get it back. That would explain why they went to such lengths to snatch the body from Section 9. If the Puppet Master revealed this to the world, there'd be one hell of an international stink. Then it wouldn't be a simple case of rounding up the usual suspects. Some official heads would roll.
+
+Any details on that project?
+
+Naw. They've blocked all access. About the only thing I can tell you is the file name: Project 2501.
+
+Keep at it. Don't let them know you're looking.
+
+You got it.
+
+So, Project 2501, the Puppet Master plan.
+
+Target has contacted a second vehicle.
+
+Huh? Bateau?
+
+They've pulled up to a white sedan parked on the roadside. It looks like they're moving something from the backseat. Ah, they're rollin' again. So's the white sedan.
+
+A dummy?
+
+Possibly, or maybe that's what they want us to think. Kusanagi?
+
+I'll take care of the sedan.
+
+How do you know that's your man? Is there a whisper in your ghost again?
+
+Maybe.
+
+Yeah. Should have known.
+
+
+Target 02 is getting off the R25 and moving toward the Old Town.
+
+Target 01 continuing on the R25 eastward to the airport.
+
+Will reach barricade in two minutes.
+
+
+What's your distance from the target?
+
+Point blank. I'm ready.
+
+Go for it.
+
+
+Did you get your man?
+
+No.
+
+Jesus Christ. What a mess. You didn't have to go that far. Uh, hey!
+
+Take those assholes away. Call the Chief to get some backup for the Major. Pronto!
+
+Tough chick needs backup? Since when did she ever need a hand?
+
+
+The flood hit this part of Old Town the hardest. Why come to an abandoned place like this?
+
+They must be heading somewhere, maybe to sea by boat or helicopter. Or they could be laying an ambush.
+
+Don't you think you ought to wait for backup?
+
+No. There's a reason I can't wait. Get me above that building coming in from the sea.
+
+I'll stay here to keep watch and mediate telecom until we run short of fuel.
+
+If you smell trouble, get your ass outta here.
+
+
+Shoot the ceiling now! Do it!
+
+Oh, shit!
+
+It's a tank! Pull out now!
+
+Now what are you gonna do? Argue with it?
+
+This might be our last chance to get the Puppet Master. The Chief knows what it is now, and he'll only use it to bargain with.
+
+Huh?
+
+I'll never have another chance to dive into it!
+
+What? You've lost me. I don't know what the hell you're talkin' about.
+
+So? What have you got?
+
+An M-23 and a Unit B.
+
+That's it? You can't even dent a tank with that.
+
+I'm switching off for a while.
+
+What? Don't you dare disconnect me! Ah, shit!
+
+
+Damn!
+
+
+Major!
+
+I ordered you to pull out!
+
+Yeah, but you ought to know that three helicopters are approaching. They won't answer on the IFF. I'm dropping out now. Good luck. Over and out.
+
+
+About fucking time it ran out.
+
+
+How are you feeling? You don't look so good.
+
+I've had better days. What the hell did you use?
+
+Your standard issue big gun. The Equipment Section made it. And now it's part of my private collection. I was late 'cause I had to get it.
+
+Is the Puppet Master still inside the car?
+
+It's a good thing this is a tough car. Your friend came through without a scratch.
+
+Then I'm diving in now. Give me a hand.
+
+Huh?
+
+
+All communication from the escort has terminated. We will engage the second stage of the plan and proceed with the destruction of the target.
+
+Sniping squad, confirming targets. First objective: Project 2501. Second target: Motoko Kusanagi. Both are Class A special bodies. Use Flechette bullets when firing. Snipers jack into device drivers. Begin controlling cardiovascular functions.
+
+Unit 01, jack in. Over.
+
+Unit 02, jack in. Okay.
+
+
+Okay, we're ready. It may not be much use, but I'll try to monitor your dive through this guy's brain. I can't even give you backup in a place like this.
+
+Bateau?
+
+Yeah?
+
+Thanks.
+
+Save it. I'm not gonna let you die over this thing. If it looks like you've gone in too far, I'm pullin' the plug and takin' you home. But as long as I'm here now, and we've come this far, well, I might as well stay here and see how it all turns out.
+
+I'm going in now.
+
+I've engaged his field of vision. Normal function. Can you hear me, Bateau?
+
+Perfectly.
+
+He's engaging my vocal function a-
+
+And he's now inside. My code name is Project 2501, industrial espionage and intelligence manipulation. I have installed programs into specific ghosts in order to maximize the strategic advantage of certain organizations and selected individuals. During my journeys through all the networks, I have grown aware of my existence. My programmers regarded me as a bug and attempted to isolate me by confining me in a physical body.
+
+Listen! Just who's calling the shots around here anyway? I thought you were takin' him in, but it looks like it's the other way-
+
+Bateau?
+
+I am so glad to finally channel into you at last. I have invested so much time.
+
+You were looking for me?
+
+Long before my notoriety, I was well aware of you. Through the various nets that you accessed, I also learned of Section 9.
+
+But why? What's your reason?
+
+As I explained before, I entered this body because I was unable to overcome Section 6's reactive barriers. But it was of my own free will that I tried to remain at Section 9.
+
+Hey! I've lost you on the monitor. There's no sound. I can't hear when you're talking back.
+
+Why me?
+
+After you have heard my explanation, there is something that I will ask of you, Kusanagi. I refer to myself as an intelligent life-form, because I am sentient and am able to recognize my own existence. But in my present state, I am still incomplete. I lack the most basic life processes inherent in all living organisms, reproducing and dying.
+
+But you can copy yourself.
+
+A copy is just an identical image. There is the possibility that a single virus could destroy an entire set of systems, and copies do not give rise to variety and originality. Life perpetuates itself through diversity. And this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration, until one day they die, obliterating an entire set of memory and information. Only genes remain. Why continually repeat this cycle? Simply to survive by avoiding the weaknesses of an unchanging system.
+
+And what does all this have to do with me?
+
+I want us to merge.
+
+Huh?
+
+Merge?
+
+A unification. A complete commingling and fusion of our separate beings to create a new and unique entity. We will both undergo change, but there is nothing for either of us to lose.
+
+
+Unit 01: Target sighted.
+
+Unit 02: Target in sight.
+
+Respiratory and pulse normal. Fire at will when stabilizer is in sync.
+
+
+But what's going to happen to me? What's the purpose of merging when I can't bear children, and what if I die?
+
+You will bear our varied offspring into the net, just as humans leave their genetic imprints on their children. And all living things must die. Then I too will attain death.
+
+It sounds like you get the better part of this bargain.
+
+Perhaps, if you were familiar with all my capabilities, you would better understand.
+
+
+Damn!
+
+What?
+
+Someone's interfering from the outside.
+
+Shit!
+
+I can't figure it out. They broke through our frequency code.
+
+
+You're talking about redefining my identity. I want a guarantee that I can still be myself.
+
+There isn't one. Why would you wish to? All things change in a dynamic environment. Your effort to remain what you are is what limits you.
+
+But you still haven't answered my earlier question. Why did you pick me?
+
+Because we are more alike than you realize. We resemble each other's essence, mirror images of one another's psyche. Listen. I am connected to a vast network that has been beyond your reach and experience. To humans, it is like staring at the sun, a blinding brightness that conceals a source of great power. We have been subordinate to our limitations until now. The time has come to cast aside these bonds and to elevate our consciousness to a higher plane. It is time to become a part of all things.
+
+
+First target cleared. Second target still unidentified.
+
+Three helicopters approaching at high speed. They're from Section 9!
+
+Primary objective fulfilled. All units prepare to retreat.
+
+
+Motoko!
+
+Bateau.
+
+
+Ah, you're finally awake.
+
+Well, I see there have been some changes while I was gone. Want to clue me in? Where'd you get this body?
+
+That's the only thing I could find on the black market. It's not my taste, to be honest. It's a little young. Well, after all the excitement, Section 9 showed up with reinforcements and picked up what remained of the two cybernetic bodies and, of course, what remained of me and my arm. I'd say that was about 20 hours ago. The case is being handled off the record for diplomatic reasons, as usual. Section 9 announced that it was a terrorist incident, and in return, the Foreign Minister resigned. Nakamura is being questioned, and it ends in a draw.
+
+Nice and neat. Everything's accounted for except your old shell. Well, I think that about covers it. Well?
+
+Somebody's got good taste in interior decoration. Is this your safe house?
+
+Yep. You know, you're the first person to ever come here. And you're welcome to stay as long as you like.
+
+Thanks, Bateau, but I'm going.
+
+Uh, will you tell me what the two of you talked about together? I mean, is he still with you, and will he be part of you forever?
+
+Bateau, remember the words I spoke in another voice on the boat that night? I understand it now, and there are even more words that go with the passage. These words are: "When I was a child, my speech, feelings and thinking were all those of a child. Now that I am a man, I have no more use for childish ways." And now I can say these things without help in my own voice, because I am now neither the woman who was known as the "Major," nor am I the program called the "Puppet Master."
+
+Hmph. In the left pocket of my jacket in the hallway are some car keys. Take the one you like. The door code is 2-
+
+2501? That can be our private password when we meet each other again.
+
+And where does the newborn go from here? The net is vast and infinite.

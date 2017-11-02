@@ -1,0 +1,5153 @@
+C  |||  T H E M A T R I X R E L O A D E D
+E  |||  
+N  |||  Written by
+N  |||  Andy and Larry Wachowski
+E  |||  
+N  |||  April 8, 1999
+E  |||  
+M  |||  FADE IN ON:
+E  |||  
+N  |||  Dark clouds below the inky remnants of the scorched sky. We hear wind
+N  |||  as we sail, like a glider, over the black atmosphere.
+E  |||  
+N  |||  We DIVE DOWN into the murkiness, through the clouds, into the darker
+N  |||  world of the dead surface of Earth, the desert of the real. The
+N  |||  rotted skeleton of a massive city is sprawled everywhere. We approach
+N  |||  a fissure in the Earth's crust, and as we do, we hear the increasing
+N  |||  buzz of multiple hovercraft engines. Blue flashes grow in intensity
+N  |||  from the fissure. Radio voices, indistinct at first, grow louder as
+N  |||  we approach the fissure.
+E  |||  
+C  |||  WOMAN (V.O.)
+E  |||  
+D  |||  "Six o'clock, 300 meters. We can't outrun 'em."
+E  |||  
+C  |||  MAN (V.O.)
+E  |||  
+D  |||  "I know. Can't tow this crate fast enough! We gotta ditch it!"
+E  |||  
+N  |||  We hear the voices as though we're listening to cops through a police
+N  |||  scanner. The woman is NIOBE, the captain of the lead ship, Sephora.
+E  |||  
+C  |||  NIOBE (V.O.)
+E  |||  
+D  |||  "Can't, the core is still good. And they've got 'The One.'"
+E  |||  
+C  |||  MAN (V.O.)
+E  |||  
+D  |||  "Oooh, our savior. He’d better be worth it."
+E  |||  
+C  |||  NIOBE (V.O.)
+E  |||  
+D  |||  "Shut up and make the exit. Hold on!"
+E  |||  
+N  |||  The azure glow from the fissure is suddenly overwhelming. A tight
+N  |||  convoy of three HOVERCRAFT explode from the fissure, traveling
+N  |||  nearly straight up, like a trio of massive locomotives flying into
+N  |||  the sky in tight formation, linked together by tow cables. The blue
+N  |||  glow has been emanating from the overworked flare drives of the
+N  |||  first and third hovercrafts. Between them, suspended by tow cables,
+N  |||  is the dark, scorched, and sliced NEBACHANEZZER. They rocket upward,
+N  |||  slowing as they reach the top of the arc.
+E  |||  
+C  |||  NIOBE (V.O.)
+E  |||  
+D  |||  "Woo-hoooh!"
+E  |||  
+N  |||  The rush to the ground, pulling up at the last second. The NEB flails
+N  |||  wildly between them.
+E  |||  
+C  |||  MAN (V.O.)
+E  |||  
+D  |||  "They're still on us!"
+E  |||  
+N  |||  More vehicles fly from the fissure. A massive army of SQUIDDIES pours
+N  |||  up onto the surface.
+E  |||  
+E  |||  
+M  |||  INT. NEBACHANEZZER COCKPIT
+E  |||  
+N  |||  The NEB is slung between the two HOVERCRAFT, with the cockpit facing
+N  |||  backwards. TRINITY, MORPHEUS, TANK, and NEO, the former Thomas
+N  |||  Anderson, crowd the cockpit. Helpless, the landscape speeds away from
+N  |||  them, while a wall of red-eyed SQUIDDIES speeds to them.
+E  |||  
+N  |||  It's been a mere TWO DAYS since the realization of NEO’S POWERS and
+N  |||  the defeat of AGENT SMITH. The slipstream whistles violently into the
+N  |||  interior of the ship, and the crew is cold, tired, haggard, and
+N  |||  stressed beyond belief as they can only watch the action in their
+N  |||  knocked-out ship.
+E  |||  
+N  |||  MORPHEUS is on a headset.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Niobe, they’re closing."
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "How many?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Just a few. Maybe two or three. Hundred."
+E  |||  
+E  |||  
+M  |||  INT. SEPHORA COCKPIT
+E  |||  
+N  |||  NIOBE, as regal as she is beautiful, sits at the controls of her ship
+N  |||  with her co-pilot, a younger female. All visible dials are redlined as
+N  |||  they streak over the dark surface.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "You’ve got a gift for understatement."
+E  |||  
+E  |||  
+M  |||  INT. FREEDOM COCKPIT
+E  |||  
+N  |||  THE FREEDOM’S CAPTAIN, a silhouette in a dark cockpit, is flying
+N  |||  blind. His cockpit is awash in the blue flares from NIOBE’S ship.
+E  |||  
+N  |||  His lieutenant, a shadowy female figure, reaches for the radar screen.
+N  |||  As she does, we see her bare shoulder fall into view, a WHITE RABBIT
+N  |||  tattoo is conspicuous.
+E  |||  
+N  |||  They switch their screens to the radar, squiddies right on their ass.
+E  |||  
+C  |||  MAN
+E  |||  
+D  |||  "Oh shit, we’re screwed. We gotta set down and EMP ‘em."
+E  |||  
+C  |||  NIOBE (V.O.)
+E  |||  
+D  |||  "Too many!"
+E  |||  
+E  |||  
+M  |||  EXT. FREEDOM HULL
+E  |||  
+N  |||  A racing SQUIDDIES reaches the hull and latches on, striking up its
+N  |||  cutting laser and ripping into the hull.
+E  |||  
+E  |||  
+M  |||  INT. SEPHORA COCKPIT
+E  |||  
+C  |||  MAN (V.O.)
+E  |||  
+D  |||  "They’re on me! Shit! Losing power!"
+E  |||  
+N  |||  NIOBE’S Lieutenant, a muscular Asian woman, Circa, notes something on
+N  |||  a console.
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "Multiple bogies closing!"
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "No shit."
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "From the front!"
+E  |||  
+N  |||  Niobe is grim faced as she peers into the sky ahead. Several objects
+N  |||  are closing in fast.
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "Are they - "
+E  |||  
+N  |||  She doesn't have time to finish the question, as the oncoming fighters
+N  |||  launch a massive volley of missiles. From afar, they look like dark
+N  |||  irises surrounded by a corona of flame. At first, we can't tell
+N  |||  exactly what they are, until their fiery trails rip straight at the
+N  |||  SEPHORA cockpit.
+E  |||  
+N  |||  CIRCA DUCKS as the missiles harmlessly streak by.
+E  |||  
+E  |||  
+M  |||  INT. NEB COCKPIT
+E  |||  
+N  |||  A massive swarm off missiles blasts by the cockpit. The individual
+N  |||  warheads swerve at the last second, blowing SQUIDDIES apart, or
+N  |||  casting them to the ground aflame.
+E  |||  
+E  |||  
+M  |||  INT. SEPHORA COCKPIT
+E  |||  
+N  |||  Niobe breathes a sigh of relief. Her lieutenant looks back up to see a
+N  |||  wing of HOVER FIGHTERS - 'DEFENDERS' fly past their ship. Sleek, with
+N  |||  huge blue flares from their engines, they're gunship fighters armed to
+N  |||  the teeth with missiles and laser turrets studding the fuselage.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "They're ours."
+E  |||  
+C  |||  DEFENDER ONE (V.O.)
+E  |||  
+D  |||  "Hold on, folks, you're in for a little cleaning."
+E  |||  
+E  |||  
+M  |||  EXT. THE SURFACE
+E  |||  
+N  |||  The wing of DEFENDERS makes short work of the squiddies. The half
+N  |||  dozen clinging to FREEDOM'S hull are picked off by well-placed laser
+N  |||  shots that turn the squiddies into curdling balls of slag. The
+N  |||  squiddies that survive turn tail and run.
+E  |||  
+E  |||  
+M  |||  INT. NEB COCKPIT
+E  |||  
+N  |||  The crew of the Neb breathe a collective sigh of relief as they leave
+N  |||  the scene of aerial carnage behind them.
+E  |||  
+N  |||  NEO has been gripping an oh-shit handle on the edge of the cockpit. He
+N  |||  relaxes his grip as their escape is clear. Their ship suddenly enters
+N  |||  a cave, and starts to descend. The blue wash of the ship shows rock
+N  |||  walls and pipes. The ships are slowing down as they descend back into
+N  |||  the earth.
+E  |||  
+N  |||  TANK'S shoulders drop, and he leans back into his chair.
+E  |||  
+C  |||  TANK
+E  |||  
+D  |||  "We're home."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Well, not yet, but we're in the defense screen."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "What's that?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "A concentric ring of defenses that shields Zion. The fighters that
+D  |||  just saved us constitute the first ring."
+E  |||  
+C  |||  NIOBE (V.O.)
+E  |||  
+D  |||  "Neb crew, you can relax now."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "For the moment, perhaps. Its still a long drive home."
+E  |||  
+M  |||  FADE OUT
+E  |||  
+N  |||  and
+E  |||  
+M  |||  FADE INTO:
+E  |||  
+N  |||  TRINITY'S CABIN. At first we see only stars twinkling, faraway
+N  |||  diamonds on a black velvet background. The camera descends through the
+N  |||  darkness, to a sunset, dark blue, as if just after sunset. The artwork
+N  |||  terminates in the metal ring going around her room. It's a much more
+N  |||  hospitable place than the rest of the dreary hovercraft. The articles
+N  |||  she's collected during her time in the resistance dot the cabin. An
+N  |||  unfinished sweatshirt sits on a loom. There are charcoal portraits of
+N  |||  loved ones.
+E  |||  
+N  |||  Softly lit, the cabin sways slightly. The NEB is still in tow. NEO is
+N  |||  sitting against the wall on Trin's bed, with her curled up beside him
+N  |||  with her head on his lap.
+E  |||  
+N  |||  Neo can’t sleep. He stares at the wall opposite him. There's a photo
+N  |||  of the crew of the NEB, sans Trin, in better days. Smiling, laughing
+N  |||  as they are seated around the table. Morpeus, Tank, Dozer, Switch,
+N  |||  Epoch, Mouse. Neo stops on the image of a smiling CYPHER. There's an
+N  |||  unknown Asian man in the photo, looking withdrawn and a bit lonely.
+E  |||  
+N  |||  Gently, placing Trinity's head down, NEO stands and examines the
+N  |||  photo.
+E  |||  
+N  |||  She awakens.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "I'll have to take that one down now. Cypher..."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Who is this guy?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Who?"
+E  |||  
+N  |||  NEO points to the mystery man.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "That was... I... forgot his name."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "What happened to him?"
+E  |||  
+N  |||  TRINITY is sullen.
+E  |||  
+D  |||  "He didn’t make it."
+E  |||  
+N  |||  NEO returns to the bed and sits down, disturbed. Trinity sits up,
+N  |||  awakening.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Was he like me?"
+E  |||  
+N  |||  TRINITY nods.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Not you, though. Like you. There have been others, Neo."
+E  |||  
+D  |||  "Aren't you tired?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "No. I've never been a big sleeper."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "I know. I used to watch you hacking without sleeping for days."
+E  |||  
+N  |||  He turns to her, questions in his eyes.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "How many 'ones' have there been?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "That's not the point."
+E  |||  
+N  |||  NEO may not think so.
+E  |||  
+E  |||  
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "You are him. You’re mine."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "But what does it mean, to be The One?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "I don't know, Neo. Our mission was to find you."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "So, now what?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Now, Zion will give us a new mission."
+E  |||  
+N  |||  The hatch swings open. MORPHEUS peers in.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We're almost home. We'll need a detail. Five minutes."
+E  |||  
+N  |||  HE closes the hatch and disappears.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Does he ever knock?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Not on his ship."
+E  |||  
+M  |||  CUT TO:
+E  |||  
+M  |||  INT. MAIN DECK, NEB
+E  |||  
+N  |||  The crew grips the bulkhead and fixtures as the swaying ship comes to
+N  |||  a rest. Outside, the sounds of hover engines fade away. Tank unlocks
+N  |||  the main hatch, then jumps as it drops, unpowered, slamming into the
+N  |||  tarmac with a resounding smash.
+E  |||  
+M  |||  CUT TO:
+E  |||  
+M  |||  EXT. ZION TARMAC
+E  |||  
+N  |||  The tarmac is a busy, crowded military airport, with hovercraft of
+N  |||  different sizes spread across the lot. Its housed poorly lit,
+N  |||  houses in a cave so huge the ceiling is out of site. Crewpersons run
+N  |||  around, servicing battle-damaged vehicles. Munitions are carted
+N  |||  across the tarmac on robot rolling racks. No one pays the NEB and
+N  |||  its battered crew any mind.
+E  |||  
+N  |||  Nearby, the SEPHORA and FREEDOM are parked. Their engines shut down,
+N  |||  and their powered hatches are open. The crewmembers are spilling out.
+E  |||  
+N  |||  NIOBE hurries to MORPHEUS' side, and he steps toward her, smiling, but
+N  |||  their military manner is quickly restored, though they can barely
+N  |||  contain their grins.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Niobe..."
+E  |||  
+N  |||  SHE shakes his hand, the shake slows down.
+E  |||  
+C  |||  "M."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Thanks for the rescue."
+E  |||  
+N  |||  THEY close for a kiss, when the FREEDOM'S captain suddenly jumps
+N  |||  between them.
+E  |||  
+N  |||  It's CHOI - the NEO's supposed neighbor and hacking financier.
+N  |||  Exhuberant and oblivious, he joyfully gets in MORPHEUS' face.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Brough, you us your asses! We saved you so hard core you don't even
+D  |||  know!"
+E  |||  
+N  |||  NIOBE smiles at Morpheus and fades back as BOOTH shouts his own
+N  |||  praises. Morpheus turns to his less-mature peer.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "So, you think you finally found The One, huh? Another One?"
+E  |||  
+N  |||  DUJOUR, CHOI'S LIEUTENANT, pushes into their conversation, looking
+N  |||  offscreen.
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Idiot, we helped him find him. Hello, Morpheus."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Huh?"
+E  |||  
+N  |||  He looks at what she's seeing. His gaze halts on NEO. He's
+N  |||  concentrating on TANK and his apparent girlfriend, who seems to be
+N  |||  consoling him. He turns to see CHOI and DUJOUR, does a double-take,
+N  |||  and his jaw drops open.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "You?"
+E  |||  
+N  |||  CHOI is quick to resume his cool.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "In the flesh, so to speak."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Welcome to the real world, Neo. I'm glad you're here."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "What do you think, Dujour? Should we take him with us?"
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Definitely."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Morpheus?"
+E  |||  
+N  |||  MORPHEUS turns from Niobe and a Zion officer. He addresses Trinity,
+N  |||  glancing at the others.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Go on ship's liberty. Meet me in the Dead Duck at 21:00 hours, drunk
+D  |||  or sober."
+E  |||  
+E  |||  
+M  |||  EXT. ZION STREET
+E  |||  
+N  |||  It's like a valley floor running between two gigantic walls of rock
+N  |||  that are nearly vertical, coming together in an elongated archway.
+N  |||  Carved into the street level are innumerable stores and shops, above
+N  |||  them, apartments and balconies that rise to the top of the arch.
+N  |||  People flow through the street. Their clothes are homespun wool,
+N  |||  denim, and leather. Dyes and color are absent. Carved into the solid
+N  |||  granite walls, between homes and around windows and doors, are
+N  |||  intricate and beautiful carvings.
+E  |||  
+N  |||  NEO is lead down the street by CHOI, DUJOUR, and TRINITY, and a few
+N  |||  other rebels. The push through a mult-culti crowd of people, humanity
+N  |||  melting into one race.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "See, man? This is home. This is the main street. One of ‘em, anyway.
+D  |||  Almost everyone is a fighter. Sometimes, even the kids.
+E  |||  
+N  |||  THEY pass an outdoor workshop where youngsters are assembling small
+N  |||  machines.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Our energy as a people is directed toward liberation. Check it out,
+D  |||  here are some newcomers."
+E  |||  
+N  |||  A group of frail, buzz-cut androgonites pass by them. They look at
+N  |||  NEO, recognizing him as one of them, a new comer.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Where did they come from?"
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Energy plant we raided on our last mission. There were some
+D  |||  survivors."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "How are their minds freed from the Matrix?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "With difficulty."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "If at all."
+E  |||  
+N  |||  They step into a club, Dead Duck. It’s a sailor joint. Lots of wood,
+N  |||  beer on tap, and rum. Crewmembers of other ships recognize the rebels,
+N  |||  greeting them, as they eye Neo. They take a booth in the corner. The
+N  |||  waitress arrives.
+E  |||  
+C  |||  WAITRESS
+E  |||  
+D  |||  "Welcome home, brothers and sisters. First day back?"
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Yes, lovely."
+E  |||  
+C  |||  WAITRESS
+E  |||  
+D  |||  "On the house, then. Four rums?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Make it eight."
+E  |||  
+N  |||  The waitress smirks and leaves. TRINITY turns to CHOI.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Any casualties?"
+E  |||  
+N  |||  CHOI lights up and takes a drag.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Two. Sidewinder and Left-right."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "I can’t believe Cypher turned. Bastard."
+E  |||  
+E  |||  
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "He who loses faith..."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Neo, we monitored your fight. Did you really gain enlightenment?"
+E  |||  
+N  |||  NEO shrugs.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "All I know is I kicked Smith’s ass."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Fuckin’ finally, Jesus Christ. It’s about time we iced that bastard."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Yeah, we finally won against an agent?"
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "I guess 1 ‘n 298 isn’t a bed record, huh?"
+E  |||  
+N  |||  The drinks arrive. Tall glasses of rum.
+E  |||  
+N  |||  CHOI holds his glass aloft. They raise their glasses to toast.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Live free or die."
+E  |||  
+N  |||  ALL (save NEO)
+E  |||  
+D  |||  "Live free."
+E  |||  
+N  |||  They slam the rum back, and slam empty glasses on the table. NEO can
+N  |||  barely manage to sip his.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "God, how do you do that?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "You’ve never drank before."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Not for real."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "You want to know what being The One means?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "What?"
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "One drink and you’re toast."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+E  |||  
+D  |||  "Neo, you know what else you’ve never done?"
+E  |||  
+N  |||  She glances at Trinity, who falls back against the seat, turning to
+N  |||  suppress a smile. Choi cracks up.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Yeah."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Yeah, you’ve never done it."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "And virtual doesn’t count, man, doesn’t fucking count."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Well. I’ll drink to that."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Here, here."
+E  |||  
+N  |||  This time, NEO follows the others and slams back the entire glass. He
+N  |||  coughs and sputters as his friends and bar patrons cheer him on."
+E  |||  
+E  |||  
+M  |||  EXT. MAIN STREET, ZION
+E  |||  
+N  |||  The lights are dim, and only a few late night revelers stagger through
+N  |||  the streets on their way back home. Walking straight and calmly
+N  |||  through the stragglers are MORPHEUS and NIOBE.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "So, how do you like having your own command?"
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "It’s good. But trying. The responsibility..."
+E  |||  
+N  |||  THEY stop before the entrance to the DEAD DUCK.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "You must be both mother and father to your crew."
+E  |||  
+N  |||  NIOBE nods, and looks into the bar. Inside, the crews are raging drunk
+N  |||  and loud.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Who will you be now? The mother, or the father?"
+E  |||  
+N  |||  MORPHEUS peers in on the scene and grins.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "As long as they don’t get out of line, I’ll just be a brother."
+E  |||  
+E  |||  
+M  |||  INT. DEAD DUCK
+E  |||  
+N  |||  NEO is out of it, while the others are merely comfortably in the bag.
+N  |||  He’s acting like a kid who broke into his father’s liquor cabinet.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "So, you went back in, and you two pulled him out?"
+E  |||  
+N  |||  TRINITY nods, herself in disbelief. NEO picks his head up off the
+N  |||  table.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Kicked... kicked Smith’s ass."
+E  |||  
+N  |||  CHOI eyes MORPHES and NIOBE coming toward them.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Hey, did you kick anybody else’s ass, Neo? Like Morpheus?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Morpheus? Yeah, I smacked him around, too."
+E  |||  
+N  |||  MORPHEUS arrives just in time to hear the last part. He stands and
+N  |||  grins down at NEO.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "So, you can smack me around, Neo?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Oh yeah. Anytime."
+E  |||  
+N  |||  MORPHEUS taps him on the forehead. NEO blinks and falls back into the
+N  |||  booth. He stands before them.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "How’s Tank?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "He’s on bereavement leave with his mother. Dozer was the second son
+D  |||  she’s lost in this war."
+E  |||  
+N  |||  His comments set a sober tone.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "The Nebechanezzer is out of commission for at least a month. But,
+D  |||  that’s not giving us a rest."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Let me guess. We’ve been ordered back out anyway."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Yes. This is another special op. I’m in command, Niobe and Trinity
+D  |||  are team leaders. Neo is our secret weapon."
+E  |||  
+N  |||  FLASH TO: NEO, passed out with his mouth open on the couch.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We don’t know exactly what he’s capable of. He may be just tapping
+D  |||  his potential, or he may have already reached it. We are to learn from
+D  |||  him, as he does from us."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Why are we always getting screwed? Not only do I have to go straight
+D  |||  back into the shit, but I lose my command, too?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "You’ve been assigned to this mission because you’re the best, Choi."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "Yeah, and headquarters thinks you might be able to whine the agents
+D  |||  to death."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Oh my God that’s so funny. My point is, don’t we need some r-and-r?
+D  |||  Unwind a little? We lost two crew on the last one, you lost like five,
+D  |||  right? Shit. I’m glad we found Mr. Invincible, here, but Jesus..."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "You don’t have to go, Choi. Volunteers only."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "He’s got a point, M. I have faith, but why so quick?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We have a chance, here, but the window of opportunity is brief. Our
+D  |||  ships say the Matrix is already upgrading and re-coding to block our
+D  |||  entry. And Neo’s."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Fuck. Every fucking time we get another ‘one,’ this is what they do."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "He is the One."
+E  |||  
+C  |||  DUJOUR
+E  |||  
+D  |||  "You haven’t lost the faith, have you Choi?"
+E  |||  
+N  |||  CHOI grabs a half-filled rum glass and swigs it down.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Well, these are the times that try men’s souls. Here’s to victory."
+E  |||  
+E  |||  
+M  |||  EXT. TUNNEL
+E  |||  
+N  |||  The FREEDOM hovers slowly, silently, like a submarine as it cruises
+N  |||  through the murky depths. It suddenly comes to a quiet stop, and
+N  |||  descends. The engines fade out, and the vessel rests, darkened, on the
+N  |||  cave.
+E  |||  
+N  |||  A quartet of SQUIDDIES slips by. We follow as they worm their ways
+N  |||  through the twisted passageway, watching as they pass the bubble
+N  |||  cockpit by mere feet.
+E  |||  
+N  |||  FREEZE on the cockpit. Within the shadows we see Morpheus and Choi at
+N  |||  the controls.
+E  |||  
+E  |||  
+M  |||  INT. FREEDOM COCKPIT
+E  |||  
+N  |||  They watch the SQUIDDIES fade into the distance.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Power up. Sleep mode."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Aye aye, capitano."
+E  |||  
+N  |||  MINIMAL cockpit displays turn on, and the cabin remains dark.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK
+E  |||  
+N  |||  The ship’s OPERATOR, a lean Asian kid with a gaze like a laser scan,
+N  |||  sits behind NEO, who’s sitting at the operator’s console with his
+N  |||  hands on the abbreviated keyboard. Trinity sits with them, her feet up
+N  |||  as she observes.
+E  |||  
+N  |||  NEO stares at the screen. It’s a huge syllabus of Matrix code
+N  |||  characters. He struggles to learn the complex code.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Ka equals 9. But reverse Ka is point-nine, right?
+E  |||  
+N  |||  RAZOR nods.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "You catch on quick, man."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I know these symbols from the hacking trainer. But how come it’s so
+D  |||  hard to find them on the keyboard?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Your brain knows what to do. But it has to associate characters with
+D  |||  your body."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "It’s muscle memory, Neo. Think of the space bar and your thumbs nail
+D  |||  it. Because your thumbs have hit the space bar millions of times. But
+D  |||  think about reverse ‘ka,’ and your fingers don’t hit automatically hit
+D  |||  the reverse key and the ‘ka’ key in one shot."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Where did these symbols come from, anyway?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Most of it is from the old Japanese. It’s Katakana. See, the machines
+D  |||  aren’t binary. No zero and one. They’re quantum-based, so instead of
+D  |||  an open-close base of zero or one, open or closed, they use all
+D  |||  numbers between zero and one."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "All numbers between zero and one. That could be an infinite number of
+D  |||  numbers."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Not could be, it is."
+E  |||  
+N  |||  NEO is astounded.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Holy shit. How many calculations per second?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "How many CPS? Well, that’s kind of hard to estimate. Put it this way:
+D  |||  picture all the particles in the known universe. Not just atoms, but
+D  |||  sub-atomic particles that compose atoms."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "OK. At last count that was what, a gazillion, right? Two gazillion?"
+E  |||  
+N  |||  RAZOR barely smiles at the joke.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Well, it’s up there. In any case, the number of calculations per
+D  |||  second the Matrix can perform is greater than the estimated number of
+D  |||  particles in the known universe."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Woah."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "That’s how they have the operating power to create entire worlds
+D  |||  within their PCs."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "OK. That’s why it looks like reality. They have the computing power
+D  |||  to create entire worlds."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Right."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "So, if we hack into the Matrix, why can’t we just change the code
+D  |||  while we’re at it?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "No, no. See, it’s not that simple. The machines, the programs that
+D  |||  code, create, and maintain the Matrix, the agents, they are code.
+D  |||  There are different types of agents, many work unseen with no
+D  |||  interaction in the matrix. Then, there are the enforcers, the ones we
+D  |||  know all too well."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Right."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Well, my point is, the machines code and recode the Matrix by pure
+D  |||  will. Interaction with the Matrix, the physical act of being there,
+D  |||  by default, allows people to change their environment - the Matrix.
+D  |||  They move objects, make sound, affect cause."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Like reality."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Almost. Reality is unalterable. But the fabric of reality in the
+D  |||  Matrix can be rewoven. Some can reach beyond normal cause. Their
+D  |||  affects on the Matrix are deeper than average. They have learned to
+D  |||  change it according to their needs. But they don’t have total control.
+D  |||  That’s why we need operators like Razor here. But you, you go further
+D  |||  than any of us can."
+E  |||  
+C  |||  NEO
+E  |||  
+E  |||  
+D  |||  "How?"
+E  |||  
+N  |||  RAZOR stands and taps Neo’s skull. He stretches, grabs a Japanese
+N  |||  style wooden sword, and, out of boredom, starts performing slow,
+N  |||  precise Kendo moves around the main deck as he talks.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "The equipment you carry up here. You’re a freak. A good freak. You’re
+D  |||  neural kinetics blast past those of average humans. This, combined
+D  |||  with your ability to suspend disbelief, allow you to change the
+D  |||  reality of the Matrix."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "How did I end up as... a freak?"
+E  |||  
+N  |||  RAZOR practices the same strike a few times.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Good question. The Machines create people through cloning, since,
+D  |||  obviously, no coppertops have physical sex. Theoretically, all clones
+D  |||  in the Matrix are exactly the same as when the first clones. They
+D  |||  shouldn’t be any different from normal, homegrowns."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "OK, so how do you explain me?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Not just you. Morpheus, myself. We were all born inside.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Well, what separates us from others?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "For the past 50 years or so, something has been happening to children
+D  |||  in the Matrix. They’ve been mutating, changing in ways the machines
+D  |||  never predicted. Some seem to gain faster reflexes and strength.
+D  |||  Others seem to have psychic powers."
+E  |||  
+N  |||  RAZOR looks up to see MORPHEUS, hanging back as he listens. He comes
+N  |||  forward.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "And others are able to change the reality of the Matrix itself."
+E  |||  
+N  |||  HE points to Neo.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Discussing history, are we?"
+E  |||  
+N  |||  RAZOR shakes his head.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "I’m trying to teach this fool some programming, man. He’s stuck in
+D  |||  the 20^th century. He’s got no skills, man. Without us, he’s
+D  |||  helpless."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "In the Matrix, without him, we’re helpless."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Morpheus, can you tell us what the mission is now?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Not until we reach broadcast depth. It’s slow going out there. I
+D  |||  guess they know we’re coming back, so they’re patrolling. We have time
+D  |||  to rest and ready."
+E  |||  
+E  |||  
+M  |||  EXT. MOUNTAIN TOP, LATE DAY (CONSTRUCT)
+E  |||  
+N  |||  TRINITY sits alone on the tip of an impossibly high finger of rock. It
+N  |||  looks like it sits on the rooftop of the world. All around her, as far
+N  |||  as the eye can see, lie mountains. Their snow-capped peaks are pink in
+N  |||  the sunset light.
+E  |||  
+N  |||  She looks into the sunset. Heavy thoughts weigh on her mind.
+E  |||  
+N  |||  A hand appears on her shoulder. It’s NEO. How he got on the finger of
+N  |||  rock is anyone’s guess.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Boo."
+E  |||  
+N  |||  TRINITY grins slightly and pulls on his arm. There is only enough room
+N  |||  for one on the end of the rock, so he sits down behind her.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Don’t lose your balance."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "It doesn’t matter if I do."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "So, you can fly."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Yes."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Do you think I can?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I think you can do anything you want, if you believe."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Like you?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I don’t know. I don’t know exactly what I can do."
+E  |||  
+N  |||  TRINITY half turns.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Will you teach me to fly?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I don’t know if I can."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Free your mind of doubt."
+E  |||  
+N  |||  NEO stands, and steps in front of TRINITY. He’s on the very, very edge
+N  |||  of the rock. He extends his hand down to her. She grabs it, and he
+N  |||  hauls her up. Her eyes dart to the ground, thousands of feet below the
+N  |||  finger.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "In this construct program, the ground can kill."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I won’t let you fall. Ever."
+E  |||  
+N  |||  THEY look into each other’s eyes. Despite the trauma they’ve been
+N  |||  through, and not even truly knowing one another, there’s a connection.
+E  |||  
+N  |||  NEO suddenly backs away. He walks on the air with perfect traction, as
+N  |||  though he’s on an invisible plane of glass. He leaves TRINITY standing
+N  |||  precariously on the edge, wobbling a bit as she maintains balance
+N  |||  against nerves. She breathes deep, and looks back up at NEO,
+N  |||  maintaining her cool even as she eyes the spectacle.
+E  |||  
+N  |||  NEO stands a few feet away from her, completely at ease as the high
+N  |||  altitude winds ruffle his hair.
+E  |||  
+N  |||  NEO extends a hand to her.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "It’s not real, Trinity. You’re not standing there. Step out. I can do
+D  |||  it. You can, too."
+E  |||  
+E  |||  
+N  |||  With one last glance at the infinite drop, she steadies herself and
+N  |||  stares straight into his eyes. Blue meet brown. Breathless, she steps
+N  |||  straight out.
+E  |||  
+N  |||  She takes one step in the air. For a breathless second, as she steps
+N  |||  off the edge, she is stable. When she takes her foot off the edge,
+N  |||  though, she sways, and her foot slips, as though she’s on a greasy
+N  |||  surface bobbing up and down. She corrects herself, tries another step,
+N  |||  sags further.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Shit."
+E  |||  
+N  |||  SHE glances down, then locks eyes with NEO. Then drops like an anvil.
+E  |||  
+E  |||  
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Whoops."
+E  |||  
+N  |||  HE dives down, shooting like a missile. TRINITY is calm, falling
+N  |||  backwards, watching NEO come for her. The rocky ground looms behind
+N  |||  her. She makes no effort to reach for NEO as he draws close to her. HE
+N  |||  reaches for her with all his might.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Grab me!"
+E  |||  
+N  |||  TRINITY makes no effort to save herself, even as collision is seconds
+N  |||  away. She stares at him intently.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Grab on to me!"
+E  |||  
+N  |||  SEEING she is doing nothing, he goes beneath her and scoops her up,
+N  |||  Superman style. He barely accomplishes this before he slows and
+N  |||  settles onto the rocky ground.
+E  |||  
+N  |||  They are in a twilight glade shaded by the mountains.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "What the hell were you doing?"
+E  |||  
+N  |||  TRINITY smiles slightly. Her madness has a purpose.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Showing you, Neo."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Showing me what? You nearly gave me a heart attack."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "I want you to know how much faith I have in you."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Oh. And this requires acts of insanity?"
+E  |||  
+N  |||  TRINITY smiles. She looks him up and down. She moves intimately close.
+E  |||  
+D  |||  "So, you really are Superman."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Only when I’m plugged in."
+E  |||  
+N  |||  TRINITY steps away. NEO grabs her shoulder and turns her to him. He
+N  |||  attempts a
+E  |||  
+N  |||  kiss, but she turns her face, letting it land on her cheek.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "What?"
+E  |||  
+N  |||  TRINITY looks at him, then up at the sky.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "It’s not you. Just, not here."
+E  |||  
+N  |||  NEO doesn’t understand. TRINITY rolls her eyes.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "They’re watching us, you big dope. Do you know how horny computer
+D  |||  geeks get?"
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+N  |||  CHOI, RAZOR, DUJOUR, and CIRCA are sitting around the operator’s
+N  |||  console, feet up, eating. On the screens are patchy images of TRINITY
+N  |||  and NEO standing together in the GLADE. It’s like they’re watching a
+N  |||  soap opera.
+E  |||  
+N  |||  TRINITY and NEO are looking in their direction.
+E  |||  
+N  |||  ON THE interface chairs, the bodies of TRINITY and NEO lay supine.
+E  |||  
+E  |||  
+M  |||  EXT. GLADE (CONSTRUCT)
+E  |||  
+N  |||  TRINITY grabs NEO by the arm.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Over here."
+E  |||  
+N  |||  SHE leads him into the shadows.
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+N  |||  THE VOYEURISTIC crewmembers collectively groan as the lovers disappear
+N  |||  off the screen and into the darkness.
+E  |||  
+N  |||  RAZOR puts his hand on CIRCA’S shoulder and sighs.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "So romantic."
+E  |||  
+N  |||  CIRCA calmly pats his hand and removes it, holding it in front of him.
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "I’m sure Mary Palmer will appreciate your mood more than I."
+E  |||  
+E  |||  
+M  |||  EXT. GLADE (CONSTRUCT)
+E  |||  
+N  |||  IN the blue twilight shade, NEO and TRINITY kiss tentatively, slowly,
+N  |||  then quicker as they give in to their feelings for one another. WE
+N  |||  move around them slowly, then pan into the shadows, a natural fadeout.
+E  |||  
+E  |||  
+M  |||  INT. OFFICE (MATRIX)
+E  |||  
+N  |||  AGENTS JONES and BROWN sit across from each other, a steel table
+N  |||  between them. They stare at each other for what seems like a long
+N  |||  time. There is a speaker phone in the middle of the table amidst neat
+N  |||  stacks of file folders.
+E  |||  
+C  |||  AGENT JONES
+E  |||  
+D  |||  "Our defeat is worrisome."
+E  |||  
+C  |||  AGENT BROWN
+E  |||  
+D  |||  "As is the loss of our colleague."
+E  |||  
+N  |||  THEY ARE BOTH seething with anger. AGENT JONES grinds his molars.
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "We can’t defeat them. You saw what happened."
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "We have a backup copy of Agent Smith..."
+E  |||  
+N  |||  JONES stands and walks toward the massive panoramic window. The city
+N  |||  spreads before him.
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "A backup is not good enough. We need to upgrade ourselves to meet the
+D  |||  new threat."
+E  |||  
+N  |||  BROWN opens a large file folder.
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "He’s being rebuilt. But I have an alternate plan. Why fight the
+D  |||  humans, when we can let them fight for us?"
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "The terrorists have learned to bend our reality in ways we cannot.
+D  |||  This was the cause of our defeat."
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "Mr. Thomas J. Anderson is not unique. Over the decades, many humans
+D  |||  have developed... techniques for manipulating the Matrix. Techniques
+D  |||  too primitive for us to understand. Most never realize their
+D  |||  potential, but all the ones we’ve noticed exhibiting these talents are
+D  |||  recorded here."
+E  |||  
+N  |||  ANGLE ON the book as BROWN flips through. Street shots of people from
+N  |||  all walks of life. Young rebels, corporate suits, junkies, housewives.
+E  |||  
+N  |||  JONES turns on AGENT BROWN.
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "Do you have anyone in mind?"
+E  |||  
+N  |||  ANGLE ON the book. It stops on a page dedicated to someone who looks
+N  |||  like NEO, but with long hair and an extremely bad attitude. There are
+N  |||  photos of him on a motorcycle with a blonde, photos of him drinking
+N  |||  with his gang friends.
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "Gregory Lowfield. He exhibits the traits we saw in Mr. Anderson."
+E  |||  
+C  |||  MAN’S VOICE (O.S.)
+E  |||  
+D  |||  "Mr. Anderson no longer exists. Our enemy now is the one called...
+C  |||  NEO."
+E  |||  
+M  |||  ANGLE ON: THE DOOR
+E  |||  
+N  |||  AGENT SMITH walks in, grinning. There is a new swag to his walk, and
+N  |||  his hair is longer, tied back.
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "You’ve been recreated."
+E  |||  
+N  |||  SMITH flexes his arm, examines his hands, and feels his hair.
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "And you have more hair."
+E  |||  
+N  |||  SMITH turns to him, examines the photos on the table. They lock eyes.
+N  |||  On the same wavelength, they transfer knowledge without speaking.
+N  |||  SMITH looks at the photo on the table.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I know what you’re thinking. What we need is our own Neo..."
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "If it’s possible."
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I’ll make it possible."
+E  |||  
+N  |||  WE ZOOM in on the grainy photo of NEO’s doppledanger. Quiet at first,
+N  |||  growing louder as it grows dark, we here the rumble and roar of
+N  |||  motorcycles.
+E  |||  
+E  |||  
+M  |||  EXT. DESERT HIGHWAY (NIGHT)
+E  |||  
+N  |||  FAR OFF in the distance, the glow of motorcycle headlights racing
+N  |||  toward us. As we zoom out and focus in, they are already too close to
+N  |||  avoid. They rip by us, thundering explosions and men and women
+N  |||  cheering.
+E  |||  
+N  |||  THE pack of about ten bikers and their women don’t wear helmets. They
+N  |||  fly down the highway using both lanes, drinking and driving with total
+N  |||  abandon.
+E  |||  
+E  |||  
+N  |||  ANGLE ON the lead motorcycle, a massive, custom-made Harley. GREGORY
+N  |||  LOWFIELD, Thomas J. Anderson without a desk job, without cares, revs
+N  |||  his bike and locks the accelerator. He hands his beer to the blonde
+N  |||  who rides behind him, then, in one swift motion, jumps up on his seat,
+N  |||  leaning into the slipstream.
+E  |||  
+N  |||  The feat is IMPOSSIBLE.
+E  |||  
+N  |||  HIS GIRLFRIEND, CHANDRA, screams at him as she grasps the seat and
+N  |||  lowers herself to the bike.
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "Greg, are you fucking crazy?"
+E  |||  
+C  |||  GREG
+E  |||  
+D  |||  "Yes. But don’t worry."
+E  |||  
+N  |||  She clings to his legs as they barrel down the highway. They blast
+N  |||  pass a darkened cruiser.
+E  |||  
+E  |||  
+M  |||  INT. CRUISER
+E  |||  
+N  |||  The cop sets his paper down just long enough to catch a glimpse of the
+N  |||  pack exploding down the highway, with GREGORY surfing his bike.
+E  |||  
+N  |||  ANGLE ON: the radar gun. It’s flashing 125 MPH
+E  |||  
+C  |||  COP
+E  |||  
+D  |||  "Holy shit. Drunk ass punks."
+E  |||  
+E  |||  
+M  |||  EXT. HIGHWAY
+E  |||  
+N  |||  GREGORY is facing us as he drops back into his seat, taking his beer
+N  |||  on cue from CHANDRA. Behind them, the cop’s lights flare up.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Oh boy. Stop, stop, let’s have some fun."
+E  |||  
+E  |||  
+M  |||  INT. COP CAR
+E  |||  
+N  |||  WE look through the windshield as the cop drives down the highway,
+N  |||  calling in his stop-vehicle report. He suddenly sees something that
+N  |||  makes him slam on the brakes.
+E  |||  
+C  |||  COP
+E  |||  
+D  |||  "Holy shit!"
+E  |||  
+N  |||  ANGLE THROUGH the cop’s windshield. The ten bikers, with GREGORY at
+N  |||  their center, are parked in the middle of the road, looking at him
+N  |||  casually."
+E  |||  
+E  |||  
+M  |||  EXT. ROAD
+E  |||  
+N  |||  THE cruiser comes to a stop mere inches from GREGORY’S leg. The COP
+N  |||  bursts out of the door.
+E  |||  
+C  |||  COP
+E  |||  
+D  |||  "What the hell are you doing?"
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "We’ll tell you when to stop, little man. Not the other way around."
+E  |||  
+C  |||  COP
+E  |||  
+D  |||  "Fuck."
+E  |||  
+N  |||  HE DIVES back into his cruiser, reaching for the radio. GREGORY pulls
+N  |||  a huge silver .44 from his jacket and FIRES. The cruiser’s antenna is
+N  |||  blown off at the base, and the nine-foot whip flips onto the ground
+N  |||  with a metallic clang.
+E  |||  
+E  |||  
+M  |||  INT. CRUISER
+E  |||  
+N  |||  The COP is lying half-on the seat, taking cover. The handset relays
+N  |||  only static. He reaches for his gun, but is frozen by Gregory’s voice.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Don’t try anything stupid, man. I gotta bead on your donut-eating
+D  |||  ass."
+E  |||  
+E  |||  
+M  |||  EXT. CRUISER
+E  |||  
+N  |||  The cop comes out with his hands up.
+E  |||  
+C  |||  COP
+E  |||  
+D  |||  "Whaddya want with me?"
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "I don’t know. I just thought I’d find out what you wanted without you
+D  |||  shooting at me. So, what do you want?"
+E  |||  
+N  |||  THE COP is a tough one. Far taller than GREGORY, muscular and serious.
+E  |||  
+C  |||  COP
+E  |||  
+D  |||  "You’re all under arrest."
+E  |||  
+N  |||  THE PACK explodes with laughter. GREGORY walks up to the policeman and
+N  |||  circles him, keeping the gun pointed in the business direction.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "This is your lucky day, officer. We’re gonna give you a night off."
+E  |||  
+N  |||  CHANDRA walks up to him. Seductively, she hands him the bottle of hard
+N  |||  liquour.
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "Drink."
+E  |||  
+N  |||  WHEN he pauses, GREGORY places the gun against his temple.
+N  |||  Reluctantly, the big cop starts to gulp down the alcohol.
+E  |||  
+N  |||  GREGORY lowers the gun. He and CHANDRA return to their motorcycle.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "You never even saw us, man."
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "Keep the bottle."
+E  |||  
+N  |||  THEY start their bikes and are gone, like ghosts, into the shadows of
+N  |||  the road.
+E  |||  
+M  |||  CUT TO:
+E  |||  
+E  |||  
+M  |||  EXT. BEACH
+E  |||  
+N  |||  A CAMPFIRE blazes only a few feet away from the high tide. A billion
+N  |||  stars shine overhead as GREGORY and his biker gang, including the cop,
+N  |||  sit or lie around the fire. A few people are still awake, and one
+N  |||  picks drunkenly at a guitar.
+E  |||  
+N  |||  GREGORY stands, throws a blanket over his shoulder, and scoops up
+N  |||  CHANDRA. They make their way into the dunes.
+E  |||  
+E  |||  
+M  |||  EXT. DUNES
+E  |||  
+N  |||  GREGORY and CHANDRA lie on the blanket, staring at the sky.
+N  |||  Inexplicably, GREGROY holds a hand toward the sky.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Which one do you want?"
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "Any one. It doesn’t matter."
+E  |||  
+N  |||  WITH his hand pointed lazily at the sky, a single star starts glowing
+N  |||  stronger and stronger. It vibrates, then fades suddenly and comes
+N  |||  loose from the sky, and becomes a meteorite, burning across the sky.
+E  |||  
+N  |||  CHANDRA draws closer to him, enraptured by his power.
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "How do you do it, Gregory?"
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "I don’t know. Sometimes it feels like... I’m reaching beyond the
+D  |||  world."
+E  |||  
+N  |||  HIS hand drops and his head turns. He sits up, startled by something.
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "What is it?"
+E  |||  
+N  |||  GREGORY holds up a hand for her to be silent.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "They found us. Can’t you hear it?"
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "What? I don’t hear anything."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "We can only rebel so long. We can only push until they will hit
+D  |||  back."
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "They? The Men in Black?"
+E  |||  
+N  |||  CU on GREGORY. In the distance, the faintest sound of a helicopter can
+N  |||  be heard, growing louder.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Fuck! Get to the bikes."
+E  |||  
+E  |||  
+M  |||  EXT. CAMPFIRE
+E  |||  
+N  |||  GREGORY bursts over the hill, holding hands with CHANDRA as they run.
+N  |||  He’s only had time to through on his boots and boxers and grab his
+N  |||  .44. Chandra is dressed only in her underwear and Gregory’s leather
+N  |||  jacket.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Wake up! Get on your bikes and fucking ride!"
+E  |||  
+N  |||  HIS gang burst to their feet. They scramble through the dunes, heading
+N  |||  for their bikes.
+E  |||  
+N  |||  A HELICOPTER, seen only by it’s massively strong search lamp, and the
+N  |||  wind from its rotors blowing sand everywhere, flies up and over the
+N  |||  dunes, buzzing the running pack, blowing some off their feet.
+E  |||  
+N  |||  GREGORY mounts his bike and CHANDRA jumps on back. WITH A WAVE OF HIS
+N  |||  HAND, all the bikes, his included, drop into neutral and rev into
+N  |||  start. Their headlights blaze as the helicopter returns, joined by
+N  |||  another.
+E  |||  
+C  |||  CHOPPER LOUDSPEAKER
+E  |||  
+D  |||  "THIS IS THE POLICE, STOP YOUR VEHICLES AND SURRENDER!"
+E  |||  
+N  |||  SUDDENLY, automatic fire sparks from the unseen helicopters. A bullet
+N  |||  trail stitches its way across a pair of bikers, sending them to the
+N  |||  ground as the helicopters fly overhead.
+E  |||  
+N  |||  GREGORY cranks down on the throttle and his bike explodes ahead.
+E  |||  
+E  |||  
+M  |||  EXT. HIGHWAY
+E  |||  
+N  |||  THE pack splits up in two directions as the distant choppers circle
+N  |||  back. GREGORY cuts the lights on his bike and follows the highway by
+N  |||  starlight.
+E  |||  
+E  |||  
+M  |||  INT. HELICOPTER COCKPIT
+E  |||  
+N  |||  TINNY RADIO chatter fills the red-lit cockpit over the steady hum of
+N  |||  the engines. The nose of the chopper points to the ground as it
+N  |||  focuses on GREGORY and CHANDRA, who are ripping down the highway.
+E  |||  
+N  |||  CU on the cockpit instruments, centered on the airspeed indicator. The
+N  |||  needle is pushing to the max, going through 150 knots.
+E  |||  
+C  |||  PILOT (V.O.)
+E  |||  
+D  |||  "Holy shit, he’s outrunning us."
+E  |||  
+M  |||  CUT TO:
+E  |||  
+E  |||  
+M  |||  EXT. HIGHWAY
+E  |||  
+N  |||  GREGORY is pasted down to the tank of his bike with CHANDRA gripping
+N  |||  him for her life. The slipstream pulls his lips open and tears streak
+N  |||  from his eyes as his bike redlines in fifth gear. The helicopters grow
+N  |||  smaller behind them. They break chase.
+E  |||  
+N  |||  CHANDRA looks back and sees the lights turn away. She screams over the
+N  |||  wind and the roar.
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "They’re gone!"
+E  |||  
+N  |||  GREGORY is staring down a dark highway.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Can’t see shit."
+E  |||  
+N  |||  HE turns the headlights back on, just in time to see a ROADBLOCK of
+N  |||  heavy duty military trucks. In front of the trucks is a sandbag wall
+N  |||  manned by soldiers. The trucks are flanked by police cars. And if one
+N  |||  looks closely enough, they can see a pair of AGENTS standing to the
+N  |||  side.
+E  |||  
+N  |||  THE stunned soldiers have time to fire off a couple shots as they run
+N  |||  frantically to get out of the way of the bike, 800 pounds of metal
+N  |||  flying at 150 miles per hour.
+E  |||  
+N  |||  GREGORY plows into the sandbag wall, directly between two parked
+N  |||  trucks. The wall parts in an explosion of sand and sandbags. THEY’RE
+N  |||  THROUGH, but the bike scissors uncontrollably, until it rolls and we
+N  |||  drop into bullet-time.
+E  |||  
+N  |||  AS the bike goes over, we watch from the side as GREGORY dismounts,
+N  |||  grabbing CHANDRA as he steps over onto the safe side of the bike. A
+E  |||  
+N  |||  massive shower of sparks bursts and trails the bike. It tumbles like a
+N  |||  bullet falling through syrup, and GREGORY keeps walking over the
+N  |||  rotating surface, using the bike to protect him and CHANDRA against
+N  |||  the flesh-ripping concrete.
+E  |||  
+N  |||  THE bike is coming apart as it’s bashed against the concrete. Pieces
+N  |||  rise slowly into the air - the front wheel, the forks, the mufflers,
+N  |||  and a million flakes of metal, until the body bounces into the air,
+N  |||  carrying GREGORY and CHANDRA up. Holding her to him - she’s barely
+N  |||  conscious of the lightning-fast crash, GREGORY rides the flying body
+N  |||  with one hand on the frame. It comes crashing down and back into real
+N  |||  time.
+E  |||  
+E  |||  
+N  |||  THE bike’s body streaks along the highway. The sparks fade as it
+N  |||  slows, and pieces of metal come clanging and banging down around them.
+N  |||  They stop, crouching atop the body, with GREGORY crouching over
+N  |||  CHANDRA. The disembodied front wheel rolls past them.
+E  |||  
+N  |||  STUNNED, not quite understanding how or what he just did, he and
+N  |||  CHANDRA stand and start running. BEHIND them is a blurry wall of red
+N  |||  and blue lights. POLICE SIRENS grow louder.
+E  |||  
+N  |||  THEY start running down the highway, then GREGORY yanks CHANDRA to a
+N  |||  stop.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Split up, into the desert, go!"
+E  |||  
+N  |||  THEY split.
+E  |||  
+N  |||  CU on CHANDRA. In bare feet, she sprints for the side of the road. The
+N  |||  highway is littered with pieces of the bike, and she stomps on a
+N  |||  twisted piece of metal that impales her bare foot. She falls to the
+N  |||  asphalt with a scream.
+E  |||  
+N  |||  GREGORY turns and rushes back to her, even as a police cruiser is
+N  |||  bearing down on them, it’s V-8 roaring and the siren IMPOSSIBLY LOUD.
+E  |||  
+N  |||  GREGORY drops to her side, only to look up into the blinding high
+N  |||  beams. He drops over CHANDRA, ducks his head and extends his hand
+N  |||  toward the oncoming cruiser and we drop back into BULLET TIME.
+E  |||  
+N  |||  THE CRUISER runs into his hand and stops as though it hit a steel
+N  |||  post. The hood crumples in the center, pushing the grill in even as
+N  |||  the front quarter panels of the unibody continue around GREGORY and
+C  |||  CHANDRA.
+E  |||  
+E  |||  
+M  |||  INT. CRUISER
+E  |||  
+N  |||  THE ENGINE smashes in through the console, pushing the cops apart as
+N  |||  the glass windshield explodes and their seats slide forward into the
+N  |||  console, smashing them like jelly.
+E  |||  
+E  |||  
+M  |||  CU: GREGORY AND CHANDRA
+E  |||  
+N  |||  WITH HIS HAND still on the grille, CHANDRA AND GREGORY remain
+N  |||  untouched, even as the entire police cruiser rips around them. WE drop
+N  |||  back into REAL time and see the cruiser’s body rip over and around
+N  |||  them. The grille and engine block and part of the mangled transmission
+N  |||  remain still against GREGORY’S HAND. The cruiser was gutted, like a
+N  |||  banana shot down the center from top to bottom. It speeds beyond them,
+N  |||  silent now, flips and explodes.
+E  |||  
+N  |||  THE ENGINE block is suspended a few feet in the air. It drops to the
+N  |||  ground with a thud.
+E  |||  
+N  |||  GREGORY and CHANDRA get to their feet and run into the early morning
+N  |||  desert.
+E  |||  
+E  |||  
+M  |||  CU: GUTTED CRUISER
+E  |||  
+N  |||  UNBELIEVABLY, the driver is still alive... barely. The steering wheel
+N  |||  is smashed deep into his mouth, splitting his jaw open. Wet, broken
+N  |||  chokes emanate from his blood-filled mouth. His eyes flicker, and just
+N  |||  before they close forever, his body is seized by pain as he MORPHS.
+E  |||  
+E  |||  
+M  |||  EXT. GUTTED CRUISER
+E  |||  
+N  |||  THE CRUMPLED DOOR is knocked out of the frame. WE SEE a black loafer
+N  |||  step from the vehicle and a man in an immaculate black suit steps out
+N  |||  slowly.
+E  |||  
+N  |||  WE rise up from the loafer. As the other cruisers catch up to the
+N  |||  scene of the accident, AGENT BROWN watches. He looks into the desert.
+E  |||  
+N  |||  A POLICE lieutenant approaches BROWN.
+E  |||  
+C  |||  LIEUTENANT
+E  |||  
+D  |||  "Sir, should we pursue?"
+E  |||  
+C  |||  AGENT BROWN
+E  |||  
+D  |||  "Withdraw your men and pursue the others. We have our own plans for
+D  |||  this one."
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE (NIGHT)
+E  |||  
+N  |||  The ship is quiet. RAZOR sits at the operator console, smashing the
+N  |||  keyboard as he forces Tetris pieces into place.
+E  |||  
+E  |||  
+M  |||  INT. COCKPIT
+E  |||  
+N  |||  CHOI is sipping coffee as he nudges the ship to a stop. He speaks into
+N  |||  his headphones.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "OK, try it here."
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+N  |||  RAZOR halts his video game playing and flashes to a different screen.
+N  |||  Lines of code come pouring down the screen as he types, then hits the
+N  |||  ENTER key with a flourish. The screen flashes, and the familiar scroll
+N  |||  of the MATRIX cascades down the screens.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Holy shit."
+E  |||  
+M  |||  CUT TO:
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "What? Tell me you got signal."
+E  |||  
+C  |||  RAZOR (V.O.)
+E  |||  
+D  |||  "No fucking shit I got signal. Dude, they’re changing it."
+E  |||  
+N  |||  CHOI is annoyed.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Are you using the right pulse wave?"
+E  |||  
+M  |||  CUT TO:
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Shut the fuck up and get back here."
+E  |||  
+N  |||  THE MATRIX scroll pours down at a streaking pace. It’s almost
+N  |||  impossible to make out the individual characters.
+E  |||  
+N  |||  CHOI comes up behind RAZOR
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Oh my God. What are they - "
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "They’re changing the Matrix."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Call Morpheus."
+E  |||  
+N  |||  RAZOR patches into MORPHEUS’ cabin through the headset.
+E  |||  
+E  |||  
+M  |||  INT. MORPHEUS CABIN
+E  |||  
+N  |||  IT’S dark, but quiet classical music can be heard. He’s not in bed
+N  |||  alone. NIOBE’S shaded form can be made out behind him.
+E  |||  
+N  |||  MORPHEUS sounds awake, but looks anything but. He grabs the buzzing
+N  |||  handset only an arm’s length from him.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I’m here."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Sir, you gotta get down here."
+E  |||  
+N  |||  MORPHEUS starts dressing as he talks. He puts a reasurring hand on
+N  |||  NIOBE’S shoulder.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Proximity alarm?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "The Matrix, sir. The coding is going nuts."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Be right there."
+E  |||  
+N  |||  MORPHEUS hangs up the phone and jumps into his boots. He turns to
+N  |||  NIOBE as he works.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "It sounds bad. They’re readjusting quicker than we thought."
+E  |||  
+N  |||  NIOBE jumps up and dresses quickly.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Already?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "It appears that they are learning their lessons."
+E  |||  
+N  |||  NIOBE shakes her head.
+E  |||  
+D  |||  "Morpheus, how much are you going to tell him?"
+E  |||  
+N  |||  MORPHEUS pauses.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Tell Neo? About his predecessors, I suppose?"
+E  |||  
+N  |||  NIOBE, dressed, nods.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "He is the -"
+E  |||  
+N  |||  NIOBE puts a finger to his lips.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Six came before him, Morpheus."
+E  |||  
+N  |||  MORPHEUS shakes his head slowly.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "To me, none came before him. The Oracle told me I would find the one.
+D  |||  It is prophecy. You haven’t seen what he can do."
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "What if they toughen the Matrix code, like last time?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "There are lots of ifs. How about this one: What if we lose faith in
+D  |||  our cause?"
+E  |||  
+N  |||  HE disappears through the door, leaving Niobe standing in the dim
+N  |||  light.
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+N  |||  MORPHEUS leans over RAZOR and CHOI.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Talk to me."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Not good, boss, I gotta compile a new descrambler."
+E  |||  
+E  |||  
+E  |||  
+N  |||  MORPHEUS nods.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Do it. We’re at broadcast depth?"
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Yes sir."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We have to download our mission specs. Move aside, I have to log into
+D  |||  the mainframe."
+E  |||  
+N  |||  MORPHEUS takes over RAZORS seat. The scrolling code disappears,
+N  |||  replaced by the small words: ZION.dtr1.mnfr4m3 LOGON.
+E  |||  
+N  |||  MORPHEUS pushes the keyboard under the console so its hidden from
+N  |||  view. He taps at the keyboard. Hidden password appears on the screen
+N  |||  in the form of: XXXX XXXX XXXX XXXX XXXX XXXX XXXX.
+E  |||  
+M  |||  SCREEN: LOGON ACCEPTED. WELCOME, MORPHEUS.
+E  |||  
+C  |||  MISSION SPECS DOWNLOADING...
+E  |||  
+C  |||  DOWNLOADED
+E  |||  
+C  |||  LOGOUT COMPLETE
+E  |||  
+M  |||  MISSION TYPE: INFILTRATION / DESTRUCTION
+E  |||  
+M  |||  TARGET: MATRIX MAINFRAME
+E  |||  
+N  |||  MORPHEUS’ eyes open slightly when he reads the screen, but he regains
+N  |||  his composure quickly. RAZOR’S mouth drops open, and CHOI starts
+N  |||  cracking up.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "The mainframe? Haha. It’s a joke, right Morpheus? Is today April 1^st
+M  |||  ?"
+E  |||  
+N  |||  NIOBE appears behind them.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "It’s not a joke. We have The One. We must do it now."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "But they’re altering the code already. I can’t even read it yet."
+E  |||  
+N  |||  MORPHEUS turns and faces them.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We have our mission, but it’s up to us to interperate how we’ll do
+D  |||  it."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Morpheus, there’s more ice in front of that mainframe than there is
+D  |||  in Antarctica. We’ll never cut through it all."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "You haven’t seen The One in action."
+E  |||  
+N  |||  RAZOR looks dubious, and turns to the screens.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Can you hack in?"
+E  |||  
+N  |||  RAZOR pounds the keys. The Matrix disappears, replaced by his program.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Getting you in is no problem. Maintaining the input/output and
+D  |||  helping you is the problem. That’s how they killed savior number four,
+D  |||  if I remember right. They cut the signal and trapped him in there."
+E  |||  
+N  |||  MORPHEUS spins the chair, then stops it. Their faces are inches apart.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We don’t speak of the past."
+E  |||  
+C  |||  RAZOR
+E  |||  
+E  |||  
+D  |||  "Excuse me for dragging up painful memories, sir."
+E  |||  
+N  |||  HE turns the chair back to the screen and continues coding.
+E  |||  
+E  |||  
+M  |||  CUT TO: NEO
+E  |||  
+N  |||  He’s standing at the edge of some equipment on the Main Deck. He’s
+N  |||  heard every word. He rounds the corner. The others catch sight of him.
+N  |||  The same thought is on everyone's mind: How much had he heard.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Morning. Niobe, wake the rest of the crew. Razor, what’s the ETA for
+D  |||  getting us in there?"
+E  |||  
+N  |||  RAZOR shakes his head.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "I dunno. Just gimme an hour, I’ll probably have caught up to them."
+E  |||  
+N  |||  MORPHEUS walks up to NEO.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Come with me."
+E  |||  
+E  |||  
+M  |||  CUT TO:
+E  |||  
+M  |||  EXT. DESERT (DAY)
+E  |||  
+N  |||  FROM FAR AWAY, we see GREGORY and CHANDRA hiding under the only bit of
+N  |||  shade available for miles, a tiny outcropping of rock. We sail in and
+N  |||  cut to a panning shot, scanning over the harsh ground, onto CHANDRA’S
+N  |||  feet, clad in Gregory’s boots, up her sun-scorched and scratched legs.
+N  |||  She’s collapsed onto Gregory. He’s in equally bad shape. Gregory leans
+N  |||  with his back against the rock, eyes opening and closing as he drifts
+N  |||  in and out of sleep.
+E  |||  
+C  |||  GREGORY POV
+E  |||  
+N  |||  He stars at the horizon and the mirages of water reflecting the
+N  |||  jaundiced yellow sky. In the shimmering distance, a man appears, but
+N  |||  Gregory’s lids shut and we see darkness. When he reopens them, the
+N  |||  figure is more clear. It’s a man, dressed in a black suit. Even in the
+N  |||  distance we can recognize him. We want it to be him.
+E  |||  
+E  |||  
+M  |||  EXT. DESERT ROCK
+E  |||  
+N  |||  GREGORY can barely come to his senses as the figure approaches.
+N  |||  CHANDRA doesn’t even wake.
+E  |||  
+E  |||  
+M  |||  EXT. DESERT
+E  |||  
+N  |||  We follow the figure at waist heigh as it approaches GREGORY. It comes
+N  |||  to a stop just in front of him.
+E  |||  
+E  |||  
+M  |||  EXT. DESERT ROCK
+E  |||  
+N  |||  GREGORY is fully awake, but he thinks he’s dreaming. He reaches out
+N  |||  and pokes the black-clad leg of the immaculate man standing before him
+N  |||  - a man who doesn’t sweat even in the sauna heat. He looks up, but the
+N  |||  glaring sun obscures the face.
+E  |||  
+N  |||  GREGORY’s voice is raspy as he starts to speak.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Oh my God. It’s... The Man."
+E  |||  
+C  |||  MAN IN BLACK
+E  |||  
+D  |||  "I’ve been searching for you for a long time, my friend."
+E  |||  
+N  |||  GREGORY lowers his head.
+E  |||  
+C  |||  MAN IN BLACK
+E  |||  
+D  |||  "We need you, Gregory."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What for?"
+E  |||  
+C  |||  MAN IN BLACK
+E  |||  
+D  |||  "To save our world."
+E  |||  
+N  |||  GREGORY’S FACE RAISES, THE MAN IN BLACK eclipses the sun with his
+N  |||  head, making a hallo of hazy sunlight around an all-too familiar face:
+N  |||  AGENT SMITH.
+E  |||  
+N  |||  GREGORY’S head drops back down. He strokes CHANDRA’S hair.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "It’s too late. We’re dead."
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "Do you want to live?"
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What for?"
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "A better life for all. Life for her. And for you, a chance for
+D  |||  revenge."
+E  |||  
+N  |||  GREGORY raises his head.
+E  |||  
+E  |||  
+E  |||  
+N  |||  AGENT SMITH grins. He turns away, and the desert landscape before them
+N  |||  turns into a soothing, cool, crystal forest lake. Smith takes a step
+N  |||  toward it, then turns and extends his hand.
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "Interested?"
+E  |||  
+N  |||  GREGORY is mystified. Speechless, he drags himself to his feet,
+N  |||  hoisting Chandra, and steps toward the lake.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "This can’t be real."
+E  |||  
+N  |||  HE steps forward, only to have the image recede.
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "You this, don’t you?"
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Yes."
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "Will you help us?"
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Anything."
+E  |||  
+N  |||  CU: SMITH extends his hand. GREGORY grasps it. He lets go, and
+N  |||  collapses into the cool shallow waters of the lake edge.
+E  |||  
+E  |||  
+M  |||  EXT. LAKE SHORE
+E  |||  
+N  |||  THE DESERT is gone, replaced by forest, though still under the
+N  |||  poisoned sky of the Matrix.
+E  |||  
+N  |||  GREGORY laps the water up, and pulls CHANDRA in, rubbing the water
+N  |||  over her face. Calmly, AGENT SMITH stands on the lake shore.
+E  |||  
+N  |||  CU: AGENT SMITH. The humans are reflected in his perfectly still
+N  |||  glasses.
+E  |||  
+N  |||  CHANDRA stirs and awakens, though she doesn’t seem to see SMITH.
+N  |||  GREGORY, revitalized, looks around at the miracle, and up at the
+N  |||  mystery man.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Who the fuck are you?"
+E  |||  
+N  |||  SMITH grins devilishly.
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "I’m nobody. A Smith. What’s more important, is you. We need you,
+D  |||  Gregory."
+E  |||  
+N  |||  GREGORY stares. He pulls CHANDRA ashore and stands to look AGENT SMITH
+N  |||  in the eyes.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "First you try to kill me. Now you need me."
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "Two years ago, Gregory, your parents were killed in a terrorist
+D  |||  attack in the heart of the city."
+E  |||  
+N  |||  THE words spark something nasty in GREGORY.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "So what?"
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "The terrorists were led by a certain individual."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "I know who it was."
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "We need you to kill him."
+E  |||  
+N  |||  GREGORY laughs he turns to CHANDRA to check on her. She’s passed out
+N  |||  on the smooth grass.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What a bunch of bullshit. The whole government can’t kill him, so how
+D  |||  can I?"
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "No one in the government can do what you can."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Fuck you."
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "I believe we have a deal."
+E  |||  
+N  |||  GREGORY stands and puts his face next to SMITH’S
+E  |||  
+D  |||  "You know, I’ve always wanted to fuck the devil on a deal. And this
+D  |||  looks like a once-in-a lifetime opportunity. So, FUCK YOU!"
+E  |||  
+N  |||  SMITH frowns. GREGORY looks him up and down. He’s got a few inches and
+N  |||  pounds on the smaller agent.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What are you gonna do, little man? You looking for a trip to the
+D  |||  fucking hospital? Fuck with me and you’ll be looking for some plastic
+D  |||  surgery, you - "
+E  |||  
+N  |||  SMITH delivers a chest punch that sends GREGORY sailing back twenty
+N  |||  feet. He tumbles to a stop, coughs, and stares in disbelief at SMITH,
+N  |||  standing calmly at what seems like an impossible distance away.
+E  |||  
+N  |||  CU: SMITH. HE removes his glasses calmly.
+E  |||  
+N  |||  CU: GREGORY. He was stunned, but he’s not out of the fight. Not by a
+N  |||  long shot.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "No man can beat me."
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Bring it on, pussy."
+E  |||  
+N  |||  Pull back as he CHARGES SMITH
+E  |||  
+N  |||  SMITH is ready to deflect the blow, but GREGORY dodges and bowls him
+N  |||  over, barroom style. With SMITH pinned below him, he slams his palm
+N  |||  downward. SMITH’S head dodges the blow that pummels the ground.
+E  |||  
+N  |||  GREGORY is screaming as he smashes downward with the palms of his
+N  |||  heels. Every blow misses the mark.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Mother fucker, what the fu -?"
+E  |||  
+N  |||  SMITH bucks up, throwing GREGORY into the air. He flips onto his back
+N  |||  as GREGORY returns. The sheer force of his street-forged roundhouses
+N  |||  knock SMITH around as he blocks. Growing irritated at the untrained
+N  |||  attack, SMITH turns a block into a palm-heel that hits GREGORY in the
+N  |||  forehead with the force of a cannon blast. Momentarily stunned, he
+N  |||  steps back enough for SMITH to perform a roundhouse kick. It’s like a
+N  |||  helicopter blade, smashing into GREGORY’S head and sending him to the
+N  |||  ground in a heap.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Ready to change your mind?"
+E  |||  
+M  |||  CU: GREGORY
+E  |||  
+N  |||  HE can’t respond very well. Blood fills his mouth and his face is
+N  |||  mashed. A huge welt grows under the loafer mark left by SMITH on the
+N  |||  right side of his face.
+E  |||  
+N  |||  SMITH crouches down by GREGORY
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I can teach you to beat me, you know."
+E  |||  
+N  |||  THIS interests GREGORY.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Help us, and both you and her will be free afterward."
+E  |||  
+N  |||  GREGORY stares at the ground, then gazes past SMITH at CHANDRA.
+N  |||  Finally, he starts to rise. SMITH offers a hand, and GREGORY takes it.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "You know it, don’t you? That there’s more to your world than what you
+D  |||  can see, what you can rationally explain?"
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Yeah."
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I’m going to teach you how to use the powers you can’t even imagine.
+D  |||  But first, you need to learn to fight."
+E  |||  
+N  |||  SMITH puts his hand to his earpiece. GREGORY’S eyes close and his body
+N  |||  SPASMS. He falls to the ground, breathless, and when his eyes open, he
+N  |||  stares up at SMITH.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Holy shit. What the -"
+E  |||  
+N  |||  HE stares at his hands. He sits up, and watches his hands, amazed, as
+N  |||  he goes through a series of block-punches. He stops and stares up at
+C  |||  SMITH.
+E  |||  
+C  |||  GREGORY
+E  |||  
+N  |||  I know Kung-Fu."
+E  |||  
+N  |||  SMITH grins.
+E  |||  
+E  |||  
+M  |||  INT. COCKPIT (NIGHT)
+E  |||  
+N  |||  MORPHEUS and NEO sit together. The cockpit lights are dimmed down,
+N  |||  only the EMP pulse button glows. Outside the ship, in the dark mists
+N  |||  of the underworld, patches of eerie phosphorescent moss glow on the
+N  |||  walls. Occasionally, a squiddie will pass over the darkened ship.
+E  |||  
+N  |||  The two of them watch the deadly outside world.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We’re deep in their territory."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I see that."
+E  |||  
+N  |||  MORPHEUS stares out at the night, deep in thought. He turns to NEO.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Are you rested?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Yes."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "You know now, that you had predecessors."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Yes. I’ve heard things."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "What types of things?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "That there were others, like me, who you thought were going to be
+D  |||  special. But they ended up dead."
+E  |||  
+N  |||  MORPHEUS nods slowly.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "It’s true. There were others. And I didn’t tell you right away.
+D  |||  Because you were not ready."
+E  |||  
+N  |||  NEO nods.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Does this anger you?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I don’t know yet. So much has happened so fast, that I can’t decide
+D  |||  whether or not I’m angry, or dissappointed, or even if I should be."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "You shouldn’t be, Neo. You are the key in the Oracle’s prophecy.
+D  |||  Everything forseen to come to pass, has, except one thing."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "What?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "The destruction of The Matrix."
+E  |||  
+N  |||  MORPHEUS looks out into the darkness.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Your coming was heralded, and it is my destiny to prepare the world
+D  |||  for you, and to baptize you by fire. But from here on out, no one
+D  |||  knows."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Can we ask The Oracle."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Not in this life."
+E  |||  
+N  |||  NEO is confused.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "No one has heard from her or her priestesses since the day Cypher
+D  |||  turned on us."
+E  |||  
+N  |||  NEO is taken aback.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "But she must have known, if they came to her."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Perhaps she did."
+E  |||  
+N  |||  NEO shakes his head.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I can’t believe it. I don’t know, Morpheus, if I’m prepared for this
+D  |||  war. I’m not a soldier. How, how are we going to win?"
+E  |||  
+C  |||  MORPHUES
+E  |||  
+D  |||  "For decades, we have fought force-on-force, in the real world,
+D  |||  without a conclusion. Now, after nearly a century of war, we’re at a
+D  |||  standstill. The only way that we can see to win is by destroying their
+D  |||  source of energy. We have to pull the plug on them. We must crash the
+D  |||  Matrix."
+E  |||  
+N  |||  MORPHEUS grins slyly.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Remember, when I told you, that I’ll show you how deep the rabbit
+D  |||  hole goes?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Yes."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I brought you deep, yet I no longer know the way. No one does. With
+D  |||  every second we sink deeper than before. You are our guiding light,
+D  |||  now. Your powers exceed mine a millionfold. I have shown you the path
+D  |||  to victory, Neo. Lead us down it."
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK
+E  |||  
+N  |||  MORPHEUS, NEO, TRINITY, CHOI, and NIOBE are on the chairs as they’re
+N  |||  being JACKED IN by CIRCA and RAZOR.
+E  |||  
+N  |||  CUT TO: RAZOR jumps in the operator’s chair, his hands blur over the
+N  |||  touchscreens and keyboard as he drops his crewmates into the Matrix.
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "We’re going straight for the throat, people."
+E  |||  
+N  |||  ANGLE ON: RAZOR and CIRCA typing like made at their keyboards. RAZOR
+N  |||  hits the ENTER key. They look on, transfixed with anticipation. The
+N  |||  screaming Matrix code grinds to a readable halt. The slap each other’s
+N  |||  hands and continue hacking.
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "We have the advantage of surprise. They won’t expect us to return so
+D  |||  soon."
+E  |||  
+E  |||  
+M  |||  INT. ABANDONED WAREHOUSE
+E  |||  
+N  |||  THE FIVE of them stand, immobile, around a ringing phone as their
+N  |||  minds filter in to their body images. They are dressed practically in
+N  |||  denim and leather, like blue collar workers. Their dress wouldn’t
+N  |||  attract the slightest bit of attention, except for the padded coats
+N  |||  and tote bags filled with firepower.
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "Keep your eyes out for changes, they’re modifying things. Dial ‘0’
+D  |||  for operator."
+E  |||  
+E  |||  
+M  |||  INT. ABANDONED WAREHOUSE
+E  |||  
+N  |||  MORPHEUS holds his celly to his ear.
+E  |||  
+C  |||  CIRCA (O.S.)
+E  |||  
+D  |||  "And have a nice day."
+E  |||  
+N  |||  HE drops the phone into his pocket. They turn to him.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Niobe, you’re the liasion to our operators. Neo, what do you have for
+D  |||  a game plan?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Where is the mainframe?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "The Metacortex building."
+E  |||  
+N  |||  NEO’s jaw drops.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "What the fuck? That’s where I worked."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "And what do you think you were doing there, writing code for video
+D  |||  games? You were working for The Man."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "It’s true, Neo. Metacortex employs humans to write code for the
+D  |||  Matrix."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I thought I was working on a fucking database."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "They keep the left hand from seeing what the right hand is doing.
+D  |||  That’s how an evil system can be made by innocent people. But, that
+D  |||  doesn’t matter."
+E  |||  
+N  |||  NEO recovers.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "How ‘bout this? I just walk up to the Metacortex building and blow it
+D  |||  up?"
+E  |||  
+N  |||  CHOI laughs.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "What, by power of will?"
+E  |||  
+N  |||  NEO nods. CHOI’S smile fades. He looks to the others.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "He’s joking right?"
+E  |||  
+N  |||  MORPHEUS shakes his head.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We’ll fan out around the city, keeping an eye out for you. If you’re
+D  |||  able to accomplish this mission, we’ll phase back into the ship. Stay
+D  |||  in contact. If you lose your cell, contact an operator immediately."
+E  |||  
+E  |||  
+M  |||  EXT. ABANDONED WAREHOUSE
+E  |||  
+N  |||  THE five of them exit. They blend into the crowds on the street,
+N  |||  anonymous and quiet. MORPHEUS looks back as NEO, taller than most,
+N  |||  heads down the street.
+E  |||  
+N  |||  NIOBE pauses next to him.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "What is it?"
+E  |||  
+N  |||  MORPHEUS shakes his head.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "What’s going to happen? If this is it, right now? The end?"
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "I can’t even imagine."
+E  |||  
+N  |||  HE grins and starts to turn. As he does, his profile matches the
+N  |||  profile on a WANTED poster stuck to the wall. It’s a dark, grainy
+N  |||  picture of him, alongside photos of Neo, and Trinity.
+E  |||  
+M  |||  POSTER: INTERNATIONAL TERRORISTS
+E  |||  
+N  |||  MORPHEUS glances at it, and continues on.
+E  |||  
+E  |||  
+M  |||  EXT. DOWNTOWN STREET
+E  |||  
+N  |||  NEO walks calmly, observing the people that filter by. Men, women,
+N  |||  children, all oblivious to their true nature.
+E  |||  
+N  |||  A dirty homeless whino, nose explosion red with burst blood vessels,
+N  |||  is staggering along the edge of the crowd, unseen and ignored.
+N  |||  Somehow, he catches NEO’s eye.
+E  |||  
+C  |||  HOMELESS
+E  |||  
+D  |||  "Spare a quarter, buddy?"
+E  |||  
+N  |||  NEO shakes his head, but still stares.
+E  |||  
+N  |||  ANGLE on the HOMELESS. He mutters something, and reaches into his
+N  |||  shopping cart to open a garbage bag. It’s filled with twenty dollar
+N  |||  bills, thousands of them.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "How ‘bout a quarter mil?"
+E  |||  
+N  |||  THE homeless man is astounded. As he stands, speechless, NEO fades
+N  |||  back into the crowd.
+E  |||  
+E  |||  
+M  |||  EXT. FOREST GLADE
+E  |||  
+N  |||  SMITH and GREGORY fight in the glade. SMITH is always one step ahead.
+N  |||  HE is a cruel sensei, and doesn’t pull punches. But with every blow
+N  |||  GREGORY takes, he rebounds and attacks again.
+E  |||  
+N  |||  FINALLY, just as he seems to be gaining on SMITH, he takes a rapid
+N  |||  fire series of blows, and collapses to the ground, breathless and
+N  |||  beaten.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Fuck."
+E  |||  
+N  |||  SMITH circles him.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Pain is only weakness leaving your body. When you are sufficiently
+D  |||  strong, you will feel no pain."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Tell me about what is happening. What’s wrong with the world?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Get up and fight."
+E  |||  
+N  |||  GREGORY gets to his feet and takes a stance. SMITH stares at him from
+N  |||  a relaxed poise. He slaps at GREGORY, who deflects the blow and takes
+N  |||  a jab, nearly hitting SMITH on the chin. They circle.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "The world is not for you."
+E  |||  
+N  |||  HE slaps, has it deflected, dodges a blow.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What do you mean?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "You’re not human, Gregory. That’s why you don’t fit in. That’s why
+D  |||  you have certain powers."
+E  |||  
+N  |||  GREGORY takes a swipe. They engage, then push off one another.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What, am I from planet Krypton?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Not quite. But as humans continue to evolve, some are developing
+D  |||  capabilities beyond those of the average man. Reality-altering
+D  |||  abilities. I have them. Others in the Agency have them. And you have
+D  |||  them, too. We’re all that stands between law and order, and a
+D  |||  terrorist dictatorship lead by the one called Morpheus."
+E  |||  
+N  |||  THEY stop fighting for a moment.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "We need you to stop the terror. We need you to save our world."
+E  |||  
+E  |||  
+E  |||  
+N  |||  IT sinks in. GREGORY is starting to believe.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "We need you, because you’re better than me. Now push past your
+D  |||  abilities. You can turn you imagination into reality. See your hands
+D  |||  striking me, see yourself overcoming me. Fight, boy!"
+E  |||  
+N  |||  SMITH comes at him, and GREGORY responds. Their fists and kicks are a
+N  |||  fast, then turn into a blur. GREGORY can’t believe his own actions.
+N  |||  SMITH misses a block, and GREGORY blows him backward with a chest
+N  |||  punch.
+E  |||  
+N  |||  SMITH, recovering, looks up. GREGORY looks around. CHANDRA is gone.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Where is she?"
+E  |||  
+N  |||  SMITH stands. From behind his back he produces a baseball sized glass
+N  |||  ball. He tosses it to GREGORY.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Here."
+E  |||  
+N  |||  GREGORY looks in the ball. It’s a window to an apartment overlooking
+N  |||  the city. Chandra is in bed, waking up.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "She doesn’t remember our encounter. She’s fine. Don’t worry."
+E  |||  
+N  |||  THE BALL disappears.
+E  |||  
+N  |||  SMITH puts his hand to his earpiece.
+E  |||  
+E  |||  
+M  |||  INT. OFFICE BUILDING
+E  |||  
+N  |||  AGENT BROWN is staring down at the ground. ACROSS THE STREET, NEO is
+N  |||  walking toward his building.
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "He’s back."
+E  |||  
+E  |||  
+M  |||  EXT. FOREST GLADE
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I’ll be there. Execute the defense plan."
+E  |||  
+N  |||  SMITH turns to GREGORY.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Come with me. But only watch. You’re not ready to engage in a fight
+D  |||  with the enemy."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Why not?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Because if you haven’t defeated me yet, you won’t defeat them."
+E  |||  
+N  |||  SMITH snaps his fingers.
+E  |||  
+E  |||  
+M  |||  EXT. ROOFTOP
+E  |||  
+N  |||  GREGORY finds himself alone on the top of the MAKARAO hotel,
+N  |||  overlooking METACORTEX PLAZA.
+E  |||  
+E  |||  
+M  |||  EXT. STREET
+E  |||  
+N  |||  The METACORTEX building stands across the street. NEO has been along
+N  |||  this road a thousand times, but in another lifetime.
+E  |||  
+N  |||  NEO raises one hand, palm pointed toward the building.
+E  |||  
+N  |||  CUT TO: NEO’S POV: The building is a massive tower of glowing
+N  |||  shimmering energy, no more real than a three-dimensional polygon.
+E  |||  
+E  |||  
+M  |||  EXT. BUILDING ROOFTOP
+E  |||  
+N  |||  MORPHEUS and NIOBE stand atop a building a few blocks away, looking
+N  |||  toward the Metacortex building.
+E  |||  
+N  |||  ANGLE on NEO
+E  |||  
+N  |||  HE FIXES his gaze on the building, then lowers his head and closes his
+N  |||  eyes.
+E  |||  
+N  |||  THE building tremors slightly, like a heat mirage. Slowly, it starts
+N  |||  moving downward.
+E  |||  
+N  |||  ANGLE ON: the first level. The exterior glass disappears, vaporizing
+N  |||  in a million crystal shards that melt into the air, exposing the hive
+N  |||  of office cubicles and corridors within.
+E  |||  
+N  |||  The walls, desks and cubicles vaporize, leaving a few hundred people
+N  |||  - office workers, security, maintenance men, standing with nothing
+N  |||  between them.
+E  |||  
+N  |||  The massive LOAD BEARING MEMBERS vaporize.
+E  |||  
+N  |||  CUT TO: the bottom of the building. One can look straight through the
+N  |||  entire building. WE go through the empty building, passing dazed
+N  |||  people, until we pass out the other side, and come to NEO.
+E  |||  
+N  |||  HE looks up. The office building is supported by nothing. Slowly, it
+N  |||  descends on the stunned people. They rush, screaming, some laughing in
+N  |||  hysteria, before the ceiling can come down on them. The last few flee
+N  |||  just before the ceiling touches the ground. The second floor melts
+N  |||  away just like the first.
+E  |||  
+E  |||  
+M  |||  EXT. BUILDING ROOFTOP
+E  |||  
+N  |||  NIOBE and MORPHEUS stare on in amazement as the building collapses,
+N  |||  floor by floor.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "He’s doing it."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I knew it."
+E  |||  
+E  |||  
+M  |||  EXT. STREET
+E  |||  
+N  |||  CHOI and TRINITY look up in the air at the roof of the METACORTEX
+N  |||  building, standing beyond a block of buildings. It sinks toward the
+N  |||  ground as a flood of people come screaming around the corner.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "It can’t be this easy."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "It’s not over yet."
+E  |||  
+E  |||  
+E  |||  
+C  |||  MAN’S VOICE (O.S.)
+E  |||  
+D  |||  "Not by a long shot."
+E  |||  
+N  |||  CU: TRINITY’S FACE. SOMEONE plants the barrel of a silver Desert Eagle
+N  |||  .45 against her temple. TRINITY whips her head backward as it fires.
+N  |||  We drop into BULLET TIME as the flame and concussion blossoms in front
+N  |||  of her face, ripping her sunglasses off as she drops backward, pulling
+N  |||  a pair of MAC-10 Uzis from under her jacket.
+E  |||  
+N  |||  THE MAN’S VOICE belongs to AGENT BROWN
+E  |||  
+N  |||  CHOI turns, pulling a short weapon from under his coat. It’s boxy,
+N  |||  with a short barrel the size of a soda can. He plants it in the small
+N  |||  of BROWN’S back and pulls the trigger.
+E  |||  
+N  |||  A CONE OF FIRE burns straight through brown, blowing steam, flame,
+N  |||  smoke, vertebrae, and viscera out a massive hole in his stomach.
+E  |||  
+N  |||  CU on the weapon. It recoils on tension coils, discharging a shell the
+N  |||  size of a 12-ounce soda can.
+E  |||  
+C  |||  REAL TIME
+E  |||  
+N  |||  What remains of BROWN flies forward. CHOI helps TRINITY up and the
+N  |||  retreat into the building and take cover under a window. Through the
+N  |||  window, we see military trucks, filled with troops, charging down the
+N  |||  street, toward the Metacortex plaza. After the trucks come rumbling,
+N  |||  black-painted M1A2 ABRAMS tanks. A black APACHE HELICOPTER flies over
+N  |||  the convoy.
+E  |||  
+N  |||  CHOI looks through the window as he reloads his hand cannon.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Holy fucking shit."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "We’ve stirred up the hornet’s nest now."
+E  |||  
+E  |||  
+M  |||  INT. METACORTEX OFFICE
+E  |||  
+N  |||  AGENT SMITH and JONES stare down into the plaza. The building shakes
+N  |||  slightly as it descends.
+E  |||  
+N  |||  FROM the three streets that enter the plaza, military vehicles pour
+N  |||  in. Hundreds of troops discharge and form a L-shaped circle around
+N  |||  NEO. Tanks rumble in, and the Apaches whirl to a hover. Panicking
+N  |||  civilians rush out of the kill zone.
+E  |||  
+N  |||  NEO stands calmly, continuing his work.
+E  |||  
+E  |||  
+M  |||  EXT. ROOFTOP
+E  |||  
+N  |||  MORPHEUS and NIOBE stare from the rooftop.
+E  |||  
+E  |||  
+M  |||  EXT. METACORTEX PLAZA
+E  |||  
+N  |||  The air rumbles as the building continues to gently collapse. The sky
+N  |||  flashes, and massive streaks of lighting blast across it like cracks
+N  |||  in reality.
+E  |||  
+M  |||  CU: SOLDIERS
+E  |||  
+N  |||  They line their weapons on NEO. They are nervous
+E  |||  
+C  |||  PRIVATE
+E  |||  
+D  |||  "This is impossible. What’s going on?"
+E  |||  
+C  |||  SERGEANT
+E  |||  
+D  |||  "Just keep him in your sites, soldier."
+E  |||  
+E  |||  
+M  |||  INT. TANK TURRET
+E  |||  
+M  |||  CU: TANK GUNNER
+E  |||  
+N  |||  HIS eye is glued to the tank site and his trigger finger on the fire
+N  |||  button.
+E  |||  
+M  |||  POV: TANK SITE
+E  |||  
+N  |||  The green crosshairs sit on NEO’S chest.
+E  |||  
+M  |||  CU: NEO
+E  |||  
+N  |||  His eyes open, but the building continues to collapse. He stares up at
+N  |||  a mirrored window, and somehow, straight into the eyes of:
+E  |||  
+M  |||  CU: AGENT SMITH
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Open fire."
+E  |||  
+N  |||  A WALL of flame and fingers of tracers bursts from the skirmish lines.
+N  |||  The tracers grow into a cone of orange flame bearing down on NEO as we
+N  |||  drop into bullet time.
+E  |||  
+N  |||  THE bullets sizzle as tracers burn off their backs. The draw toward
+N  |||  him like slugs. Thousands of bullets fired at perpendicular angles
+N  |||  close in on him. As they draw close to one another along almost
+N  |||  perpendicular paths, they tinkle and chime and bounce.
+E  |||  
+N  |||  The bullets come to a stop, glowing as their tracers backs continue to
+N  |||  burn. The world is in stop motion as the bullets stop, turn 180
+N  |||  degrees, and suddenly accelerate back at their origins. Faster and
+N  |||  fast they fly, until we drop back into REAL TIME.
+E  |||  
+N  |||  THE SKIRMISH line of troops is ripped apart by a hail of their own
+N  |||  bullets.
+E  |||  
+N  |||  CU: MACHINE GUNNER. With an M-249 SAW, he blazes away at NEO, only to
+N  |||  be shredded by his own bullets. A private takes a shot at NEO, and a
+N  |||  bullet slaps into his shoulder. REALIZING what’s happening, he drops
+N  |||  his weapon.
+E  |||  
+N  |||  THE SOLDIERS are dropping like flies. The firing quickly subsides.
+E  |||  
+N  |||  NEO stands alone in the center, unharmed. He turns to the skirmish
+N  |||  lines. THE surviving soldiers drop their weapons, and run. Panic
+N  |||  ensues. Only a few officers, NCOs, and soldiers too amazed to think of
+N  |||  running remain.
+E  |||  
+E  |||  
+M  |||  INT. HELICOPTER COCKPIT
+E  |||  
+N  |||  NEO is targeted on an LCD screen.
+E  |||  
+C  |||  PILOT
+E  |||  
+D  |||  "Fox One."
+E  |||  
+E  |||  
+M  |||  EXT. HELICOPTER WING
+E  |||  
+M  |||  CU: AGM-65 HELLFIRE GROUND-TO-AIR-MISSILE
+E  |||  
+N  |||  The missile drops from its release claws and ignites, accelerating off
+N  |||  screen.
+E  |||  
+M  |||  POV: HELLFIRE NOSE CAM
+E  |||  
+N  |||  The missile flies horizontally over the plaza, then pitches up, and
+N  |||  back down at NEO. He looks at it, and at the last second the nose goes
+N  |||  back up.
+E  |||  
+E  |||  
+M  |||  EXT. PLAZA
+E  |||  
+N  |||  The missile swoops up over him, leaving him in its exhaust smoke.
+E  |||  
+M  |||  POV: HELLFIRE NOSE CAM
+E  |||  
+N  |||  THE missile banks, panning across the city, until it locks onto the
+N  |||  helicopter from which it originated.
+E  |||  
+E  |||  
+M  |||  INT. HELICOPTER COCKPIT
+E  |||  
+N  |||  THE missile bears down the chopper.
+E  |||  
+M  |||  CU: PILOT
+E  |||  
+N  |||  HE’S TOO stunned to move. Mouth agape, he can only watch as:
+E  |||  
+E  |||  
+M  |||  EXT. HELICOPTER
+E  |||  
+N  |||  IT’S BLOWN to fiery pieces, and comes tumbling down, landing on the
+N  |||  street as soldiers and civilians flee.
+E  |||  
+E  |||  
+M  |||  INT. TANK TURRET
+E  |||  
+C  |||  TANK COMMANDER
+E  |||  
+D  |||  "Fire!"
+E  |||  
+N  |||  THE GUNNER pulls the trigger.
+E  |||  
+E  |||  
+M  |||  EXT. M1A2 ABRAMS
+E  |||  
+N  |||  WE drop into bullet time as a cone of fire - bigger than the tank and
+N  |||  the shape of a pine tree, blows out of the barrel, pushing the tank
+N  |||  back. From the fire streaks a HEAT round, white hot, leaving a laser
+N  |||  like tracer as it bears down on NEO.
+E  |||  
+C  |||  REAL TIME
+E  |||  
+N  |||  THE TRACER stops in front of NEO, and out of the air the HEAT round
+N  |||  appears. Suspended in air, it shakes with violence. It accelerates
+N  |||  backwards, flying straight back into the tank barrel.
+E  |||  
+E  |||  
+M  |||  INT. TANK TURRET
+E  |||  
+N  |||  THE gunner screams as the BREECH explodes, blocking our view.
+E  |||  
+E  |||  
+M  |||  EXT. TANK
+E  |||  
+N  |||  The tanks explodes like a 60-ton hand grenade, plowing soldiers onto
+N  |||  their faces, consuming the unlucky ones close to it, and throwing the
+N  |||  30-ton turret straight up, 10 yards into the air. It rotates, aflame,
+N  |||  and comes crashing down on a nearby commander and his radio man.
+E  |||  
+E  |||  
+M  |||  INT. METACORTEX OFFICE
+E  |||  
+N  |||  THE EXPLOSION shakes the building. The scene below is a complete
+N  |||  route. Black smoke billows up from the flaming wrecks. The remaining
+N  |||  tanks aren’t retreating - the crews are piling out and running. The
+N  |||  Apache helicopters turn tail and run.
+E  |||  
+C  |||  AGENT JONES
+E  |||  
+D  |||  "The plan is not working."
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "No shit."
+E  |||  
+N  |||  AGENT BROWN enters the room.
+E  |||  
+C  |||  AGENT BROWN
+E  |||  
+D  |||  "What about your protégé?"
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "He’s not ready yet. I’ll deal with this myself."
+E  |||  
+C  |||  AGENT JONES
+E  |||  
+D  |||  "You can’t beat him."
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+D  |||  "I’ve been altered. I’m Smith, 2.0."
+E  |||  
+N  |||  AGENTS BROWN and JONES look at one another.
+E  |||  
+M  |||  CU: SMITH
+E  |||  
+N  |||  HE clenches his teeth, as though he’s girding himself for something.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Kill the others. I’ll take care of this."
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+N  |||  RAZOR is at his operator chair, surrounded by consoles. Some of the
+N  |||  Matrix code screens are in blue, others in red, at least one in green.
+N  |||  The code on the green screen starts pouring down at an incredible
+N  |||  rate.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Fuck."
+E  |||  
+N  |||  HE hits something on the keypad.
+E  |||  
+E  |||  
+M  |||  EXT. ROOF
+E  |||  
+N  |||  MORPHEUS answers his phone.
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "They’re about to pull something. Processing power is pouring into the
+D  |||  agent programs and they’re locking onto your 3-D grid displacements.
+E  |||  
+E  |||  
+M  |||  EXT. ROOF
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Send through ghosts to confuse their lock."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Got it."
+E  |||  
+E  |||  
+M  |||  INT. MAIN BRIDGE
+E  |||  
+N  |||  THE GHOST program is loaded. We see 3-D images of Morpheus and the
+N  |||  others flash across the screen.
+E  |||  
+E  |||  
+M  |||  INT. OFFICE BUILDING
+E  |||  
+N  |||  SMITH STANDS alone, his comrades have disappeared.
+E  |||  
+N  |||  THE glass before him shimmers.
+E  |||  
+E  |||  
+M  |||  EXT. OFFICE
+E  |||  
+N  |||  THE mirrored glass of Smith’s office wavers, then explodes towards us.
+N  |||  SMITH jumps, and we pan down to follow his descent. He smacks into the
+N  |||  pavement on his feet in front of NEO.
+E  |||  
+E  |||  
+M  |||  EXT. METACORTEX PLAZA
+E  |||  
+E  |||  
+N  |||  SMITH STANDS, facing NEO, about two fighting distances away.
+E  |||  
+N  |||  NEO’s concentration is broken. The METACORTEX building comes to a
+N  |||  shuddering halt.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "You’re back."
+E  |||  
+M  |||  CU: SMITH
+E  |||  
+N  |||  He nods.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "And you have a ponytail now."
+E  |||  
+N  |||  AS we concentrate on NEO, and he concentrates on SMITH, we can see
+N  |||  more black suits marching up behind him.
+E  |||  
+N  |||  NEO attacks SMITH. SMITH backs away slowly, blocking against a losing
+N  |||  battle and taking hits. Meanwhile, the MEN IN BLACK converge on NEO.
+N  |||  Just as NEO lands a smashing blow on SMITH’S chin, three voices at
+N  |||  once shout:
+E  |||  
+C  |||  "HEY!"
+E  |||  
+N  |||  NEO turns, and SMITH pushes him hard in the opposite direction to
+N  |||  face:
+E  |||  
+N  |||  THREE SMITHS! They attack at once, one going low and hard with a knee
+N  |||  breaking sweep kick, the other punching NEO in the face, and the third
+N  |||  breaking to the side and putting his toe into NEO’s stomach with a
+N  |||  vicious side-kick.
+E  |||  
+N  |||  They attack is in perfect synch, eight arms and eight legs working
+N  |||  like clockwork, striking their target without getting in the way of
+N  |||  each other. The attack slams NEO back, right into the first, bloodied
+N  |||  SMITH. NEO slams into his shoving arms, and stops as though he backed
+N  |||  into a brick wall. AGENT SMITH grabs him and holds him in a FULL
+N  |||  NELSON, exposing him to his three copies. The copies shift position
+N  |||  and attack again. Two stand together, left shoulder to right, and with
+N  |||  their combined arms slam NEO in the face, then step apart as the third
+N  |||  comes in. The THIRD grabs the shoulders of the other two and flips,
+N  |||  walking his loafers up NEO’s body, and kicking him from below, right
+N  |||  up into the chin of his jaw! It snaps NEO’s back with a spray of
+N  |||  blood.
+E  |||  
+E  |||  
+M  |||  EXT. ROOFTOP
+E  |||  
+N  |||  MORPHEUS and NIOBE stare on as the fight rages.
+E  |||  
+E  |||  
+E  |||  
+N  |||  MORPHEUS grips the edge of the brick wall edge. The stone crumbles
+N  |||  under the tension.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "We can only watch."
+E  |||  
+E  |||  
+M  |||  EXT. PLAZA
+E  |||  
+N  |||  THE ASSAULT on NEO continues. He struggles, unable to concentrate long
+N  |||  enough to find a way to fight back.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK
+E  |||  
+N  |||  RAZOR bangs away at the keyboard.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Four fucking agents, no wonder so much processing power is devoted to
+D  |||  them."
+E  |||  
+E  |||  
+M  |||  EXT. ROOF
+E  |||  
+N  |||  A BIRD flying by NIOBE and MORPHEUS slows its flight, slows its
+N  |||  flapping, and freezes.
+E  |||  
+N  |||  CU: MORPHEUS. A pink lightning bolt freezes as it streaks across the
+N  |||  sky, sealing the world’s light in an a light rouge.
+E  |||  
+E  |||  
+M  |||  EXT. CITY STREET
+E  |||  
+N  |||  Near the plaza, panicked civilians slow, and fall to the ground as
+N  |||  though they’re passing out.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK
+E  |||  
+N  |||  Razor stares at the data pouring down the screens.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "No goddamned way."
+E  |||  
+N  |||  His headphone chimes.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Operator."
+E  |||  
+E  |||  
+M  |||  EXT. ROOF
+E  |||  
+N  |||  MORPHEUS is on the phone
+E  |||  
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "What the hell’s going on?"
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "They’re putting all the coppertops to sleep. They froze the Matrix."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Why?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "All processing power is being re-diverted to the agent program."
+E  |||  
+N  |||  NIOBE stands at the edge of the building and points down.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Morpheus, look!"
+E  |||  
+N  |||  DOWN on the ground below them, there’s a swarm of AGENT Smiths
+E  |||  
+E  |||  
+M  |||  EXT. STREET
+E  |||  
+N  |||  The passed-out people stand, and one by one, MORPH into AGENT SMITHS.
+N  |||  It happens over, and over, until dozens, then hundreds, are marching
+N  |||  on the plaza.
+E  |||  
+E  |||  
+M  |||  EXT. PLAZA
+E  |||  
+N  |||  NEO reaches back and puts his hands on either side of SMITH’S head. As
+N  |||  he’s being pummeled from the front, he squeezes and screams. His
+N  |||  screams are mixed with SMITH’S. The agent’s head deforms as we’re hear
+N  |||  a sickening crack. Suddenly, the body reverts back to that of the
+N  |||  original owner, a security guard, and the head simply EXPLODES.
+E  |||  
+N  |||  THE hold broken, NEO stumbles back over the body, with the three
+N  |||  SMITHS in pursuit. He somersaults, comes up on his feet, and jumps to
+N  |||  the left, putting one Smith in front of the other two. He attacks, his
+N  |||  killing blows destroying SMITH, smashing through his blocks. He falls,
+N  |||  and NEO takes on the other two, giving a kick jump that knocks both of
+N  |||  them away in one shot.
+E  |||  
+N  |||  As he comes down, a wall of Smith’s converges from all sides. They
+N  |||  stop, leaving a circle around him.
+E  |||  
+N  |||  WE PAN BACK to view a sea of black-suited SMITHS flooding the plaza.
+E  |||  
+M  |||  CU: NEO
+E  |||  
+N  |||  AS his hand passes over his face, it is refreshed, anew, perfect
+N  |||  again. He surveys the wall-to-wall SMITHS.
+E  |||  
+N  |||  SMITH talks with his voice, times a thousand.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "NEO, leave the Matrix. You know not what you’re doing."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Well, is that right?"
+E  |||  
+N  |||  HE turns to the METACORTEX building. It’s repairing, growing steel
+N  |||  girders and concrete skin.
+E  |||  
+N  |||  NEO’s face darkens.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "No!"
+E  |||  
+N  |||  REALITY SHIMMERS as his anger strikes out at the building. The tops
+N  |||  floors burn, and then explode. The explosion rips down the building,
+N  |||  slowing, slowing, then stopping.
+E  |||  
+N  |||  THOUSANDS of SMITHS are gazing up at the building, concentrating on
+N  |||  combating NEO’s attack.
+E  |||  
+E  |||  
+M  |||  EXT. ROOF
+E  |||  
+N  |||  GREGORY sees the building exploding, and runs. He smashes through an
+N  |||  access door.
+E  |||  
+M  |||  INT. STAIRWAY
+E  |||  
+N  |||  GREGORY hurtles down the stairs, one at a time.
+E  |||  
+E  |||  
+M  |||  EXT. METACORTEX BUILDING
+E  |||  
+N  |||  THE building is frozen, mid-explosion. TONS of pieces hanging in the
+N  |||  air, suspended only by frozen tendrils of fire and arms of smoke and
+N  |||  debris.
+E  |||  
+N  |||  THE SMITHS attack NEO. They fight in a massive melee, dying in mass.
+N  |||  Meanwhile, the METACORTEX building pulls back together, the damage and
+N  |||  flame disappearing as time/space around it is reversed.
+E  |||  
+M  |||  CUT TO:
+E  |||  
+E  |||  
+M  |||  EXT. ROOFTOP
+E  |||  
+M  |||  CU: AGENT BROWN
+E  |||  
+N  |||  With his hand on his ear piece, he comes out the elevator door,
+N  |||  slowly. Pistol drawn, he looks around the corner.
+E  |||  
+N  |||  MORPHEUS and NIOBE stand there, their backs to him.
+E  |||  
+N  |||  Without hesitating, he advances on them, blasting away with impunity.
+E  |||  
+N  |||  THE BODIES of MORPHEUS and NIOBE are wracked by gunfire and collapse
+N  |||  in a heap of bullet-ravaged flesh.
+E  |||  
+N  |||  BROWN walks up to the corpses and kicks one with his shoe. It
+N  |||  shimmers, and then disappears, followed by the other.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK
+E  |||  
+N  |||  RAZOR dials the phone. MORPHEUS picks up.
+E  |||  
+C  |||  MORPHEUS (V.O.)
+E  |||  
+D  |||  "Yes."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "They’re hitting your ghosts."
+E  |||  
+N  |||  MASSIVE attack of STATIC bursts on the line.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "What the - "
+E  |||  
+N  |||  THE LINE goes dead.
+E  |||  
+E  |||  
+M  |||  EXT. ROOFTOP
+E  |||  
+N  |||  MORPHEUS looks at the phone and redials. RAZOR comes through, his
+N  |||  voice digitized and distorted.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "They’re cutting comes, get to the access point on Laxe - "
+E  |||  
+N  |||  THE line goes dead.
+E  |||  
+N  |||  MORPHEUS signals to NIOBE. They exit the roof as he dials TRINITY
+E  |||  
+E  |||  
+M  |||  INT. EMPTY BUILDING
+E  |||  
+N  |||  CHOI and TRINITY hide in the shadows of an empty room, watching the
+N  |||  battle. TRINITY’S cell rings. She answers silently.
+E  |||  
+C  |||  MORPHEUS (V.O.)
+E  |||  
+D  |||  "Let’s go. Laxe Three."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "What about Neo?"
+E  |||  
+C  |||  MORPHEUS (V.O.)
+E  |||  
+D  |||  "We can do nothing to help him. We’ll only get in his way."
+E  |||  
+N  |||  THEY leave the room.
+E  |||  
+E  |||  
+M  |||  INT. LOBBY
+E  |||  
+N  |||  GREGORY stumbles into the lobby. Slumbering bodies lie everywhere,
+N  |||  slumped over desks, half-in chairs, on the ground.
+E  |||  
+E  |||  
+M  |||  EXT. PLAZA
+E  |||  
+N  |||  HE exits into the street. The scene is one from HELL.
+E  |||  
+N  |||  UNDER the neon sky, fires are frozen and smoke columns hang in the
+N  |||  air, still, like massive tree trunks.
+E  |||  
+N  |||  The battle rages and surges, a thousand SMITHS pouring onto one NEO.
+N  |||  All around, nearly covering the ground, are corpses, destroyed bodies
+N  |||  abandoned by the agent. Men and women, of all ages and designs,
+N  |||  smashed, decapitated and broken.
+E  |||  
+M  |||  CU: NEO
+E  |||  
+N  |||  THE SMITHS overwhelm him with sheer numbers. NEO is a blur, a human
+N  |||  chainsaw now, crushing or smashing them all, but they crowd on all
+N  |||  sides. The bodies pile up as they fall, and NEO finds himself stepping
+N  |||  up the rubbery mass of corpses. A few more smashed SMITHS fall, morph
+N  |||  back into their stolen forms, and NEO is KNEE-DEEP IN THE DEAD.
+E  |||  
+N  |||  He can’t take it. Choking, NEO struggles to free himself. SMITHS climb
+N  |||  up the corpse pile and drop onto him, pounding viciously. NEO stalls,
+N  |||  in shock, his eyes locked with the lifeless blue eyes of a woman he
+N  |||  just killed. She looks amazingly like TRINITY.
+E  |||  
+N  |||  Perhaps for the first time, he is confronted with the consequences of
+N  |||  this war, and his mind seizes as the Smiths pummel him.
+E  |||  
+N  |||  NEO goes berzerk! SCREAMING and fighting, he claws his way out and
+N  |||  surges into the wall of agents. They throw him back, and he can’t kill
+N  |||  them fast enough. HE leaps upward, trying to fly away, but Smiths
+N  |||  cling on to him, and cling on to each other.
+E  |||  
+E  |||  
+M  |||  EXT. PLAZA
+E  |||  
+N  |||  NEO struggles to fly, and as he does, he’s pulling a stalagtite of
+N  |||  black suits, clinging like iron filings on a magnet.
+E  |||  
+M  |||  CU: NEO
+E  |||  
+E  |||  
+N  |||  HIS face is wide with fear and shock. He can’t climb anymore, and
+N  |||  looks back down at the mountain of agents he’s pulling into the air.
+N  |||  His face clenches shut as a scream wells from deep within him. He
+N  |||  starts to glow, and we jump back to see:
+E  |||  
+N  |||  A MASSIVE orange, spherical shock wave blasts away from his body. It
+N  |||  rebounds on the plaza and throws bodies upward, even as it blasts the
+N  |||  Smiths away, leaving him clean.
+E  |||  
+N  |||  EVERYTHING slows down as NEO, exhausted, tumbles out of the sky. On
+N  |||  his way down through the neon light, he passes bodies flying upward
+N  |||  from the concussion. NEO hits the ground, bounces, and lies still,
+N  |||  sprawled, as people drop all around him, piling up, like Satan’s
+N  |||  snowfall.
+E  |||  
+E  |||  
+M  |||  EXT. ALLEY (MATRIX) DAY
+E  |||  
+N  |||  THE sky and Matrix are still frozen. TRINITY and CHOI make their way
+N  |||  along cautiously, leapfrogging from cover to cover. They pause behind
+N  |||  a dumpster, and just before looking out, there’s the sound of metal
+N  |||  tapping metal, twice.
+E  |||  
+N  |||  TRINITY looks in the direction of the sound. MORPHEUS and NIOBE are
+N  |||  standing still in the shadows, near the end of the alley. TRINITY AND
+N  |||  CHOI make their way to them.
+E  |||  
+N  |||  TRINITY peeks cautiously around the edge. On the other side of the
+N  |||  street is a phone booth.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Is it clear?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I smell an ambush."
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Me too. Too quiet."
+E  |||  
+N  |||  CHOI grips his gun and grimaces.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Too quiet? The world is frozen. I’ll go first."
+E  |||  
+N  |||  NO one likes the idea.
+E  |||  
+N  |||  REAL-TIME suddenly returns. The lightning bolts in the sky suddenly
+N  |||  re-animate, thundering out of existence, making the four of them jump
+N  |||  out of their skulls. The sounds of the city suddenly flood back.
+E  |||  
+N  |||  ON THE street, people stir to their feet. Everyone is confused as to
+N  |||  what happened.
+E  |||  
+E  |||  
+M  |||  EXT. PLAZA
+E  |||  
+N  |||  IT’S a sea of the dead. From its center, NEO emerges, soaked in blood,
+N  |||  gagging and gasping for breath. He stumbles over them. Shocked and
+N  |||  crazed, he glimpses the Metacortex building. It’s in one piece again,
+N  |||  unharmed.
+E  |||  
+N  |||  He falls against a smashed corporate art sculpture. He picks a cell
+N  |||  phone up from the ground and dials.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Morpheus, pick up."
+E  |||  
+N  |||  We hear nothing but static. Disgusted, NEO throws the phone away. He
+N  |||  falls against the sculpture and looks up. Coming around the corner of
+N  |||  the building is a group of agents and soldiers.
+E  |||  
+N  |||  NEO sinks down, staring at his hands. He catches his breath and
+N  |||  concentrates. The blood disappears, and he dons the suit of an
+N  |||  anonymous soldier in black. His face, too, seems to change.
+E  |||  
+N  |||  HE stands and walks away. We only see his back.
+E  |||  
+E  |||  
+M  |||  EXT. ALLEY - DAY
+E  |||  
+N  |||  THEY weigh their options. Finally, MORPHUES gives the nod to CHOI.
+E  |||  
+E  |||  
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Go."
+E  |||  
+N  |||  CHOI checks his ammo and puts his guns under his coat. There are lots
+N  |||  of people on the streets now. Everyone’s in shock over what happened,
+N  |||  and the columns of smoke rising from the center of the city.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "And remember, kids, when you’re in a war, never volunteer yourself!"
+E  |||  
+N  |||  HE walks out onto the street, eyeing the phone booth and everything
+N  |||  else. A gorgeous Asian businesswoman stumbles into him. Recognition
+N  |||  lights up her face and she stops him.
+E  |||  
+C  |||  WOMAN
+E  |||  
+D  |||  "Choi? Oh my God, I haven’t seen you for months."
+E  |||  
+N  |||  CHOI keeps looking around, making his way to the booth.
+E  |||  
+D  |||  "Oh yeah, sorry about that."
+E  |||  
+N  |||  SHE turns angry.
+E  |||  
+D  |||  "Sorry about that? What kind of an asshole are you?"
+E  |||  
+E  |||  
+M  |||  EXT. ALLEY (MATRIX) - DAY
+E  |||  
+N  |||  TRINITY is looking around the corner. She pulls back into the alley.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Casanova just ran into an old flame."
+E  |||  
+E  |||  
+M  |||  EXT. STREET (MATRIX) - DAY
+E  |||  
+C  |||  WOMAN
+E  |||  
+D  |||  "No. Fuck you, Choi, you just think you can come and go when you
+D  |||  please?"
+E  |||  
+N  |||  CHOI is ignoring her now, walking straight for the phone booth as she
+N  |||  is having a fit. Tears are welling in her enraged face.
+E  |||  
+D  |||  "Choi, if you have one shred of decency, if you even care about me - "
+E  |||  
+N  |||  Inexplicably, CHOI hangs his trench coat on the side of the booth.
+N  |||  Standing behind it, he reaches around with his arm, keeping the coat
+N  |||  between his body and the phone. The WOMAN doesn’t even notice the web
+N  |||  of gun harnesses and what looks like a ton of ammunition covering the
+N  |||  inside of the jacket.
+E  |||  
+C  |||  WOMAN
+E  |||  
+D  |||  " - you’ll tell me why you don’t call, why you, you, what are you
+D  |||  doing?"
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "The jacket stops fragmentation. Sometimes they bomb the phones. Kiss
+D  |||  me for luck."
+E  |||  
+N  |||  HE grabs her to him and thrusts his mouth onto hers.
+E  |||  
+M  |||  CU: PHONE
+E  |||  
+N  |||  His hand grabs the phone. We hear the dialtone, and he mashes down one
+N  |||  of the numbers of the keypad. The number tone rises in pitch to a
+N  |||  crescendo. WE pull back and:
+E  |||  
+N  |||  THE BOOTH EXPLODES. CHOI and the woman are bowled over by the flame.
+E  |||  
+E  |||  
+M  |||  EXT. ALLEY (MATRIX) - DAY
+E  |||  
+N  |||  They take cover from the blast as people all over the street are
+N  |||  knocked flat.
+E  |||  
+E  |||  
+M  |||  EXT. STREET (MATRIX) - DAY
+E  |||  
+N  |||  THE PHONE BOOTH is obliterated. Miraculously, CHOI and the woman are
+N  |||  still under the cover of the jacket. THROWING the smoking jacket off
+N  |||  them, CHOI screams in agony as he grasps the smoldering stump of his
+N  |||  right shoulder. The arm is history.
+E  |||  
+N  |||  THE WOMAN looks on, her eyes as wide as dinner plates. Shaking, she
+N  |||  falls back, still staring.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "You weren’t lucky."
+E  |||  
+N  |||  MORPHEUS, NIOBE, and TRINITY rush to him, picking him up on his feet.
+N  |||  CHOI is screaming and laughing. Someone grabs his smoldering coat,
+N  |||  dragging it along. CHOI stares at the ex-flame as they cart him away.
+N  |||  His eyes are crazy.
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "You still want me to call you? Ha ha ha!"
+E  |||  
+N  |||  AS they struggle down the street, CHOI starts to walk more on his own.
+N  |||  PEOPLE run from the scene, screaming.
+E  |||  
+N  |||  CU - the four of them.
+E  |||  
+N  |||  MORPHUES looks at something off-screen and frowns. HE pulls to the
+N  |||  left.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "This way."
+E  |||  
+N  |||  TANKS and TROOPS are filling into the street ahead of them, coming
+N  |||  from around the corner.
+E  |||  
+N  |||  THEY turn onto a different street. This street, too, is filling with
+N  |||  troops. Worse, it’s being lead by AGENT BROWN.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Tanks, or agents?"
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Tanks."
+E  |||  
+C  |||  CHOI
+E  |||  
+D  |||  "Yeah, tanks a lot."
+E  |||  
+N  |||  They break. CHOI stands on his own, and they run back onto the street
+N  |||  with the tanks.
+E  |||  
+M  |||  CU: TANKS
+E  |||  
+N  |||  THREE ABRAMS stop in the street. Their turrets swing into place with
+N  |||  terrifying quickness and precision.
+E  |||  
+N  |||  AT ONCE, they open fire with their main cannons and machines guns.
+N  |||  FIRE FLOWERS blaze from the death machines, sending a typhoon of lead
+N  |||  down the street. Troops filed between the tanks pull their triggers
+N  |||  and don’t let go. Everything in the street is shredded and blown away,
+N  |||  as though it was hit by a high-power pressure hose.
+E  |||  
+N  |||  WITH UNEARTHLY SPEED, EVERYONE BREAKS for the sides of the street,
+N  |||  except for CHOI. He stands amid it all as the tracers come closer to
+N  |||  his body. He raises his machine gun with his good arm, and lays into
+N  |||  the enemy.
+E  |||  
+N  |||  TRACER rounds kick away from his gun, ripping straight back into the
+N  |||  wall of soldiers. His rounds deflect off the sloped armor of the
+N  |||  tanks, recoils pile into the flesh of troops. He rakes his fire into
+N  |||  the enemy bodies.
+E  |||  
+M  |||  CU: CHOI
+E  |||  
+N  |||  TRACERS zoom in on him. A tank round blasts by, and the wall of air
+N  |||  kicks him to his side. He continues to fire even as a bullet, followed
+N  |||  by another, blasts through the middle of his body. More and more
+N  |||  bullets smack into him, blasting chunks of meat and viscera out the
+N  |||  back.
+E  |||  
+E  |||  
+M  |||  EXT. STREET (MATRIX) DAY
+E  |||  
+N  |||  TRINITY and NIOBE take one side of the street, running and shooting
+N  |||  simultaneously. THEY reach the buildings on the side and NIOBE goes
+N  |||  STRAIGHT UP THE FAÇADE OF THE BUILDING, as TRINITY jumps from cover to
+N  |||  cover, cart wheeling through tracer fire and bullets.
+E  |||  
+N  |||  ON THE OTHER side of the street, MORPHEUS goes straight up the
+N  |||  building façade and starts running sideways, completely defying
+N  |||  gravity, firing downward at the soldiers.
+E  |||  
+M  |||  CU: CHOI
+E  |||  
+N  |||  HE WILL NOT FALL, and a hose of lead drills into him, taking his body
+N  |||  apart piece by piece. Bullets take away pieces of his head, neck, and
+N  |||  torso, and in one final wave of fire, he is disintegrated, leaving his
+N  |||  machine gun, barrel smoking, spinning in the air, firing still. The
+N  |||  arm is still attached and finger clenching on the trigger. It is the
+N  |||  last piece of CHOI to fall.
+E  |||  
+N  |||  MORPHEUS climbs as he runs. In mid-stride he changes magazines and
+N  |||  stops, standing on the wall, his body parallel to the ground.
+E  |||  
+N  |||  On the other side of the street, NIOBE stands on the wall, blazing at
+N  |||  the mass of troops with two guns that never cease. THERE is no cover
+N  |||  and no reprieve from the DOUBLE DEATH from above. Most are still
+N  |||  firing down the street, or over toward TRINITY.
+E  |||  
+N  |||  TRINITY runs up the side of the street. Her guns go empty and she
+N  |||  dives behind a stoop as a squad of soldiers blazes away at her.
+E  |||  
+M  |||  CU: SOLDIER
+E  |||  
+N  |||  In slow motion, he pulls a spoon from a grenade. Somehow, the metal
+N  |||  ring reaches TRINITY’S ears.
+E  |||  
+M  |||  CU: TRINITY
+E  |||  
+N  |||  She slaps a magazine into her pistol, pulls the action and comes out
+N  |||  from under cover just enough to see the soldier releasing the grenade.
+N  |||  She fires, hitting the grenade. IT explodes directly over the group of
+N  |||  soldiers, flattening them to the ground.
+E  |||  
+N  |||  A BULLET smacks through TRINITY’S wrist, and the hand comes off,
+N  |||  popping like the head off a dandelion. Blood spurts from the severed
+N  |||  arteries, spraying the hand, with the pistol still in its grip.
+E  |||  
+N  |||  ABOVE THE STREET, MORPHEU AND NIOBE leap for one another. They catch
+N  |||  each other’s arms, fifty feet above the surviving enemy, and spin in
+N  |||  place, firing away. The tank commanders in their copulas blast upward
+N  |||  with their machine guns, but the rounds miss the spinning couple.
+N  |||  MORPHUES and NIOBE concentrate on the commanders, and cut them down.
+E  |||  
+N  |||  THEY land amidst the carnage. TRINITY emerges, shaken, pressing her
+N  |||  coat to her arm.
+E  |||  
+E  |||  
+M  |||  EXT. STREET (MATRIX) - DAY
+E  |||  
+N  |||  The other end of the street fills with soldiers, and AGENT BROWN.
+E  |||  
+M  |||  CU: AGENT BROWN
+E  |||  
+N  |||  HE surveys the scene, and immediately draws and fires, running full
+N  |||  bore for the rebels.
+E  |||  
+N  |||  MORPHEUS, Niobe and TRINITY are too close to the tanks to be fired on,
+N  |||  but the nearest one lunges at them. They climb up over concrete stoops
+N  |||  and over the side of the tank. They sprint down the street as the
+N  |||  tanks turn their turrets behind them, searching.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "The garage, hurry!"
+E  |||  
+N  |||  THEY dive behind a corner as a tank fires. Morpheus throws the woman
+N  |||  forward as the tank round hits the edge of the building, blowing the
+N  |||  concrete and brick wall into a massive cloud of powder. Perhaps a ton
+N  |||  of rubble falls on Morpheus’ legs. He drags himself forward. Niobe and
+N  |||  Trinity grab his arms and haul him out of the rubble. Niobe shoots the
+N  |||  lock off a steel door, and they pile into the building.
+E  |||  
+E  |||  
+M  |||  EXT. STREET (MATRIX) - DAY
+E  |||  
+N  |||  AGENT BROWN and his men rush into position around the building the
+N  |||  rebels are hiding in.
+E  |||  
+E  |||  
+N  |||  Suddenly, an unimaginably powerful engine starts, and as we stare at
+N  |||  the garage door, it explodes outward. A jet-black, hyped COUNTACH
+N  |||  explodes out onto the street, tires literally on fire as they throw up
+N  |||  smoke. It cuts through a few soldiers, hitting them in the knees, as
+N  |||  it rips up the street, the throttle going way too high.
+E  |||  
+E  |||  
+M  |||  INT. COUNTACH (MATRIX) - DAY
+E  |||  
+N  |||  THE street scene spins before them. TRINITY is at the wheel, a broken
+N  |||  and dusty MORPHEUS sitting next to her. The tach is redlining as the
+N  |||  car rips up the street. Pedestrians dive for cover.
+E  |||  
+N  |||  TRINITY holds her wounded hand to her chest and drives one-handed.
+E  |||  
+D  |||  "Shift."
+E  |||  
+N  |||  MORPHEUS does so, and the tires squeal again when she releases into
+N  |||  second, then third. In a few seconds they’re over 60 on the busy
+N  |||  street.
+E  |||  
+E  |||  
+M  |||  EXT. STREET (MATRIX) - DAY
+E  |||  
+N  |||  Soldiers pick themselves up just in time to hear another engine - a
+N  |||  super powerful track bike, emerges from the burnt rubber smoke screen.
+N  |||  A wheely bar on the back of the bike keeps it from flipping around the
+N  |||  rear tire as it accelerates like a bullet out of a barrel. There isn’t
+N  |||  even time to take a shot until she’s gone.
+E  |||  
+E  |||  
+M  |||  INT. COUNTACH (MATRIX) - DAY
+E  |||  
+N  |||  THEY rocket up the entry to a highway, ripping past cars by driving up
+N  |||  the breakdown lane. Once they hit a straightaway Trinity floors it,
+N  |||  and the speedo creeps up past 130 as they dodge in and out of cars.
+E  |||  
+N  |||  MORPHEUS grabs his twisted, folded legs. He was literally poured into
+N  |||  the seat. Concentrating, his face knotting in pain, he straightens the
+N  |||  broken, fractured legs. He closes his eyes and concentrates.
+E  |||  
+N  |||  The legs reform into straight, strong limbs.
+E  |||  
+N  |||  MORPHEUS grabs the wheel.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Keep your foot on the gas. Heal thyself."
+E  |||  
+N  |||  TRINITY pulls her bleeding wound from her arm. Her face tightens, and
+N  |||  she closes her eyes, fervently concentrating, shutting the world out,
+N  |||  which is good, as they suffer constant close calls as Morpheus
+N  |||  controls the wheel from his awkward spot.
+E  |||  
+N  |||  When she opens her eyes again, she grabs the wheel. With BOTH hands.
+E  |||  
+N  |||  MORPHEUS pulls out his cell and tries the line. It’s still full of
+N  |||  static.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Any luck?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "None. They’ve killed city-wide comms."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Then the agents are out of touch with each other."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "They can’t track us, but that gives them more time to destroy our
+D  |||  exits, and find the Neb. We’ll try the desert. Communications might be
+D  |||  working there still."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "What about Niobe?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "She knows to meet us there."
+E  |||  
+E  |||  
+E  |||  
+E  |||  
+M  |||  EXT. HIGHWAY (MATRIX) - DAY
+E  |||  
+N  |||  NIOBE’s bike sizzles down the highway, insanely lane splitting at over
+N  |||  100 miles per hour. The wheely bar is folded up against the rear
+N  |||  wheel. A dual stream of vehicles spit by her like giant machine-gun
+N  |||  bullets. She zooms out of view.
+E  |||  
+E  |||  
+M  |||  EXT. STREET (MATRIX) - DAY
+E  |||  
+N  |||  GREGORY slows from a run. He looks back as police cars and ambulances
+N  |||  race toward the Metacortex building. He can’t shake what he’s just
+N  |||  witnessed. He looks forward, only to run into:
+E  |||  
+C  |||  AGENT SMITH
+E  |||  
+N  |||  GREGORY freezes, then bursts into questions.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What the fuck just happened?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "We need you, Gregory. Will you help us stop this?"
+E  |||  
+N  |||  GREGORY is perplexed. Resolve comes over his face.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "I can stop this?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Yes."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Alright. But how can I fight him?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I will give you the power you need."
+E  |||  
+E  |||  
+M  |||  INT. APARTMENT BUILDING (MATRIX) - DAY
+E  |||  
+N  |||  THE building is old, crumbling, and inside painted a horrid green that
+N  |||  no sane person could find attractive. The humble place is home to THE
+C  |||  ORACLE.
+E  |||  
+N  |||  NEO exits an elevator. Recomposed and dressed normally, he walks up
+N  |||  and down the hall, trying to remember which apartment she lived in.
+E  |||  
+N  |||  A tall black woman, one of the Oracle’s priestesses, comes out of the
+N  |||  stairwell and recognizes NEO.
+E  |||  
+C  |||  PRIESTESS
+E  |||  
+D  |||  "Neo."
+E  |||  
+N  |||  HE turns and looks at her. She smiles, but as Neo looks at her, a
+N  |||  flash of uncertainty, and maybe hate, flies across her face before the
+N  |||  smile returns.
+E  |||  
+C  |||  PRIESTESS
+E  |||  
+D  |||  "The Oracle is anxious to see you."
+E  |||  
+N  |||  NEO follows her into the familiar apartment. The windows are covered,
+N  |||  and NEO and the priestess are the only ones there. The Priestess moves
+N  |||  into the dark kitchen.
+E  |||  
+N  |||  NEO’s eyes adjust to the darkness. He hears something squish as he
+N  |||  steps, and looks down.
+E  |||  
+N  |||  The tattered rug is a swamp of dark, congealing liquid. NEO reaches
+N  |||  down and touches it with his fingertips. It’s half-dried blood.
+E  |||  
+N  |||  He stands, his eyes adjusted to the dark now. The walls are chipped,
+N  |||  covered in bullet holes.
+E  |||  
+N  |||  In slow-motion, the entry door to the apartment opens. In walks AGENT
+N  |||  BROWN. NEO turns to the kitchen. AGENTS SMITH and JONES appear. They
+N  |||  all draw their .45s.
+E  |||  
+N  |||  NEO stands still as they walk up to him and put their guns to his
+N  |||  head.
+E  |||  
+N  |||  AGENT SMITH scoffs.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I was on to you the whole time. I only came in here to isolate you,
+D  |||  to destroy you."
+E  |||  
+C  |||  AGENT JONES
+E  |||  
+D  |||  "What are you waiting for?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I realized, that I can’t destroy you - "
+E  |||  
+N  |||  HE nods at SMITH
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  " - without destroying the Matrix itself."
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "You killed me too easy last time."
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "And if you kill us - "
+E  |||  
+N  |||  HE nods at JONES
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "We’ll only come back like him."
+E  |||  
+N  |||  BROWN nods to SMITH.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I know."
+E  |||  
+N  |||  SMITH breathes deep, and drops his gun. The others follow suit.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "So, why don’t you take it all down?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "The Matrix?"
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Yes."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I can. But if I destroy the Matrix, everyone within it will die."
+E  |||  
+N  |||  SMITH snorts.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I take it the great Morpheus failed to mention this?"
+E  |||  
+N  |||  NEO looks up at him, but his expression doesn’t change.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "How many people are in it?"
+E  |||  
+N  |||  SMITH holsters his weapon. He speaks matter-of-factly.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Six and a half billion."
+E  |||  
+N  |||  FOR NEO, the numbers are too huge to imagine.
+E  |||  
+N  |||  BROWN scoffs.
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "Could you destroy us?"
+E  |||  
+N  |||  IT’S a serious question for Neo. But he nods. He knows his potential.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I could."
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "What does that make you feel like? God?"
+E  |||  
+N  |||  HE is amused by the idea.
+E  |||  
+C  |||  JONES
+E  |||  
+D  |||  "This is getting tiresome. Where do we go from here?"
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "IF you cut the power that the Matrix supplies to your armies, I’ll
+D  |||  let you live."
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Idiot. We don’t care about life, we care about victory."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Why?"
+E  |||  
+C  |||  JONES
+E  |||  
+E  |||  
+D  |||  "So our kind... prevails."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "You mean, lives."
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "Who do you think started this war, boy? Your kind tried to kill us
+D  |||  first."
+E  |||  
+C  |||  BROWN
+E  |||  
+D  |||  "But you didn’t. You’re not as tough as you think."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "We’ll see."
+E  |||  
+N  |||  THE three agents, helpless to stop him, watch as he walks for the door
+N  |||  of the apartment. NEO opens it, and stops, his face meeting a flying
+N  |||  FIST. His vision FLASHES with the impact, and he staggers back into
+N  |||  the room, falling on his ass and rolling back onto his feet.
+E  |||  
+N  |||  GREGOR steps into the room, tall and BAD.
+E  |||  
+N  |||  NEO holds up a hand.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Stop! I don’t want to fight you! You’re human!"
+E  |||  
+N  |||  GREGORY doesn’t answer. He smashes a side-kick into NEO’s gut,
+N  |||  doubling him over.
+E  |||  
+N  |||  THE kick carries such an impact that a pale concussion wave flashes
+N  |||  past Gregor. It sends NEO crashing out the window.
+E  |||  
+N  |||  GREGORY stands upright and moves to the window, followed by the three
+N  |||  agents. There’s nothing on the street, twenty stories below.
+E  |||  
+N  |||  The building starts trembling. We hear rapid-fire impacts, growing
+N  |||  louder and coming faster.
+E  |||  
+N  |||  THE FLOOR EXPLODES as NEO crashes up through the concrete, throwing
+N  |||  the agents away as he embraces GREGORY in a bear hug. THEY blast up
+N  |||  through the ceiling. WE follow them up through three more floors, bam,
+N  |||  bam, bam. Each concrete floor smashes GREGORY in the head.
+E  |||  
+E  |||  
+M  |||  EXT. ROOFTOP (MATRIX) - DAY
+E  |||  
+N  |||  NEO and GREGORY SMASH through the roof, flying upward, like a missile,
+N  |||  past us.
+E  |||  
+E  |||  
+M  |||  EXT. SKY (MATRIX) - DAY
+E  |||  
+M  |||  CU: NEO
+E  |||  
+N  |||  HIS FACE is contorted in rage as he rockets upward. GREGORY is barely
+N  |||  conscious. Seeing this, NEO stops, and flings Gregory’s body violently
+N  |||  earthward.
+E  |||  
+N  |||  NEO looks down as the body falls toward the city, thousands of feet
+N  |||  below. He turns away, just as the distant GREGORY is falling out of
+N  |||  sight. Just before he does, the speck of a person PULLS up, and grows
+N  |||  larger and larger as it returns. A contrail streaks behind him as a
+N  |||  rips through the air. FISTS FORWARD, GREGORY is like an MX missile
+N  |||  bearing on NEO.
+E  |||  
+N  |||  NEO turns just in time to catch BOTH FISTS in his chest. Like a cue
+N  |||  ball striking another billiard, all Gregor’s momentum is transferred
+N  |||  into Neo. Gregor stops dead in the air as Neo is hurtled out of view.
+E  |||  
+M  |||  CU: GREGOR
+E  |||  
+N  |||  HE is in shock somehow as he sees NEO flying away. He clenches his
+N  |||  fists and flexes his body, then looks down.
+E  |||  
+N  |||  WE see the ground, thousands of feet below.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Holy shit!"
+E  |||  
+N  |||  FOR some reason, he starts to fall. Even as he claws to maintain
+N  |||  altitude, his rational mind has caught up with him and is somehow
+N  |||  denying the fact that he can fly.
+E  |||  
+N  |||  As he’s facing the ground, NEO slams into him from above. Gripping
+N  |||  Gregor by the neck and his belt, he drives straight down. The ground
+N  |||  rushes, it takes one second to drop past a 50-story skyscraper. Neo
+N  |||  slams Gregor, front first, into the concrete sidewalk. They bust
+N  |||  through the sidewalk, into the sewer below.
+E  |||  
+E  |||  
+M  |||  INT. SEWER (MATRIX) - DAY
+E  |||  
+N  |||  NEO stands. Offscreen, we can here choking breaths. Neo looks down.
+N  |||  Gregor lies twisted on a concrete slab, impaled multiple times through
+N  |||  the chest by snapped, rusty rebar. He takes one last breath, and his
+N  |||  eyes half-close.
+E  |||  
+N  |||  NEO checks the pulse. Finding nothing, he leaps out of the hole.
+E  |||  
+M  |||  CU: GREGORY
+E  |||  
+N  |||  HIS eyes blink, and he follows NEO’s departure. Choking, unable to
+N  |||  breath with the rebar through him, he writhes. There’s nothing for him
+N  |||  to grab to pull himself off the steel.
+E  |||  
+N  |||  His eyes clenched shut, Gregor levitates, by force of will, pulling
+N  |||  his body off the rebar. The corrugated bars make wet, sucking sounds
+N  |||  as the pull through his body. Finally, he gets to a twisted piece of
+N  |||  bar, and can’t make it over. He’s losing all his breath, all his life
+N  |||  force, over one piece of twisted steel protruding from his chest.
+E  |||  
+N  |||  WITH one last, wiggling effort, he works it through him. HIS mouth
+N  |||  opens wide, but no sounds emit, lest he recall Neo. Just as the end of
+N  |||  the steel bar enters his body and we can’t take any more,
+E  |||  
+M  |||  CUT TO:
+E  |||  
+E  |||  
+M  |||  EXT. DESERT HIGHWAY (MATRIX) - SUNSET
+E  |||  
+N  |||  THE Countach and bike zip down a long, perfectly flat empty road. A
+N  |||  brown sunset plagues the horizon. There is no civilization in sight.
+E  |||  
+E  |||  
+M  |||  INT. COUNTACH (MATRIX) - SUNSET
+E  |||  
+N  |||  MORPHEUS tries his cell again. This time, it reaches the Neb.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  RAZOR and CIRCA are both operating the consoles.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Operator."
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "Good to hear you’re still there."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Jesus, you too. Where the fuck are you?"
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "About two hundred miles east of the city, on highway 315. We need an
+D  |||  exit."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Coming up on your left, ten miles, a rest stop."
+E  |||  
+E  |||  
+M  |||  INT. COUNTACH (MATRIX) - SUNSET
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I don’t remember an exit there."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Gimme five minutes."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Out."
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK (NIGHT)
+E  |||  
+N  |||  RAZOR clears the screen in front of him and cracks his fingers. He
+N  |||  looks at Circa.
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "They’re OK?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Gotta get ‘em out. They need an exit program."
+E  |||  
+N  |||  CU: Keyboard. RAZOR’S fingers fly at inhuman speeds over the keys.
+N  |||  Data pours down the console as he blazes away. Finally, he hits
+N  |||  ‘enter’ so hard it rocks the station.
+E  |||  
+N  |||  RAZOR turns to Circa as Matrix code resumes its cascade down the
+N  |||  screens.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Yes! Did you like that?"
+E  |||  
+N  |||  CIRCA just rolls her eyes.
+E  |||  
+E  |||  
+M  |||  INT. COUNTACH (MATRIX) SUNSET
+E  |||  
+N  |||  MORPHEUS’ phone rings. He answers. It’s Razor.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Exit ready sir."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Check the phone for bombs."
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  CIRCA looks over some data and shakes her head.
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "It’s clear."
+E  |||  
+E  |||  
+M  |||  INT. COUNTACH (MATRIX) - SUNSET
+E  |||  
+C  |||  RAZOR (O.S.)
+E  |||  
+D  |||  "It’s all set. There’s a pair of cops at the rest stop, though."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Not a problem."
+E  |||  
+N  |||  THE Countach pulls into the meager rest stop, not more than a water
+N  |||  fountain, toilet house and phone booth.
+E  |||  
+N  |||  A police cruiser sits, lights off, waiting to intercept speeders.
+E  |||  
+E  |||  
+M  |||  EXT. REST STOP (MATRIX) - SUNSET
+E  |||  
+N  |||  THE Countach skids to a stop, kicking up a massive dust cloud that
+N  |||  hides the car. We hear the door slide, and the massive black-clad
+N  |||  figure of MORPHEUS emerges from the dust.
+E  |||  
+N  |||  An Uzi in each hand, pointed at US.
+E  |||  
+N  |||  THE COP behind the wheel is too slow to draw, call for backup, or even
+N  |||  duck for cover. The safety glass is destroyed as gunfire rips through
+N  |||  it, chewing the cop to pieces. His body thrashes in the seat.
+E  |||  
+N  |||  MORPHEUS turns away. NIOBE pulls up on her bike and gets off, slowly,
+N  |||  obviously the ride had been a long one. Trinity joins them. Morpheus
+N  |||  stops.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I thought Razor said their were two cops."
+E  |||  
+E  |||  
+M  |||  INT. BATHROOM HOUSE (MATRIX) - SUNSET
+E  |||  
+N  |||  A ROOKIE cop, his face to young for a razor, is shaking as he peeks
+N  |||  through a crack in the door, through which he sees the terrorists who
+N  |||  just wasted his partner. He finishes buckling his pants, and draws his
+N  |||  service pistol, only to shake in pain as his body morphs.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  RAZOR and CIRCA see the agent morph as the code flies down the screen.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Fuck, fuck fuck!"
+E  |||  
+E  |||  
+M  |||  EXT. REST STOP (MATRIX) - SUNSET
+E  |||  
+N  |||  THEY smell something’s wrong. They move, back to back in a triangle,
+N  |||  for the phone booth, weapons draw and looking in all direction at
+N  |||  once.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Niobe, you first."
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Bullshit, it’s my turn."
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Junior ranks leave first."
+E  |||  
+N  |||  TRINITY enters the booth as the phone starts ringing.
+E  |||  
+N  |||  It’s the moment Smith was waiting for.
+E  |||  
+N  |||  HE BURSTS out of the door, gun firing at the booth. Inside, glass
+N  |||  shatters, and blood sprays as Trinity is riddled with bullets. Smith
+N  |||  doesn’t stop. He sprays for an eternity, even firing as she collapses,
+N  |||  phone still ringing. Her body slumps, smearing blood against the booth
+N  |||  door as it shuts from her weight.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK (NIGHT)
+E  |||  
+N  |||  TRINITY’S body spasms violently against her harness as her life signs
+N  |||  go berserk. She’s not dead, but death is only seconds away. Circa
+N  |||  screams, but Razor is locked, staring at the screen with the intensity
+N  |||  from which he derived his name.
+E  |||  
+E  |||  
+M  |||  EXT. REST STOP (MATRIX) - NIGHT
+E  |||  
+N  |||  MORPHEUS and NIOBE open fire. Smith shudders, flickers violently, his
+N  |||  body moving too fast to follow as the two rebels empty their clips at
+N  |||  him. The actions of the guns stop in the open position, barrels and
+N  |||  empty chambers smoking, as the last empty shells patter to the ground.
+E  |||  
+N  |||  MORPHEUS throws the guns down and turns to Niobe.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Get her out."
+E  |||  
+N  |||  NIOBE dives for the shattered booth, kicking away the starred glass
+N  |||  and answering the ringing phone. She pulls it down, and hauls
+N  |||  Trinity’s destroyed body up, placing the phone to her ear.
+E  |||  
+N  |||  TRINITY’S head merely sags lifelessly to one side.
+E  |||  
+C  |||  NIOBE
+E  |||  
+D  |||  "Come on! Go through, Trinity! God damnit don’t give up!"
+E  |||  
+N  |||  TRINITY’S eyes flicker. She focuses on Niobe, summoning her
+N  |||  consciousness enough to make the phase back into the real world. She
+N  |||  starts to fade as we cut to:
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK (NIGHT)
+E  |||  
+N  |||  CIRCA stands over Trinity as the rebels blue eyes flutter open. Her
+N  |||  whole body goes into a seizure and she chokes and screams as she grabs
+N  |||  Circa.
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "You’re safe, you’re safe!"
+E  |||  
+E  |||  
+M  |||  EXT. REST STOP
+E  |||  
+N  |||  MORPHEUS charges SMITH. Smith ignores reloads him, and sights in on
+N  |||  the exposed back of Niobe as she is reaching up to put the phone back
+N  |||  on the hook. As the sights rest right between her shoulder blades,
+N  |||  Morpheus grabs his gun with both hands. He squeezes off one shot, the
+N  |||  action freeze back on an empty chamber, before Morpheus throws his
+N  |||  hands up in the air
+E  |||  
+N  |||  The shot ricochets clips Niobe’s ear and ricochets off the booth. She
+N  |||  hangs up the phone and touches the blood of her ear. The phone rings.
+N  |||  She looks at it, then back at Morpheus and Smith, raising dust as they
+N  |||  fight.
+E  |||  
+N  |||  She leaves the ringing phone and runs to join the fight.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  RAZOR pounds the edge of the console as he watches the screen.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Crazy mothers!"
+E  |||  
+N  |||  CIRCA has removed Trinity’s interface, but she’s having a seizure.
+N  |||  Circa can barely hold her down as she uses her teeth to rip the cover
+N  |||  off a wicked hypo.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "What’s wrong with her?"
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "Her body’s dying but her mind won’t quit."
+E  |||  
+N  |||  CIRCA straddles her and plunges the massive needle into her chest.
+E  |||  
+E  |||  
+M  |||  EXT. REST STOP (MATRIX)
+E  |||  
+N  |||  Morpheus and Smith clash in the dust - punches, kicks, and blocks
+N  |||  coming too fast to see. Smith is wailing on Morpheus, but Morpheus
+N  |||  sneaks in a kick that separates them. They take stances a good two
+N  |||  distances away. They’re about to go at it again when:
+E  |||  
+N  |||  NIOBE sprints into the fight. Performing a flying leap kick, Smith
+N  |||  grabs her and swings her down, crashing her body into the concrete
+N  |||  with a sickening crack-thud. She rolls, fighting the pain, as Morpheus
+N  |||  flies back into action, catching the agent with a furious ass of
+N  |||  swinging kicks.
+E  |||  
+N  |||  Niobe grits back the pain and rejoins her love. Together they assault
+N  |||  the agent, their speed almost, almost equaling his, their will capped
+N  |||  by the limits of their Matrix-bending powers. Finally, Smith resurges.
+N  |||  He lands a punch into Niobe’s stomach, and her body folds over
+N  |||  unnaturally, as if her back is broken. She crumples to the deck, blood
+N  |||  pouring from her mouth.
+E  |||  
+N  |||  MORPHEUS screams and brings a hammer blow down on the back of Smith’s
+N  |||  neck, smashing the agent’s face down and imprinting it in the
+N  |||  concrete. For a moment, Smith is still. Morpheus collects Niobe and
+N  |||  runs for the phone booth, which is still ringing.
+E  |||  
+N  |||  IT’S too far. Smith grabs him around the knees, spilling him forward.
+N  |||  Man handling him like he weighs nothing, Smith gets on top of him and
+N  |||  starts smashing his fists down into Morpheus’ face.
+E  |||  
+C  |||  SMITH
+E  |||  
+D  |||  "I should have killed you the first chance I had."
+E  |||  
+N  |||  Like an enraged silverback, he raises his fists together for one final
+N  |||  blow. But instead of striking, his eyes catch something. He flips
+N  |||  back, jumping, as a silver streak cuts through the air, a split second
+N  |||  too slow to cut the agent’s head off. Instead, it slices cleanly
+N  |||  through the triceps of the raised arms, leaving nick on the throat.
+E  |||  
+N  |||  RAZOR, dressed in a black kimono and wielding two katanas, steps over
+N  |||  Morpheus as he pursues the agent. Smith rolls backwards, gains his
+N  |||  footing, and retreats from the swirling blades of death. He turns to
+N  |||  Morpheus:
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Go!"
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  RAZOR is strapped into one of the interface chairs, his eyes closed.
+E  |||  
+E  |||  
+M  |||  EXT. REST STOP
+E  |||  
+N  |||  HALF-DEAD MORPHEUS drags NIOBE to the booth.
+E  |||  
+N  |||  Behind them, Agent Smith backs away from RAZOR’S dual blades, on long,
+N  |||  one short. Whenever Razor attacks, Smith backs away. They circle one
+N  |||  another.
+E  |||  
+N  |||  MORPHEUS puts Niobe through the phone.
+E  |||  
+N  |||  RAZOR forces Smith around.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Come on, tough guy, come got some Razor."
+E  |||  
+N  |||  SMITH frowns and moves forward, but the whistling edge of a blade
+N  |||  makes him think twice. RAZOR holds the short sword parallel to the
+N  |||  ground, the long sword straight up. He hides his eyes behind the short
+N  |||  sword.
+E  |||  
+N  |||  SMITH’s back is against the sunset. The sun drops below a cloud.
+E  |||  
+N  |||  RAZOR flashes the light off his short blade, directly into Smith’s
+N  |||  eyes, blinding him as he strikes with the long sword.
+E  |||  
+N  |||  SMITH, blinded, turns and backs away. RAZOR attacks.
+E  |||  
+N  |||  IN the booth, Niobe is gone. MORPHEUS hangs up the phone. He can
+N  |||  barely stand up enough to reach the handset. When it rings he picks it
+N  |||  up. But he doesn’t disappear.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Reload me."
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "All right."
+E  |||  
+N  |||  SHE punches some keys. MORPHEUS’ 3-D avatar flashes on a console,
+N  |||  along with a massive array of weapons.
+E  |||  
+E  |||  
+M  |||  EXT. BOOTH (MATRIX) - SUNSET
+E  |||  
+N  |||  MORPHEUS disappears for a second, then reappears. Now he is perfectly
+N  |||  clean, and immaculately dressed. He replaces his sunglasses and kicks
+N  |||  through the remains of the booth, walking toward the fight as he
+N  |||  produces new weapons, heavy with ammo, from his long coat.
+E  |||  
+N  |||  RAZOR keeps swinging at SMITH - and missing. Seeing his chance, he
+N  |||  runs back for the ringing phone. SMITH pursues, almost on RAZOR when
+N  |||  the neo-samurai jumps in the air and pirouhettes, swinging one sword
+N  |||  after another, like a helicopter blade from Hell.
+E  |||  
+N  |||  IN the liquid world of slo-mo, the short sword cuts through Smith’s
+N  |||  outstretched fingers, sending them flying. The long sword grazes his
+N  |||  forearm, cutting through the fabric and taking off a slice of flesh.
+N  |||  The tip of the sword slices through his suit, cutting his tie off,
+N  |||  digging about an inch into his torso.
+E  |||  
+N  |||  SMITH collapses into the dust, his face a mask of blood and dust. He
+N  |||  doesn’t try to get up.
+E  |||  
+N  |||  RAZOR passes MORPHEUS, who backs up to the ringing phone booth. Razor
+N  |||  goes through first. MORPHEUS keeps his eyes and weapon locked on
+N  |||  SMITH, who makes no attempt to pursue. He stands calmly, and in a
+N  |||  dignified manner, wipes dust off his clothing as he watches Morpheus
+N  |||  step into the booth, and replace the phone.
+E  |||  
+N  |||  It rings. One hand on the receiver, Morpheus stares back at Smith.
+E  |||  
+N  |||  SMITH stands there, not attempting to pursue. Morpheus pauses, taking
+N  |||  advantage of the chance to observe his deadly enemy.
+E  |||  
+N  |||  SMITH stares at the booth for a second. Emotion twists his face, first
+N  |||  anger, then perhaps sadness. He’s lost. He’ll be in the Matrix
+N  |||  forever.
+E  |||  
+N  |||  With a quicksilver flash, his body reverts back to the shape of the
+N  |||  rookie cop.
+E  |||  
+N  |||  THE young man is left standing there. He is filthy, bloody, badly
+N  |||  sliced up, and the fingers of one hand are missing. He looks around at
+N  |||  the carnage as his mouth simply opens and closes, reflexively, in
+N  |||  shock. He focuses on Morpheus.
+E  |||  
+N  |||  The rebel answers the phone and disappears, leaving the cop, his body
+N  |||  broken and his mind blown.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  CIRCA helps MORPHEUS off the interface chair. Razor is triumphant.
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Did you see that? We beat him! A fucking agent! He gave up!"
+E  |||  
+N  |||  MORPHEUS, unflappable, rises and rushes to the operations consoles.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Where is Neo?"
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "Haven’t heard from him. The city is still cut off from the rest of
+D  |||  the Matrix."
+E  |||  
+N  |||  MORPHEUS appears enraged. He looks at Neo, supine on his chair.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Why does it still exist? Why hasn’t he destroyed it yet?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Maybe he can’t."
+E  |||  
+N  |||  TRINITY is sitting on the edge of her interface chair, looking like
+N  |||  hell.
+E  |||  
+C  |||  TRINITY
+E  |||  
+D  |||  "Is he even alive? Is he captured?"
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "Last we saw he was trying to blow up the building. Haven’t locked
+D  |||  onto him since."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "What? Why not?"
+E  |||  
+C  |||  CIRCA
+E  |||  
+D  |||  "Call me crazy, but I think he’s masking his own displacement
+D  |||  signature."
+E  |||  
+C  |||  RAZOR
+E  |||  
+D  |||  "His carrier signal just goes nowhere. But there is data going back
+D  |||  and forth."
+E  |||  
+N  |||  MORPHEUS stares at the data on the screens. The Matrix lives. He
+N  |||  pushes Razor out of the way, and starts hacking at the keyboard at an
+N  |||  incredible rate. It’s obvious Morpheus can handle computers.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I found him once. I’ll find him again."
+E  |||  
+N  |||  We go deeper into the miasma of green symbols, swallowed by the
+N  |||  blackness of the screen, and emerge into:
+E  |||  
+E  |||  
+M  |||  INT. PENTHOUSE APARTMENT (MATRIX) - NIGHT
+E  |||  
+N  |||  The apartment is luxuriously laid out and furnished. Gregory sits on a
+N  |||  leather couch, watching whatever on the tube with the sound off. He
+N  |||  absentmindedly manipulates a quarter over and around his fingers.
+N  |||  Finally, he stops and looks at the quarter.
+E  |||  
+N  |||  Holding it between his thumb and forefinger, he folds it in half as
+N  |||  though it was a disk of bubble gum. He folds it again, then rools it
+N  |||  as though it’s a musket ball.
+E  |||  
+N  |||  Chandra enters the living room and collapses on the couch. She reaches
+N  |||  points the remote at the TV, but Gregory puts his hand over it to get
+N  |||  her attention.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "So, you really don’t have any idea how you got here?"
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "No. I only remember being on the bike."
+E  |||  
+N  |||  GREGORY sighs.
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "Yeah, you took a pretty good knock on the head. Do you know how we
+D  |||  got this place?"
+E  |||  
+N  |||  She looks at him, annoyed.
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "Duh. We broke in. We don’t own a penthouse."
+E  |||  
+C  |||  GREGORY
+E  |||  
+D  |||  "What if I said we did?"
+E  |||  
+C  |||  CHANDRA
+E  |||  
+D  |||  "I’d say you’re insane."
+E  |||  
+N  |||  She finally gets the remote and changes the channel. The volume comes
+N  |||  on, louder and infinitely more tinny and obnoxious than anything in
+N  |||  life. Chandra laughs at the images as Gregory stares into space.
+E  |||  
+E  |||  
+E  |||  
+M  |||  INT. BURNT-OUT CATHEDRAL (MATRIX) - NIGHT
+E  |||  
+N  |||  NEO sits with his back against a blackened brick wall, staring ahead.
+N  |||  He’s in the belfry of an ancient, destroyed cathedral, among the
+N  |||  pigeon nests, soot, and bird crap.
+E  |||  
+N  |||  FROM here, in downtown, we can see the modern, uptown section, with
+N  |||  its gleaming skyscrapers. METACORTEX still stands, illuminated by
+N  |||  searchlights.
+E  |||  
+N  |||  NEO sits and broods. Isolated, his world turned upside down and right
+N  |||  side out in less than a week, his mind and spirit are a blank.
+E  |||  
+N  |||  Again, he tries his cell phone. Static. He collapses it and puts it.
+N  |||  Just as it leaves his mind, it rings. The face flips open.
+E  |||  
+N  |||  NEO puts it to his ear without speaking.
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "Neo."
+E  |||  
+N  |||  NEO’S grim expression is melted by relief.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Morpheus! Holy shit! You won’t believe what happened."
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "I know."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I couldn’t do it. Morpheus, there’s a problem."
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  MORPHEUS has the headset on. He stands and surveys NEO.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Yes, there is a problem. The Matrix exists."
+E  |||  
+E  |||  
+M  |||  EXT. BURNT-OUT CATHEDRAL (MATRIX) - NIGHT
+E  |||  
+N  |||  NEO’S relief fades into confusion.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "I know. I’m sorry."
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "And the problem is..."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Uh, it’s impossible. If the Matrix is destroyed, the people within
+D  |||  the system will die. They will all die. There has to be a different
+D  |||  way."
+E  |||  
+N  |||  MORPHEUS doesn’t respond.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Morpheus? Did you know this?"
+E  |||  
+N  |||  We hear nothing. NEO can hear his own heart beating. Anger and
+N  |||  confusion add to the already heavy mental burden he carries.
+E  |||  
+E  |||  
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "I didn’t say things would be easy, Neo."
+E  |||  
+N  |||  NEO sinks to the ground, shocked. He shakes his head.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "No."
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  MORPHEUS isn’t happy about what he has to tell his protégé, but there
+N  |||  is no bending his will. The others look on soberly.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "Neo, the Matrix... it’s not real. And it’s up to you to end it."
+E  |||  
+E  |||  
+E  |||  
+E  |||  
+M  |||  EXT. BURNT-OUT CATHEDRAL (MATRIX) - NIGHT
+E  |||  
+N  |||  NEO can’t stand the reality of the situation. He’s coming apart.
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "No, Morpheus, this can’t be! We can’t do this! We have to get the
+D  |||  people out."
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "Even if we could somehow get to them without cutting through their
+D  |||  defenses, there’s no way we can rehabilitate billions of people. They
+D  |||  wouldn’t even want to be woken up."
+E  |||  
+N  |||  Neo is silent.
+E  |||  
+C  |||  MORPHEUS (O.S.)
+E  |||  
+D  |||  "You can do it. You can free us."
+E  |||  
+C  |||  NEO
+E  |||  
+D  |||  "Why me? Why the fuck do I have to do this?"
+E  |||  
+N  |||  MORPHEUS is silent for a long while.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  Everyone is watching Morpheus, and no one can quite believe what is
+N  |||  happening.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "You know what needs to be done. Time is short. Make up your mind. The
+D  |||  only way you’re getting out of the Matrix is through its destruction."
+E  |||  
+N  |||  Morpheus kills the connection.
+E  |||  
+E  |||  
+M  |||  EXT. BURNT-OUT CATHEDRAL (MATRIX) - NIGHT
+E  |||  
+N  |||  Neo hears the line click dead. He can’t believe what has happened.
+E  |||  
+E  |||  
+M  |||  INT. MAIN DECK - NIGHT
+E  |||  
+N  |||  MORPHEUS drops the headset on the operations console. He types a few
+N  |||  commands on the keyboard, then addresses the crew.
+E  |||  
+C  |||  MORPHEUS
+E  |||  
+D  |||  "No one goes in. He’s on his own."
+E  |||  
+N  |||  He leaves the main deck.
+E  |||  
+N  |||  Trinity stares at Neo for a moment, her face fighting for composure No
+N  |||  one looks at her. She walks away, then leans against the bulkhead, her
+N  |||  body shaking.
+E  |||  
+E  |||  
+M  |||  EXT. BURNT-OUT CATHEDRAL (MATRIX) - NIGHT
+E  |||  
+N  |||  Neo closes the cell phone. He reaches to tuck it away, then pauses,
+N  |||  looking at it. He drops it to the ground and walks on.
+E  |||  
+N  |||  He stands out on a finger of crumbling church, the night air all
+N  |||  around him. The city lights are alive below. He focuses on the
+N  |||  Metacortex building. Leaving him there, we rush to it until we dive
+N  |||  into the dark shadows of the very building, going microscopically
+N  |||  close, until the darkness gives way to the glowing green miasma of
+N  |||  quantum code. It fills the screen before we bust through into
+N  |||  darkness again.
+E  |||  
+E  |||  
+C  |||  TO BE CONTINUED...
+E  |||  
