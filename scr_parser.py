@@ -24,7 +24,6 @@ def isSubsrting(s, subs):
     return False
 
 
-
 def parse():
     originalLine = "     "
 
@@ -139,34 +138,54 @@ def create_phrases(scene):
     characters_phrases = []
     number = 0
     name = None
+    number_of_d = 0
     for line in lines:
-        print(line)
+        ##print(line)
         if (len(line) > 0 and line[0] == 'C'):
             number += 1
             if name is not None:
-                characters_phrases.append((name, curr_phrase))
-            name = delete_whitespaces(line[7:])
+                characters_phrases.append((name, curr_phrase, number_of_d))
+            name = extract_name(line)
             curr_phrase = ""
         elif (len(line) > 0):
             if line[0] == 'D':
-                curr_phrase += line[7:]
-    characters_phrases.append((name, curr_phrase))
+                number_of_d += 1
+                curr_phrase = line[7:]
+    if name is not None:
+        characters_phrases.append((name, curr_phrase, number_of_d))
     return characters_phrases
 
 def isMentioned(phrase, name):
     return isSubsrting(phrase.lower(), name.lower())
 
 
+def extract_name(line):
+    clear_line = delete_whitespaces(line[7:])
+    i = 0
+    while (i < len(clear_line) and clear_line[i] != '('):
+        i += 1
+    name = clear_line[0:i - 1]
+    return name
 
+
+
+def get_characters():
+    characters = set()
+    file_in = open("ex_out.txt", "r")
+    line = None
+    while (line != ""):
+        line = file_in.readline()
+        if (len(line)>0  and line[0] == 'C'):
+
+            name = extract_name(line)
+            characters.add(name.upper())
+    ##print(characters)
+    return characters
 
 
 
 
 parse()
+get_characters()
 scenes = divide_into_scenes()
 arr = create_phrases(scenes[9])
-print(scenes[9])
-print(arr)
-
-
-
