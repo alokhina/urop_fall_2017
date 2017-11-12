@@ -5,14 +5,32 @@ def delete_whitespaces(line):
     if line == "":
         return line
     clear_line = line
-    while clear_line[i] == ' ':
+    while clear_line[i] == ' ' or clear_line[i] == '\n':
         clear_line = clear_line[1:]
         i += 1
     i = len(clear_line)-1
-    while clear_line[i] == ' ':
+    while clear_line[i] == ' ' or clear_line[i] == '\n':
         clear_line = clear_line[0:i]
         i -= 1
     return clear_line
+
+
+
+def delete_whitespaces_and_punctuation_marks(line):
+    i=0
+
+    if line == "":
+        return line
+    clear_line = line
+    while clear_line[i] == ' ' or clear_line[i] == '\n':
+        clear_line = clear_line[1:]
+        i += 1
+    i = len(clear_line)-1
+    while clear_line[i] == ' ' or clear_line[i] == '\n' or clear_line[i] == '.' or clear_line[i] == '!':
+        clear_line = clear_line[0:i]
+        i -= 1
+    return clear_line
+
 
 
 
@@ -94,7 +112,7 @@ def parse():
     file_out = open("ex_out.txt", "w")
 
     prevType = "X"
-    number_of_M = 0
+
     while (originalLine != ""):
         originalLine = file_in.readline()
         clear = clearLine(originalLine)
@@ -133,24 +151,26 @@ def divide_into_scenes():
 def create_phrases(scene):
     lines = scene.split('\n')
     curr_character = None
-    curr_phrase = None
+    curr_phrase = ""
     characters = set()
     characters_phrases = []
     number = 0
     name = None
     number_of_d = 0
+    is_new_dialogue = 1
     for line in lines:
-        ##print(line)
         if (len(line) > 0 and line[0] == 'C'):
             number += 1
             if name is not None:
                 characters_phrases.append((name, curr_phrase, number_of_d))
             name = extract_name(line)
             curr_phrase = ""
+            is_new_dialogue = 1
         elif (len(line) > 0):
             if line[0] == 'D':
-                number_of_d += 1
-                curr_phrase = line[7:]
+                number_of_d += is_new_dialogue
+                is_new_dialogue = 0
+                curr_phrase += line[7:]
     if name is not None:
         characters_phrases.append((name, curr_phrase, number_of_d))
     return characters_phrases
@@ -160,11 +180,11 @@ def isMentioned(phrase, name):
 
 
 def extract_name(line):
-    clear_line = delete_whitespaces(line[7:])
+    clear_line = delete_whitespaces_and_punctuation_marks(line[7:])
     i = 0
     while (i < len(clear_line) and clear_line[i] != '('):
         i += 1
-    name = clear_line[0:i - 1]
+    name = clear_line[0:i]
     return name
 
 
@@ -179,7 +199,6 @@ def get_characters():
 
             name = extract_name(line)
             characters.add(name.upper())
-    ##print(characters)
     return characters
 
 
