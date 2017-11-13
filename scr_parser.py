@@ -5,12 +5,17 @@ def delete_whitespaces(line):
     if line == "":
         return line
     clear_line = line
-    while clear_line[i] == ' ' or clear_line[i] == '\n':
+    while clear_line[0] == ' ' or clear_line[0] == '\n':
+
         clear_line = clear_line[1:]
-        i += 1
+        if len(clear_line) == 0:
+            return ""
+
     i = len(clear_line)-1
     while clear_line[i] == ' ' or clear_line[i] == '\n':
         clear_line = clear_line[0:i]
+        if len(clear_line) == 0:
+            return ""
         i -= 1
     return clear_line
 
@@ -22,13 +27,19 @@ def delete_whitespaces_and_punctuation_marks(line):
     if line == "":
         return line
     clear_line = line
-    while clear_line[i] == ' ' or clear_line[i] == '\n':
+    while clear_line[0] == ' ':
         clear_line = clear_line[1:]
-        i += 1
+        if clear_line == "":
+            return line
+
     i = len(clear_line)-1
-    while clear_line[i] == ' ' or clear_line[i] == '\n' or clear_line[i] == '.' or clear_line[i] == '!':
+    while clear_line[i] == ' ' or clear_line[i] == '\n' or clear_line[i] == '.' or clear_line[i] == '!' or clear_line[i] == '\r' and clear_line[i] == '\t':
         clear_line = clear_line[0:i]
+        if clear_line == "":
+            return line
         i -= 1
+    if clear_line[-1] == ' ':
+        clear_line = clear_line[:len(clear_line)-2]
     return clear_line
 
 
@@ -64,10 +75,19 @@ def parse():
 
         def isCharacterName():
             line1 = line
+            line2 = delete_whitespaces(line)
+            b0 = not line2[0].isdigit();
             b1 =  (line1.upper() == line and re.sub(r'\s*', '', line1) == line)
             b2 = isSubsrting(line, "(CONT\'D)")
+            b6 = isSubsrting(line, "(CONT.)")
             b3 = isSubsrting(line, "(V.O.)")
-            return (b1 or b2 or b3) and len(line)>3
+            b4 = not isSubsrting(line, "CUT")
+            b5 = line == line.upper()
+            return b0 and (b1 or b2 or b3 or b6) and len(line)>2 and b4 and b5
+
+        def isBetweenDialogue():
+            line1 =  delete_whitespaces(line)
+            return line1[0].isdigit() and line1[-1].isdigit()
 
         def isMetaData():
             line1 = line
@@ -97,6 +117,9 @@ def parse():
         if isCharacterName():
             return "C"
 
+        if isBetweenDialogue():
+            return "X"
+
         if isMetaData():
             return "M"
 
@@ -106,7 +129,7 @@ def parse():
         if isSceneDescription():
             return  "N"
 
-        return "C"
+        return "M"
 
     file_in = open("ex_in.txt", "r")
     file_out = open("ex_out.txt", "w")
@@ -122,8 +145,9 @@ def parse():
         ##    number_of_M += 1
         ##    file_out.write(type+str(number_of_M) + "|||  " + clear + "\n")
         ##else:
-        file_out.write(type + "  |||  " + clear+"\n")
-        prevType = type
+        if type != "X":
+            file_out.write(type + "  |||  " + clear+"\n")
+            prevType = type
 
     file_out.close()
     file_in.close()
@@ -195,12 +219,21 @@ def get_characters():
     line = None
     while (line != ""):
         line = file_in.readline()
-        if (len(line)>0  and line[0] == 'C'):
+        delete_whitespaces(line)
+
+        if (len(line)>4  and line[0] == 'C'):
 
             name = extract_name(line)
-            characters.add(name.upper())
+            if len(name)>0:
+                if name[-1] == ' ':
+                    name = name[:len(name)-1]
+                characters.add(name.upper())
+            ##print("###", name.upper())
+    for c in characters:
+        if c[-1] == ' ':
+            print("FUCK")
+    print(characters)
     return characters
-
 
 
 

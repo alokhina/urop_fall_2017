@@ -51,11 +51,18 @@ class MovieScript:
             self.scene_number = number
 
         def __str__(self):
+            if (len(self.characters_set) == 0):
+                return "SCENE #"+str(self.scene_number)+" has no characters\n"
             result  = "________________________\n"
             result += "SCENE #"+str(self.scene_number)+"\n\n"
             result += "CHARACTERS IN SCENE:\n"
             result += str(self.characters_set)
             result += "\n"
+            for p in self.phrases:
+                if len(p.mentioned_characters) >0:
+                    result += p.character + " mentions " + str(p.mentioned_characters)+":\n"
+                    result += ">>>  " + p.text +"  <<<\n"
+
             result += "\n"
             result += "DIALOGUES IN SCENE:\n"
             for d in self.dialogues:
@@ -136,6 +143,8 @@ class MovieScript:
         scr_parser.parse()
         scenes = scr_parser.divide_into_scenes()
         set_characters = scr_parser.get_characters()
+
+
         number_of_scenes = 0
 
 
@@ -145,7 +154,7 @@ class MovieScript:
             number_of_scenes += 1
             current_scene = MovieScript.Scene(scene_text, number_of_scenes)
             current_scene.analyse(set_characters)
-
+            self.scenes.append(current_scene)
             print(str(current_scene))
 
             #phrases = scr_parser.create_phrases(scene)
