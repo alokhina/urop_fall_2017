@@ -28,6 +28,9 @@ class MovieScript:
             ##print("<<<<")
             ##all features
 
+
+
+
     class Dialogue:
         def __init__(self, ):
             self.character1 = "SOMEONE"
