@@ -1,4 +1,5 @@
 import re
+import nltk
 
 def delete_whitespaces(line):
     i=0
@@ -161,12 +162,14 @@ def isMentioned(phrase, name):
 
 
 
+#
+# parse()
+# scenes = divide_into_scenes()
+# arr = create_phrases(scenes[9])
+# print(scenes[9])
+# print(arr)
+#
 
-parse()
-scenes = divide_into_scenes()
-arr = create_phrases(scenes[9])
-print(scenes[9])
-print(arr)
 
-
-
+text = nltk.tokenize.word_tokenize("And now for something completely different")
+print(nltk.pos_tag(text))

@@ -199,6 +199,8 @@ def create_phrases(scene):
         characters_phrases.append((name, curr_phrase, number_of_d))
     return characters_phrases
 
+
+
 def isMentioned(phrase, name):
     return isSubsrting(phrase.lower(), name.lower())
 
